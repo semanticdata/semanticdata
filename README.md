@@ -4,7 +4,7 @@
   <samp>Hello there. I'm <a href="https://purplewastaken.com">~data</a>.<br> I'm trying to do a lot of stuff with computers right now.<br><br>#markdown, #html, #css, #javascript</samp>
   <br>
   <br>
-  <img src="https://media.giphy.com/media/3o7WIHsSrmSmbfdwIM/giphy.gif" width="350" />
+<!-- <img src="https://media.giphy.com/media/3o7WIHsSrmSmbfdwIM/giphy.gif" width="350" /> -->
 </p>
 
 ---
