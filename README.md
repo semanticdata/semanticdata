@@ -1,4 +1,4 @@
-## Hi, I'm Miguel.
+# Hi, I'm Miguel.
 
 In my free time, I like learning new things. I have been busy learning HTML, CSS, JavaScript; learning git, and creating my own simple Firefox Extensions.
 
