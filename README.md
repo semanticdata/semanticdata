@@ -1,9 +1,12 @@
 # Hi, I'm Miguel.
 
-In my free time, I like learning new things. I have been busy learning HTML, CSS, JavaScript; learning git, and creating my own simple Firefox Extensions.
+In my free time, I like learning new things. Recently, I have been busy:
+- ...learning git and GitHub.
+- ...using HTML, CSS, and JavaScript to design websites.
+- ...creating my own simple Firefox Extensions.
 
 Feel free to drop by my [blog](https://stressed.dev), and/or my personal [website](https://miguelpimentel.do). I have a longer [about me](https://miguelpimentel.do/about) you can read.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=datastring&layout=compact)
+## Top Languages Used
 
-![GitHub repo size](https://img.shields.io/github/repo-size/datastring/datastring)
+<img alt="User Top Languages Used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=datastring&layout=compact" />
