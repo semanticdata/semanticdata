@@ -14,4 +14,7 @@ Feel free to drop by my [blog](https://stressed.dev), and/or my personal [websit
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Blogging to Tame the Monkey Mind](https://stressed.dev/blogging-to-tame-the-monkey-mind/)
+- [Unlock max-width of Firefox&#39;s sidebar](https://stressed.dev/unlock-max-width-of-firefoxs-sidebar/)
+- [Hello World!](https://stressed.dev/hello-world/)
 <!-- BLOG-POST-LIST:END -->
