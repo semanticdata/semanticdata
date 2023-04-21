@@ -7,7 +7,7 @@ In my free time, I like learning new things. Recently, I have been busy:
 
 Feel free to drop by my [blog](https://stressed.dev), and/or my personal [website](https://miguelpimentel.do). I have a longer [about me](https://miguelpimentel.do/about) you can read.
 
-<center><img alt="User Top Languages Used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=datastring&layout=compact" /></center>
+<img align=center; alt="User Top Languages Used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=datastring&layout=compact" />
 
 ## 📕 Latest Blog Posts
 
