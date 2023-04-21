@@ -11,7 +11,7 @@ Feel free to drop by my [blog](https://stressed.dev), and/or my personal [websit
 
 <img alt="User Top Languages Used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=datastring&layout=compact" />
 
-# Blog posts
+## 📕 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Blogging to Tame the Monkey Mind](https://stressed.dev/blogging-to-tame-the-monkey-mind/)
