@@ -7,11 +7,11 @@ In my free time, I like learning new things. Recently, I have been busy:
 
 Feel free to drop by my [blog](https://stressed.dev), and/or my personal [website](https://miguelpimentel.do). I have a longer [about me](https://miguelpimentel.do/about) you can read.
 
-## Top Languages Used
+## 🗣 Top Languages Used
 
 <img alt="User Top Languages Used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=datastring&layout=compact" />
 
-## 📕 📚 Latest Blog Posts
+## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Blogging to Tame the Monkey Mind](https://stressed.dev/blogging-to-tame-the-monkey-mind/)
