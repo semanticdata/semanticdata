@@ -17,8 +17,8 @@ Feel free to drop by my [blog](https://stressed.dev), and/or my personal [websit
 
 ## 📈 GitHub Graphs
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=datastring&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=datastring&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=datastring&theme=material-palenight&hide_border=true&border_radius=5&mode=weekly&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=datastring&theme=material-palenight&border_radius=5&mode=weekly&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
-[![Datastring's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=datastring&theme=material-palenight&height=200&area=true&radius=5&hide_title=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Datastring's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=datastring&theme=material-palenight&height=200&area=true&radius=5&hide_title=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
