@@ -17,7 +17,7 @@ Feel free to drop by my [blog](https://stressed.dev), and/or my personal [websit
 
 ## 📈 GitHub Graphs
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=datastring&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-datastring.vercel.app/api/top-langs/?username=datastring&layout=compact&theme=material-palenight)](https://github.com/datastring/github-readme-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=datastring&theme=material-palenight&border_radius=5&mode=weekly&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
