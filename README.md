@@ -7,7 +7,7 @@ In my free time, I like learning new things. Recently, I have been busy:
 
 Feel free to drop by my [blog](https://stressed.dev), and/or my personal [website](https://miguelpimentel.do). I have a longer [about me](https://miguelpimentel.do/about) you can read.
 
-## 📕 Latest Blog Posts
+## 📕 Latest Blog Posts on [stressed.dev](https://stressed.dev/)
 
 <!-- BLOG-POST-LIST:START -->
 - [Blogging to Tame the Monkey Mind](https://stressed.dev/blogging-to-tame-the-monkey-mind/)
