@@ -1,5 +1,9 @@
 # Hi, I'm Miguel.
 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E&style=for-the-badge)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?logo=markdown&logoColor=white&style=for-the-badge)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white&style=for-the-badge) 
+
 In my free time, I like learning new things. Recently, I have been busy:
 - ...learning git and GitHub.
 - ...using HTML, CSS, and JavaScript to design websites.
