@@ -1,6 +1,5 @@
 # Hi, I'm Miguel.
 
-
 In my free time, I like learning new things. Recently, I have been busy:
 - ...learning git and GitHub.
 - ...using HTML, CSS, and JavaScript to design websites.
