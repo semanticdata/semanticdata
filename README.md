@@ -10,9 +10,9 @@ Feel free to drop by my [blog](https://stressed.dev), and/or my personal [websit
 ## 📕 Latest Blog Posts on [stressed.dev](https://stressed.dev/)
 
 <!-- BLOG-POST-LIST:START -->
-- [Blogging to Tame the Monkey Mind](https://stressed.dev/blogging-to-tame-the-monkey-mind/)
-- [Unlock max-width of Firefox&#39;s sidebar](https://stressed.dev/unlock-max-width-of-firefoxs-sidebar/)
-- [Hello World!](https://stressed.dev/hello-world/)
+- [Blogging to Tame the Monkey Mind](https://miguelpimentel.do/betise/posts/monkey-brain/)
+- [Unlock the Sidebar Width in Firefox](https://miguelpimentel.do/betise/posts/unlock-firefox-sidebar/)
+- [Hello World!](https://miguelpimentel.do/betise/posts/hello-world/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📈 GitHub Graphs
