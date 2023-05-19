@@ -5,9 +5,7 @@ In my free time, I like learning new things. Recently, I have been busy:
 - ...using HTML, CSS, and JavaScript to design websites.
 - ...creating my own simple Firefox Extensions.
 
-Feel free to drop by my [blog](https://stressed.dev), and/or my personal [website](https://miguelpimentel.do). I have a longer [about me](https://miguelpimentel.do/about) you can read.
-
-## 📕 Latest Blog Posts on [stressed.dev](https://stressed.dev/)
+## 📕 Latest Blog Posts on [my blog]()
 
 <!-- BLOG-POST-LIST:START -->
 - [Blogging to Tame the Monkey Mind](https://miguelpimentel.do/betise/posts/monkey-brain/)
