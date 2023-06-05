@@ -5,7 +5,7 @@ In my free time, I like learning new things. Recently, I have been busy:
 - ...using HTML, CSS, and JavaScript to design websites.
 - ...creating my own simple Firefox Extensions.
 
-## 📕 Latest Blog Posts on [my blog]()
+## 📕 Latest [Blog](https://forgetful.dev/posts/) Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Blogging to Tame the Monkey Mind](https://forgetful.dev/posts/blogging-to-tame-the-monkey-brain/)
