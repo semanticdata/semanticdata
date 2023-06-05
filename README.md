@@ -9,6 +9,7 @@ In my free time, I like learning new things. Recently, I have been busy:
 
 <!-- BLOG-POST-LIST:START -->
 - [Blogging to Tame the Monkey Mind](https://forgetful.dev/posts/blogging-to-tame-the-monkey-brain/)
+- [Unlock Sidebar Width in Firefox](https://forgetful.dev/posts/unlock-the-sidebar-width-in-firefox/)
 - [Hello World!](https://forgetful.dev/posts/hello-world/)
 <!-- BLOG-POST-LIST:END -->
 
