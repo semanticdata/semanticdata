@@ -8,9 +8,8 @@ In my free time, I like learning new things. Recently, I have been busy:
 ## 📕 Latest Blog Posts on [my blog]()
 
 <!-- BLOG-POST-LIST:START -->
-- [Blogging to Tame the Monkey Mind](https://miguelpimentel.do/betise/posts/monkey-brain/)
-- [Unlock the Sidebar Width in Firefox](https://miguelpimentel.do/betise/posts/unlock-firefox-sidebar/)
-- [Hello World!](https://miguelpimentel.do/betise/posts/hello-world/)
+- [Blogging to Tame the Monkey Mind](https://forgetful.dev/posts/blogging-to-tame-the-monkey-brain/)
+- [Hello World!](https://forgetful.dev/posts/hello-world/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📈 GitHub Graphs
