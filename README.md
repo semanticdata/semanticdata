@@ -1,11 +1,11 @@
 ## Hi there, I'm Miguel 👋
 
 - 🔭 I’m currently working on … website design.
-- 🌱 I’m currently learning …  about typography.
-- 👯 I’m looking to collaborate on … small learning oriented projects.
+- 🌱 I’m currently learning about … typography.
+- 👯 I’m looking to collaborate on … learning projects.
 - 🤔 I’m looking for help to … stop procrastinating.
-- 💬 Ask me about … public infrastructure.
-- 📫 You can reach me … via [email](mailto:little.iron1021@fastmail.com).
+- 💬 Ask me about … public infrastructure and fire science.
+- 📫 You can reach me via … [email](mailto:little.iron1021@fastmail.com).
 - 😄 Pronouns: …  he/him/his.
 - ⚡ Fun fact: … Minnesota is the only state that is the only source of three major rivers: the Mississippi, Red River of the North, and the Saint Louis River. In fact, Minnesota is the only state where water only flows out from, and not into. It has been called the "Center of the water universe of North America." Its waters flow to the Gulf of Mexico, Great Lakes, Hudson Bay, and Arctic Ocean.
 
