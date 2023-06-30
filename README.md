@@ -20,7 +20,7 @@
 ## 📈 GitHub Stats
 
 <p>
-<img height=200 src="https://github-readme-stats-datastring.vercel.app/api/top-langs/?username=datastring&layout=compact&theme=material-palenight" />
+<img height=200 src="https://github-readme-stats-datastring.vercel.app/api/top-langs/?username=datastring&layout=compact&theme=material-palenight&exclude_repo=love2d-tutorial-scrolling-shooter,love2d-tutorial-platformer" />
 <img height=200 src="https://github-readme-stats.vercel.app/api?username=datastring&hide=stars&show_icons=true&theme=material-palenight&hide_rank=true" />
 <img src="https://streak-stats.demolab.com?user=datastring&theme=material-palenight&mode=weekly&exclude_days=Sun%2CSat&hide_longest_streak=true&border_radius=8" />
 </p>
