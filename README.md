@@ -19,9 +19,9 @@
 
 ## 📈 GitHub Stats
 
-<img height=200 src="https://github-readme-stats-datastring.vercel.app/api/top-langs/?username=datastring&layout=compact&theme=material-palenight&exclude_repo=love2d-tutorial-scrolling-shooter,love2d-tutorial-platformer" />
-<img height=200 src="https://github-readme-stats.vercel.app/api?username=datastring&hide=stars&show_icons=true&theme=material-palenight&hide_rank=true" />
-<img src="https://streak-stats.demolab.com?user=datastring&theme=material-palenight&mode=weekly&exclude_days=Sun%2CSat&hide_longest_streak=true&border_radius=8" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=datastring&theme=dracula" />
+<img height=200 src="https://github-readme-stats-datastring.vercel.app/api/top-langs/?username=semanticdata&layout=compact&theme=material-palenight&exclude_repo=love2d-tutorial-scrolling-shooter,love2d-tutorial-platformer" />
+<img height=200 src="https://github-readme-stats.vercel.app/api?username=semanticdata&hide=stars&show_icons=true&theme=material-palenight&hide_rank=true" />
+<img src="https://streak-stats.demolab.com?user=semanticdata&theme=material-palenight&mode=weekly&exclude_days=Sun%2CSat&hide_longest_streak=true&border_radius=8" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=semanticdata&theme=dracula" />
 
-![](https://hits.dwyl.com/datastring/datastring.svg?style=flat-square)
+![](https://hits.dwyl.com/semanticdata/semanticdata.svg?style=flat-square)
