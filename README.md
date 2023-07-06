@@ -9,7 +9,7 @@
 - 😄 Pronouns: …  he/him/his.
 - ⚡ Fun fact: … Minnesota is the only state that is the only source of three major rivers: the Mississippi, Red River of the North, and the Saint Louis River. In fact, Minnesota is the only state where water only flows out from, and not into. It has been called the "Center of the water universe of North America." Its waters flow to the Gulf of Mexico, Great Lakes, Hudson Bay, and Arctic Ocean. 
 
-## 📕 Latest [Blog](https://miguelpimentel.do/blog/) Posts
+## 📕 Latest [Blog](https://miguelpimentel.do/) Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Being a Firefighter Does Not Save You From Burnout](https://miguelpimentel.do/posts/on-burning-out/)
