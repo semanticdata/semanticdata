@@ -14,7 +14,6 @@
 <!-- BLOG-POST-LIST:START -->
 - [Being a Firefighter Does Not Save You From Burnout](https://miguelpimentel.do/posts/on-burning-out/)
 - [Blogging to Tame the Monkey Mind](https://miguelpimentel.do/posts/monkey-brain/)
-- [Unlock the Sidebar Width in Firefox](https://miguelpimentel.do/posts/unlock-firefox-sidebar/)
 - [Hello World!](https://miguelpimentel.do/posts/hello-world/)
 <!-- BLOG-POST-LIST:END -->
 
