@@ -1,6 +1,6 @@
 ## Hi there, I'm Miguel 👋
 
-- 🔭 I’m currently working on … my [blog](https://miguelpimentel.do/) and [digital garden](https://forgetful.dev/).
+- 🔭 I’m currently working on … my [blog](https://miguelpimentel.do/) and [digital garden](https://purplewastaken.com/).
 - 🌱 I’m currently learning about … typography.
 - 👯 I’m looking to collaborate on … anything really.
 - 🤔 I’m looking for help … to stop procrastinating.
