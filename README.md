@@ -11,10 +11,11 @@
 ## 📝 Most Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Being a Firefighter Does Not Save You From Burnout](https://miguelpimentel.do/on-burning-out/)
-- [Blogging to Tame the Monkey Mind](https://miguelpimentel.do/monkey-brain/)
-- [Unlock the Sidebar Width in Firefox](https://miguelpimentel.do/unlock-firefox-sidebar/)
-- [Hello World](https://miguelpimentel.do/hello-world/)
+- [SSD / NVMe Comparison](https://miguelpimentel.do/blog/ssd-nvme-comparison/)
+- [Aurora Borealis Sighting](https://miguelpimentel.do/blog/aurora-borealis/)
+- [Being a Firefighter Does Not Save You From Burnout](https://miguelpimentel.do/blog/on-burning-out/)
+- [Blogging to Tame the Monkey Mind](https://miguelpimentel.do/blog/monkey-brain/)
+- [Unlock the Sidebar Width in Firefox](https://miguelpimentel.do/blog/unlock-firefox-sidebar/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📈 GitHub Stats
