@@ -1,12 +1,12 @@
 ## 👋🏼 Hi there, I'm Miguel
 
-- 🔭 I’m currently working on … my [blog](https://miguelpimentel.do/) and [digital garden](https://forgetfulnotes.com/).
-- 🌱 I’m currently learning about … typography.
-- 👯 I’m looking to collaborate on … anything really.
-- 🤔 I’m looking for help … to stop procrastinating.
-- 💬 Ask me about … public infrastructure and fire science.
+- 🔭 Currently working on … my [website](https://miguelpimentel.do/) and [digital garden](https://forgetfulnotes.com/).
+- 🌱 Currently learning … web development.
+- 👯 Looking to collaborate on … small projects.
+- 🤔 Looking for help … keeping me accountable.
+- 💬 Ask me about … public infrastructure.
+- 🎧 Listening to … [K.Flay](https://www.kflay.com/) and [Gin Wigmore](https://www.ginwigmoremusic.com/home).
 - 📫 You can reach me via … [email](mailto:contact@miguelpimentel.do) or [Discord](https://discord.com/users/244318363734507520).
-- ⚡ Fun fact: … Minnesota is the only state that is the only source of three major rivers: the Mississippi, Red River of the North, and the Saint Louis River. In fact, Minnesota is the only state where water only flows out from, and not into. It has been called the "Center of the water universe of North America." Its waters flow to the Gulf of Mexico, Great Lakes, Hudson Bay, and Arctic Ocean. 
 
 ## 📝 Most Recent Blog Posts
 
@@ -20,7 +20,9 @@
 
 ## 📈 GitHub Stats
 
-<img height=auto src="https://github-readme-stats.vercel.app/api?username=semanticdata&show_icons=true&theme=material-palenight&hide_rank=true&border_radius=6" /> <img height=auto src="https://streak-stats.demolab.com?user=semanticdata&theme=material-palenight&mode=weekly&hide_longest_streak=false&border_radius=6" />
+<img height=auto src="https://streak-stats.demolab.com?user=semanticdata&theme=material-palenight&mode=weekly&hide_longest_streak=false&border_radius=6" />
+
+<img height=auto src="https://github-readme-stats.vercel.app/api?username=semanticdata&show_icons=true&theme=material-palenight&hide_rank=true&border_radius=6" />
 
 <img height=auto src="https://github-readme-stats.vercel.app/api/top-langs/?username=semanticdata&hide=markdown&layout=compact&theme=material-palenight" />
 
