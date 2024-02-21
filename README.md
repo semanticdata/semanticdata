@@ -11,11 +11,11 @@
 ## 📝 Most Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [SSD / NVMe Comparison](https://miguelpimentel.do/blog/ssd-nvme-comparison/)
-- [Aurora Borealis Sighting](https://miguelpimentel.do/blog/aurora-borealis/)
-- [Being a Firefighter Does Not Save You From Burnout](https://miguelpimentel.do/blog/on-burning-out/)
-- [Blogging to Tame the Monkey Mind](https://miguelpimentel.do/blog/monkey-brain/)
-- [Unlock the Sidebar Width in Firefox](https://miguelpimentel.do/blog/unlock-firefox-sidebar/)
+- [SSD / NVMe Comparison](http://localhost:8080/en/writing/ssd-nvme/)
+- [Notes on Aurora Borealis](http://localhost:8080/en/writing/aurora-borealis/)
+- [Being a Firefighter Does Not Save You From Burnout](http://localhost:8080/en/writing/burning-out/)
+- [Unlock the Sidebar Width in Firefox](http://localhost:8080/en/writing/firefox-sidebar/)
+- [Blogging to Tame the Monkey Mind](http://localhost:8080/en/writing/monkey-brain/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📈 GitHub Stats
