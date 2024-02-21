@@ -17,4 +17,4 @@ jobs:
       - name: Pull Blog Posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://miguelpimentel.do/en/feed.xml"
+          feed_list: "https://miguelpimentel.do/en/feed.xml, https://elva-lime.vercel.app/en/feed.xml"
