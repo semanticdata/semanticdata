@@ -12,10 +12,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [SSD / NVMe Comparison](/en/writing/ssd-nvme/)
+- [SSD / NVMe Comparison](/en/writing/ssd-nvme/)
+- [Notes on Aurora Borealis](/en/writing/aurora-borealis/)
 - [Notes on Aurora Borealis](/en/writing/aurora-borealis/)
 - [Being a Firefighter Does Not Save You From Burnout](/en/writing/burning-out/)
-- [Unlock the Sidebar Width in Firefox](/en/writing/firefox-sidebar/)
-- [Blogging to Tame the Monkey Mind](/en/writing/monkey-brain/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📈 GitHub Stats
