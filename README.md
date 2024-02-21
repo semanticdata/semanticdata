@@ -11,6 +11,11 @@
 ## 📝 Most Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SSD / NVMe Comparison](http://localhost:8080/en/writing/ssd-nvme/)
+- [Notes on Aurora Borealis](http://localhost:8080/en/writing/aurora-borealis/)
+- [Being a Firefighter Does Not Save You From Burnout](http://localhost:8080/en/writing/burning-out/)
+- [Unlock the Sidebar Width in Firefox](http://localhost:8080/en/writing/firefox-sidebar/)
+- [Blogging to Tame the Monkey Mind](http://localhost:8080/en/writing/monkey-brain/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📈 GitHub Stats
