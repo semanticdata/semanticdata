@@ -11,11 +11,11 @@
 ## 📝 Most Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [SSD / NVMe Comparison](https://miguelpimentel-do.vercel.app/posts/2023-07-28-ssd-nvme-comparison/)
-- [Aurora Borealis Sighting](https://miguelpimentel-do.vercel.app/posts/2023-07-12-aurora-borealis/)
-- [Being a Firefighter Does Not Save You From Burnout](https://miguelpimentel-do.vercel.app/posts/2023-07-06-on-burning-out/)
-- [Blogging to Tame the Monkey Mind](https://miguelpimentel-do.vercel.app/posts/2023-04-12-monkey-brain/)
-- [Unlock the Sidebar Width in Firefox](https://miguelpimentel-do.vercel.app/posts/2023-03-19-unlock-firefox-sidebar/)
+- [SSD / NVMe Comparison](https://miguelpimentel.do/posts/2023-07-28-ssd-nvme-comparison/)
+- [Aurora Borealis Sighting](https://miguelpimentel.do/posts/2023-07-12-aurora-borealis/)
+- [Being a Firefighter Does Not Save You From Burnout](https://miguelpimentel.do/posts/2023-07-06-on-burning-out/)
+- [Blogging to Tame the Monkey Mind](https://miguelpimentel.do/posts/2023-04-12-monkey-brain/)
+- [Unlock the Sidebar Width in Firefox](https://miguelpimentel.do/posts/2023-03-19-unlock-firefox-sidebar/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📈 GitHub Stats
