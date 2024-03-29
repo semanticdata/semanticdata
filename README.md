@@ -11,9 +11,9 @@
 ## 📝 Most Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [My Third Blog Post](https://miguelpimentel.do/posts/post-3/)
-- [My Second Blog Post](https://miguelpimentel.do/posts/post-2/)
-- [My First Blog Post](https://miguelpimentel.do/posts/post-1/)
+- [Being a Firefighter Does Not Save You From Burnout](https://miguelpimentel.do/posts/1-burnout/)
+- [Blogging to Tame the Monkey Mind](https://miguelpimentel.do/posts/2-monkey/)
+- [Hello World](https://miguelpimentel.do/posts/3-hello/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📈 GitHub Stats
