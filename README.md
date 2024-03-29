@@ -8,7 +8,7 @@
 - 🎧 Listening to … [K.Flay](https://en.wikipedia.org/wiki/K.Flay), [Gin Wigmore](https://en.wikipedia.org/wiki/Gin_Wigmore), and [Arkells](https://en.wikipedia.org/wiki/Arkells).
 - 📫 You can reach me via … [email](mailto:contact@miguelpimentel.do) or [Discord](https://discord.com/users/244318363734507520).
 
-## 📝 Most Recent Blog Posts
+## 📝 Most Recent Notes and Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [SSD / NVMe Comparison](https://miguelpimentel.do/notes/1-ssd/)
