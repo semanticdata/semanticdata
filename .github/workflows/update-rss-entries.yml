@@ -21,4 +21,4 @@ jobs:
           feed_list: "https://miguelpimentel.do/rss.xml,https://miguelpimentel.do/notes.xml"
           feed_names: "Blog,Notes"
           max_post_count: "5"
-          template: "$newline- [$feedname] [$title]($url)"
+          template: "$newline- [$feedName] [$title]($url)"
