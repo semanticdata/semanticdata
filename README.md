@@ -17,7 +17,9 @@
 <!-- BLOG-POST-LIST:END -->
 
 <!-- NOTES:START -->
-<!-- NOTES:END -->
+- [SSD / NVMe Comparison](https://miguelpimentel.do/notes/1-ssd/)
+- [Aurora Borealis Sighting](https://miguelpimentel.do/notes/2-aurora/)
+- [Unlock the Sidebar Width in Firefox](https://miguelpimentel.do/notes/3-firefox/)<!-- NOTES:END -->
 
 ## 📈 GitHub Stats
 
