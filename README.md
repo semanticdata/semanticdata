@@ -13,7 +13,11 @@
 <!-- BLOG-POST-LIST:START -->
 - [Being a Firefighter Does Not Save You From Burnout](https://miguelpimentel.do/posts/1-burnout/)
 - [Blogging to Tame the Monkey Mind](https://miguelpimentel.do/posts/2-monkey/)
-- [Hello World](https://miguelpimentel.do/posts/3-hello/)<!-- BLOG-POST-LIST:END -->
+- [Hello World](https://miguelpimentel.do/posts/3-hello/)
+<!-- BLOG-POST-LIST:END -->
+
+<!-- NOTES:START -->
+<!-- NOTES:END -->
 
 ## 📈 GitHub Stats
 
