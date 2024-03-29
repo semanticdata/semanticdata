@@ -23,8 +23,7 @@ Hello, my name is Miguel Pimentel. I am a self-taught hobby developer with too m
 <!-- NOTES:START -->
 - [SSD / NVMe Comparison](https://miguelpimentel.do/notes/1-ssd/)
 - [Aurora Borealis Sighting](https://miguelpimentel.do/notes/2-aurora/)
-- [Unlock the Sidebar Width in Firefox](https://miguelpimentel.do/notes/3-firefox/)
-<!-- NOTES:END -->
+- [Unlock the Sidebar Width in Firefox](https://miguelpimentel.do/notes/3-firefox/)<!-- NOTES:END -->
 
 ## 📈 GitHub Stats
 
