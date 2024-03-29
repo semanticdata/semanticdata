@@ -1,15 +1,15 @@
-name: Update RSS entries in README
+name: Update Blog RSS Feed in README
 on:
   workflow_dispatch: # Run workflow manually
   schedule: # Run workflow automatically
-    - cron: '0 5 * * *' # Runs every day at 05:00
+    - cron: '0 4 * * *' # Runs every day at 05:00
 
 permissions:
   contents: write # Generated contents to README
 
 jobs:
   update-readme-with-blog:
-    name: Update README with latest RSS entries
+    name: Update Blog RSS Feed in README
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -18,7 +18,6 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://miguelpimentel.do/rss.xml"
-          # feed_list: "https://miguelpimentel.do/rss.xml,https://miguelpimentel.do/notes.xml"
-          feed_names: "Blog"
-          max_post_count: "5"
           template: "$newline- [$title]($url)"
+          # feed_names: "Blog"
+          # max_post_count: "5"
