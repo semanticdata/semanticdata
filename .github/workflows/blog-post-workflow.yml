@@ -17,5 +17,5 @@ jobs:
       - name: Pull Blog Posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          # feed_list: "https://miguelpimentel.do/feed.xml"
-          feed_list: "https://miguelpimentel.do/rss.xml"
+          # feed_list: "https://miguelpimentel.do/rss.xml"
+          feed_list: "https://miguelpimentel.do/rss.xml,https://miguelpimentel.do/notes.xml"
