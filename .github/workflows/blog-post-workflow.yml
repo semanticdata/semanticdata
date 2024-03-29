@@ -1,4 +1,4 @@
-name: Latest blog post workflow
+name: Update RSS entries in README
 on:
   workflow_dispatch: # Run workflow manually
   schedule: # Run workflow automatically
@@ -9,13 +9,15 @@ permissions:
 
 jobs:
   update-readme-with-blog:
-    name: Update README with latest blog posts
+    name: Update README with latest RSS entries
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-      - name: Pull Blog Posts
+      - name: Pull RSS Entries
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           # feed_list: "https://miguelpimentel.do/rss.xml"
           feed_list: "https://miguelpimentel.do/rss.xml,https://miguelpimentel.do/notes.xml"
+          feed_names: "Blog,Notes"
+          max_post_count: "5"
