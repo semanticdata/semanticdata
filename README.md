@@ -11,11 +11,11 @@
 ## 📝 Most Recent Notes and Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [$feedname] [SSD / NVMe Comparison](https://miguelpimentel.do/notes/1-ssd/)
-- [$feedname] [Aurora Borealis Sighting](https://miguelpimentel.do/notes/2-aurora/)
-- [$feedname] [Being a Firefighter Does Not Save You From Burnout](https://miguelpimentel.do/posts/1-burnout/)
-- [$feedname] [Blogging to Tame the Monkey Mind](https://miguelpimentel.do/posts/2-monkey/)
-- [$feedname] [Unlock the Sidebar Width in Firefox](https://miguelpimentel.do/notes/3-firefox/)<!-- BLOG-POST-LIST:END -->
+- [Notes] [SSD / NVMe Comparison](https://miguelpimentel.do/notes/1-ssd/)
+- [Notes] [Aurora Borealis Sighting](https://miguelpimentel.do/notes/2-aurora/)
+- [Blog] [Being a Firefighter Does Not Save You From Burnout](https://miguelpimentel.do/posts/1-burnout/)
+- [Blog] [Blogging to Tame the Monkey Mind](https://miguelpimentel.do/posts/2-monkey/)
+- [Notes] [Unlock the Sidebar Width in Firefox](https://miguelpimentel.do/notes/3-firefox/)<!-- BLOG-POST-LIST:END -->
 
 ## 📈 GitHub Stats
 
