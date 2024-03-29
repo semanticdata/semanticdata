@@ -11,11 +11,9 @@
 ## 📝 Most Recent Notes and Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Notes] [SSD / NVMe Comparison](https://miguelpimentel.do/notes/1-ssd/)
-- [Notes] [Aurora Borealis Sighting](https://miguelpimentel.do/notes/2-aurora/)
-- [Blog] [Being a Firefighter Does Not Save You From Burnout](https://miguelpimentel.do/posts/1-burnout/)
-- [Blog] [Blogging to Tame the Monkey Mind](https://miguelpimentel.do/posts/2-monkey/)
-- [Notes] [Unlock the Sidebar Width in Firefox](https://miguelpimentel.do/notes/3-firefox/)<!-- BLOG-POST-LIST:END -->
+- [Being a Firefighter Does Not Save You From Burnout](https://miguelpimentel.do/posts/1-burnout/)
+- [Blogging to Tame the Monkey Mind](https://miguelpimentel.do/posts/2-monkey/)
+- [Hello World](https://miguelpimentel.do/posts/3-hello/)<!-- BLOG-POST-LIST:END -->
 
 ## 📈 GitHub Stats
 
