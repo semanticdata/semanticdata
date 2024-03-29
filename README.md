@@ -1,14 +1,16 @@
-## 👋🏼 Hi there, I'm Miguel!
+## 🙋‍♂️ Hi there, I'm Miguel
 
-- 🔭 Currently working on … the [One HTML Page Challenge](https://github.com/semanticdata/one-html-page-challenge).
-- 🌱 Currently learning … [web development](https://github.com/semanticdata/miguelpimentel.do).
-- 👯 Looking to collaborate on … any of your interesting projects.
-- 🤔 Looking for help … learning [Godot](https://godotengine.org/) and simple video game design.
-- 💬 Ask me about … public infrastructure and fire science.
-- 🎧 Listening to … [K.Flay](https://en.wikipedia.org/wiki/K.Flay), [Gin Wigmore](https://en.wikipedia.org/wiki/Gin_Wigmore), and [Arkells](https://en.wikipedia.org/wiki/Arkells).
-- 📫 You can reach me via … [email](mailto:contact@miguelpimentel.do) or [Discord](https://discord.com/users/244318363734507520).
+<!-- - 🔭 Currently working on … the [One HTML Page Challenge](https://github.com/semanticdata/one-html-page-challenge). -->
+<!-- - 🌱 Currently learning … [web development](https://github.com/semanticdata/miguelpimentel.do). -->
+<!-- - 👯 Looking to collaborate on … any of your interesting projects. -->
+<!-- - 🤔 Looking for help … learning [Godot](https://godotengine.org/) and simple video game design. -->
+<!-- - 💬 Ask me about … public infrastructure and fire science. -->
+<!-- - 🎧 Listening to … [K.Flay](https://en.wikipedia.org/wiki/K.Flay), [Gin Wigmore](https://en.wikipedia.org/wiki/Gin_Wigmore), and [Arkells](https://en.wikipedia.org/wiki/Arkells). -->
+<!-- - 📫 You can reach me via … [email](mailto:contact@miguelpimentel.do) or [Discord](https://discord.com/users/244318363734507520). -->
 
-## 📝 Most Recent Notes and Blog Posts
+Hello, my name is Miguel Pimentel. I am a self-taught hobby developer with too many ideas and not enough time. I was born in the Dominican Republic, and I currently live in Minnesota, US.
+
+## 📝 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Being a Firefighter Does Not Save You From Burnout](https://miguelpimentel.do/posts/1-burnout/)
@@ -16,10 +18,13 @@
 - [Hello World](https://miguelpimentel.do/posts/3-hello/)
 <!-- BLOG-POST-LIST:END -->
 
+## 📓 Recent Notes
+
 <!-- NOTES:START -->
 - [SSD / NVMe Comparison](https://miguelpimentel.do/notes/1-ssd/)
 - [Aurora Borealis Sighting](https://miguelpimentel.do/notes/2-aurora/)
-- [Unlock the Sidebar Width in Firefox](https://miguelpimentel.do/notes/3-firefox/)<!-- NOTES:END -->
+- [Unlock the Sidebar Width in Firefox](https://miguelpimentel.do/notes/3-firefox/)
+<!-- NOTES:END -->
 
 ## 📈 GitHub Stats
 
