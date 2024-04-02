@@ -17,7 +17,7 @@ While browsing my repositories you'll find:
 - Code for my [Zola themes](https://github.com/semanticdata?tab=repositories&q=zola-theme&type=template&language=&sort=name)
 - Code for my [Firefox extensions](https://github.com/semanticdata?tab=repositories&q=firefox&type=public&language=&sort=name)
 
-## 🧡 Interests ❤
+## 🧡 Interests
 
 I like other things too, but these are relevant:
 
