@@ -10,19 +10,35 @@
 
 I am a self-taught hobby developer with too many ideas and not enough time. You'll always find me doing lots of things with computers.
 
+While browsing my repositories you'll find:
+
+- Source code for my blog
+- Source code for my digital garden
+- [Zola themes](https://github.com/semanticdata?tab=repositories&q=zola-theme&type=template&language=&sort=name)
+- Firefox extensions
+
+## 🧡 Interests ❤
+
+- Web Development
+- Static Site Generators
+- Personal Knowledge Management
+- Game Development
+
 ## 📝 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Being a Firefighter Does Not Save You From Burnout](https://miguelpimentel.do/posts/1-burnout/)
 - [Blogging to Tame the Monkey Mind](https://miguelpimentel.do/posts/2-monkey/)
-- [Hello World](https://miguelpimentel.do/posts/3-hello/)<!-- BLOG-POST-LIST:END -->
+- [Hello World](https://miguelpimentel.do/posts/3-hello/)
+<!-- BLOG-POST-LIST:END -->
 
 ## 📓 Recent Notes
 
 <!-- NOTES:START -->
 - [SSD / NVMe Comparison](https://miguelpimentel.do/notes/ssd-nvme-comparison/)
 - [Aurora Borealis Sighting](https://miguelpimentel.do/notes/aurora-borealis-sighting/)
-- [Unlock the Sidebar Width in Firefox](https://miguelpimentel.do/notes/unlock-firefox-sidebar-width/)<!-- NOTES:END -->
+- [Unlock the Sidebar Width in Firefox](https://miguelpimentel.do/notes/unlock-firefox-sidebar-width/)
+<!-- NOTES:END -->
 
 ## 📈 GitHub Stats
 
@@ -32,4 +48,9 @@ I am a self-taught hobby developer with too many ideas and not enough time. You'
 
 <img height=auto src="https://github-readme-stats.vercel.app/api/top-langs/?username=semanticdata&hide=markdown&layout=compact&theme=material-palenight" />
 
-![Visitors](https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Fsemanticdata%2Fsemanticdata.json&label=Visitors&color=palepink)
+<hr />
+<!-- ![Visitors](https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Fsemanticdata%2Fsemanticdata.json&label=Visitors&color=palepink) -->
+<div align=center>
+  <p>With 💜 from Minnesota.</p>
+<img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Fsemanticdata%2Fsemanticdata.json&label=Visitors&color=palepink" alt="Unique visitor counter" />
+</div>
