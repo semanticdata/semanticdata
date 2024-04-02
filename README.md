@@ -37,8 +37,8 @@ I like other things too, but these are relevant:
 ## 📓 Recent Notes
 
 <!-- NOTES:START -->
-- [SSD / NVMe Comparison](https://miguelpimentel.do/notes/ssd-nvme-comparison/)
 - [Aurora Borealis Sighting](https://miguelpimentel.do/notes/aurora-borealis-sighting/)
+- [SSD / NVMe Comparison](https://miguelpimentel.do/notes/ssd-nvme-comparison/)
 - [Unlock the Sidebar Width in Firefox](https://miguelpimentel.do/notes/unlock-firefox-sidebar-width/)
 <!-- NOTES:END -->
 
@@ -51,8 +51,8 @@ I like other things too, but these are relevant:
 <img height=auto src="https://github-readme-stats.vercel.app/api/top-langs/?username=semanticdata&hide=markdown&layout=compact&theme=material-palenight" />
 
 <hr />
-<!-- ![Visitors](https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Fsemanticdata%2Fsemanticdata.json&label=Visitors&color=palepink) -->
+
 <div align=center>
   <p>With 💜 from Minnesota.</p>
-<img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Fsemanticdata%2Fsemanticdata.json&label=Visitors&color=palepink" alt="Unique visitor counter" />
+  <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Fsemanticdata%2Fsemanticdata.json&label=Visitors&color=palepink" alt="Unique visitor counter" />
 </div>
