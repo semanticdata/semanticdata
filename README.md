@@ -12,12 +12,14 @@ I am a self-taught hobby developer with too many ideas and not enough time. You'
 
 While browsing my repositories you'll find:
 
-- [Source code for my blog](https://github.com/semanticdata/miguelpimentel.do/blob/main/README.md)
-- [Source code for my digital garden](https://github.com/semanticdata/forgetful-notes/blob/main/README.md)
-- [Zola themes](https://github.com/semanticdata?tab=repositories&q=zola-theme&type=template&language=&sort=name)
-- [Firefox extensions](https://github.com/semanticdata?tab=repositories&q=firefox&type=public&language=&sort=name)
+- [Code](https://github.com/semanticdata/miguelpimentel.do/blob/main/README.md) for my [blog](https://miguelpimentel.do/)
+- [Code](https://github.com/semanticdata/forgetful-notes/blob/main/README.md) for my [digital garden](https://forgetfulnotes.com/)
+- Code for my [Zola themes](https://github.com/semanticdata?tab=repositories&q=zola-theme&type=template&language=&sort=name)
+- Code for my [Firefox extensions](https://github.com/semanticdata?tab=repositories&q=firefox&type=public&language=&sort=name)
 
 ## 🧡 Interests ❤
+
+I like other things too, but these are relevant:
 
 - Web Development
 - Static Site Generators
