@@ -12,10 +12,10 @@ I am a self-taught hobby developer with too many ideas and not enough time. You'
 
 While browsing my repositories you'll find:
 
-- Source code for my blog
-- Source code for my digital garden
+- [Source code for my blog](https://github.com/semanticdata/miguelpimentel.do/blob/main/README.md)
+- [Source code for my digital garden](https://github.com/semanticdata/forgetful-notes/blob/main/README.md)
 - [Zola themes](https://github.com/semanticdata?tab=repositories&q=zola-theme&type=template&language=&sort=name)
-- Firefox extensions
+- [Firefox extensions](https://github.com/semanticdata?tab=repositories&q=firefox&type=public&language=&sort=name)
 
 ## 🧡 Interests ❤
 
