@@ -20,9 +20,9 @@ I am a self-taught hobby developer with too many ideas and not enough time. You'
 ## 📓 Recent Notes
 
 <!-- NOTES:START -->
-- [SSD / NVMe Comparison](https://miguelpimentel.do/notes/1-ssd/)
-- [Aurora Borealis Sighting](https://miguelpimentel.do/notes/2-aurora/)
-- [Unlock the Sidebar Width in Firefox](https://miguelpimentel.do/notes/3-firefox/)<!-- NOTES:END -->
+- [SSD / NVMe Comparison](https://miguelpimentel.do/notes/ssd-nvme-comparison/)
+- [Aurora Borealis Sighting](https://miguelpimentel.do/notes/aurora-borealis-sighting/)
+- [Unlock the Sidebar Width in Firefox](https://miguelpimentel.do/notes/unlock-firefox-sidebar-width/)<!-- NOTES:END -->
 
 ## 📈 GitHub Stats
 
