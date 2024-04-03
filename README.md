@@ -37,10 +37,9 @@ I like other things too, but these are relevant:
 ## 📓 Recent Notes
 
 <!-- NOTES:START -->
-- [Aurora Borealis Sighting](https://miguelpimentel.do/notes/aurora-borealis-sighting/)
 - [SSD / NVMe Comparison](https://miguelpimentel.do/notes/ssd-nvme-comparison/)
-- [Unlock the Sidebar Width in Firefox](https://miguelpimentel.do/notes/unlock-firefox-sidebar-width/)
-<!-- NOTES:END -->
+- [Aurora Borealis Sighting](https://miguelpimentel.do/notes/aurora-borealis-sighting/)
+- [Unlock the Sidebar Width in Firefox](https://miguelpimentel.do/notes/unlock-firefox-sidebar-width/)<!-- NOTES:END -->
 
 ## 📈 GitHub Stats
 
