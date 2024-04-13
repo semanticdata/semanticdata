@@ -43,14 +43,9 @@ I like other things too, but these are relevant:
 ## 📈 GitHub Stats
 
 <img height=auto src="https://streak-stats.demolab.com?user=semanticdata&theme=material-palenight&mode=weekly&hide_longest_streak=false&border_radius=6" />
-
 <img height=auto src="https://github-readme-stats.vercel.app/api?username=semanticdata&show_icons=true&theme=material-palenight&hide_rank=true&border_radius=6" />
-
 <img height=auto src="https://github-readme-stats.vercel.app/api/top-langs/?username=semanticdata&hide=markdown&layout=compact&theme=material-palenight" />
 
 <hr />
-
-<div align=center>
-  <p>With 💜 from <a href="https://www.instagram.com/reel/BVRFeF8h2m3/" target="_blank">Minne</a><a href="https://www.instagram.com/reel/Bhl7n_oH1av/" target="_blank">sota</a>.</p>
-  <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Fsemanticdata%2Fsemanticdata.json&label=Visitors&color=palepink" alt="Unique visitor counter" />
-</div>
+<p>With 💜 from <a href="https://www.instagram.com/reel/BVRFeF8h2m3/" target="_blank">Minne</a><a href="https://www.instagram.com/reel/Bhl7n_oH1av/" target="_blank">sota</a>.</p>
+<img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Fsemanticdata%2Fsemanticdata.json&label=Visitors&color=palepink" alt="Unique visitor counter" />
