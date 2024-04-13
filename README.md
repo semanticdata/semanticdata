@@ -1,4 +1,4 @@
-## 🙋‍♂️ Hi there, I'm Miguel
+# 🙋‍♂️ Hi there, I'm Miguel
 
 <!-- - 🔭 Currently working on … the [One HTML Page Challenge](https://github.com/semanticdata/one-html-page-challenge). -->
 <!-- - 🌱 Currently learning … [web development](https://github.com/semanticdata/miguelpimentel.do). -->
