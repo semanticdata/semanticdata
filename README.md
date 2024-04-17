@@ -43,11 +43,9 @@ I like other things too, but these are relevant:
 ## 🧪 Test Feed
 
 <!-- TEST:START -->
-- [April](https://database.bearblog.dev/april-2024/)
-- [March](https://database.bearblog.dev/march-2024/)
-- [February](https://database.bearblog.dev/february-2024/)
-- [January](https://database.bearblog.dev/january-2024/)
-- [December](https://database.bearblog.dev/december-2023/)<!-- TEST:END -->
+- [Being a Firefighter Does Not Save You From Burnout](https://database.bearblog.dev/on-burning-out/)
+- [Blogging to Tame the Monkey Mind](https://database.bearblog.dev/monkey-mind/)
+- [Hello World!](https://database.bearblog.dev/hello-world/)<!-- TEST:END -->
 
 ## 📈 GitHub Stats
 
