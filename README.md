@@ -40,12 +40,10 @@ I like other things too, but these are relevant:
 - [Aurora Borealis Sighting](https://miguelpimentel.do/notes/aurora-borealis-sighting/)
 - [Unlock the Sidebar Width in Firefox](https://miguelpimentel.do/notes/unlock-firefox-sidebar-width/)<!-- NOTES:END -->
 
-## 🧪 Test Feed
+<!-- ## 🧪 Test Feed -->
 
 <!-- TEST:START -->
-- [Being a Firefighter Does Not Save You From Burnout](https://database.bearblog.dev/on-burning-out/)
-- [Blogging to Tame the Monkey Mind](https://database.bearblog.dev/monkey-mind/)
-- [Hello World!](https://database.bearblog.dev/hello-world/)<!-- TEST:END -->
+<!-- TEST:END -->
 
 ## 📈 GitHub Stats
 
