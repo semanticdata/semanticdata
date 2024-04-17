@@ -1,0 +1,24 @@
+name: Update Notes RSS Feed in README
+on:
+  workflow_dispatch: # Run workflow manually
+  # schedule: # Run workflow automatically
+    # - cron: '0 3 * * *' # Runs every day at 04:00
+
+permissions:
+  contents: write # Generated contents to README
+
+jobs:
+  update-readme-with-blog:
+    name: Update Notes RSS Feed in README
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Pull RSS Entries
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://database.bearblog.dev/feed"
+          template: "$newline- [$title]($url)"
+          comment_tag_name: "TEST"
+          # feed_names: "Notes"
+          # max_post_count: "5"
