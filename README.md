@@ -29,9 +29,9 @@ I like other things too, but these are relevant:
 ## 📝 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Being a Firefighter Does Not Save You From Burnout](https://miguelpimentel.do/posts/1-burnout/)
-- [Blogging to Tame the Monkey Mind](https://miguelpimentel.do/posts/2-monkey/)
-- [Hello World](https://miguelpimentel.do/posts/3-hello/)<!-- BLOG-POST-LIST:END -->
+- [Being a Firefighter Does Not Save You From Burnout](https://miguelpimentel.do/on-burning-out/)
+- [Blogging to Tame the Monkey Mind](https://miguelpimentel.do/monkey-mind/)
+- [Hello World!](https://miguelpimentel.do/hello-world/)<!-- BLOG-POST-LIST:END -->
 
 ## 📓 Recent Notes
 
