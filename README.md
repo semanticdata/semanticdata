@@ -42,7 +42,7 @@ I like other things too, but these are relevant:
 <!-- ## 🧪 Test Feed -->
 
 <!-- TUTORIALS:START -->
-<!-- TUTORIALS:END -->
+- [Unlock the Sidebar Width in Firefox](https://miguelpimentel.do/unlock-firefox-sidebar-width/)<!-- TUTORIALS:END -->
 
 ## 📈 GitHub Stats
 
