@@ -17,7 +17,7 @@ jobs:
       - name: Pull RSS Entries
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://miguelpimentel.do/notes.xml"
+          feed_list: "https://database.bearblog.dev/feed/?q=notes"
           template: "$newline- [$title]($url)"
           comment_tag_name: "NOTES"
           # feed_names: "Notes"
