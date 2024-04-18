@@ -19,5 +19,6 @@ jobs:
         with:
           feed_list: "https://database.bearblog.dev/feed/?q=posts"
           template: "$newline- $date · [$title]($url)"
+          date_format: "mmm d, yyyy"
           # feed_names: "Blog"
           # max_post_count: "5"
