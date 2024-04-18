@@ -29,9 +29,9 @@ I like other things too, but these are relevant:
 ## 📝 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- Thu Jul 06 2023 12:00 AM · [Being a Firefighter Does Not Save You From Burnout](https://miguelpimentel.do/on-burning-out/)
-- Wed Apr 12 2023 1:21 AM · [Blogging to Tame the Monkey Mind](https://miguelpimentel.do/monkey-mind/)
-- Sat Mar 18 2023 9:02 PM · [Hello World!](https://miguelpimentel.do/hello-world/)<!-- BLOG-POST-LIST:END -->
+- Jul 6, 2023 · [Being a Firefighter Does Not Save You From Burnout](https://miguelpimentel.do/on-burning-out/)
+- Apr 12, 2023 · [Blogging to Tame the Monkey Mind](https://miguelpimentel.do/monkey-mind/)
+- Mar 18, 2023 · [Hello World!](https://miguelpimentel.do/hello-world/)<!-- BLOG-POST-LIST:END -->
 
 ## 📓 Impersonal Notes
 
