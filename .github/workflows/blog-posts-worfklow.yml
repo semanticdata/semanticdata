@@ -18,6 +18,6 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://database.bearblog.dev/feed/?q=posts"
-          template: "$newline- [$title]($url)"
+          template: "$newline- $date · [$title]($url)"
           # feed_names: "Blog"
           # max_post_count: "5"
