@@ -1,8 +1,8 @@
-name: Test RSS Feed
+name: Update Tutorials RSS Feed in README
 on:
-  workflow_dispatch:
-  # schedule:
-    # - cron: '0 3 * * *'
+  workflow_dispatch: # Run workflow manually
+  schedule: # Run workflow automatically
+    - cron: '0 2 * * *' # Runs every day at 02:00
 
 permissions:
   contents: write # Generated contents to README
@@ -17,8 +17,8 @@ jobs:
       - name: Pull RSS Entries
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://database.bearblog.dev/feed/?q=posts"
+          feed_list: "https://database.bearblog.dev/feed/?q=tutorials"
           template: "$newline- [$title]($url)"
-          comment_tag_name: "TEST"
-          # feed_names: "Notes"
+          comment_tag_name: "TUTORIALS"
+          # feed_names: "Tutorials"
           # max_post_count: "5"
