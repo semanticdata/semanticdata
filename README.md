@@ -33,13 +33,13 @@ I like other things too, but these are relevant:
 - [Blogging to Tame the Monkey Mind](https://miguelpimentel.do/monkey-mind/)
 - [Hello World!](https://miguelpimentel.do/hello-world/)<!-- BLOG-POST-LIST:END -->
 
-## 📓 Recent Notes
+## 📓 Impersonal Notes
 
 <!-- NOTES:START -->
 - [SSD / NVMe Comparison](https://miguelpimentel.do/ssd-nvme-comparison/)
 - [Aurora Borealis Sighting](https://miguelpimentel.do/aurora-borealis/)<!-- NOTES:END -->
 
-<!-- ## 🧪 Test Feed -->
+## 📖 Tutorials
 
 <!-- TUTORIALS:START -->
 - [Unlock the Sidebar Width in Firefox](https://miguelpimentel.do/unlock-firefox-sidebar-width/)<!-- TUTORIALS:END -->
