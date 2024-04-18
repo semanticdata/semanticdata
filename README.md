@@ -36,9 +36,8 @@ I like other things too, but these are relevant:
 ## 📓 Recent Notes
 
 <!-- NOTES:START -->
-- [SSD / NVMe Comparison](https://miguelpimentel.do/notes/ssd-nvme-comparison/)
-- [Aurora Borealis Sighting](https://miguelpimentel.do/notes/aurora-borealis-sighting/)
-- [Unlock the Sidebar Width in Firefox](https://miguelpimentel.do/notes/unlock-firefox-sidebar-width/)<!-- NOTES:END -->
+- [SSD / NVMe Comparison](https://miguelpimentel.do/ssd-nvme-comparison/)
+- [Aurora Borealis Sighting](https://miguelpimentel.do/aurora-borealis/)<!-- NOTES:END -->
 
 <!-- ## 🧪 Test Feed -->
 
