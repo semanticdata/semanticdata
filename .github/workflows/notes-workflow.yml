@@ -2,7 +2,7 @@ name: Update Notes RSS Feed in README
 on:
   workflow_dispatch: # Run workflow manually
   schedule: # Run workflow automatically
-    - cron: '0 3 * * *' # Runs every day at 04:00
+    - cron: 30 5 * * *
 
 permissions:
   contents: write # Generated contents to README
