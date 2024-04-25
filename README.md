@@ -36,8 +36,8 @@ I like other things too, but these are relevant:
 ## 📓 Impersonal Notes
 
 <!-- NOTES:START -->
-- Fri Jul 28 2023 12:00 AM · [SSD / NVMe Comparison](https://miguelpimentel.do/ssd-nvme-comparison/)
-- Wed Jul 12 2023 12:00 AM · [Aurora Borealis Sighting](https://miguelpimentel.do/aurora-borealis/)<!-- NOTES:END -->
+- Jul 28, 2023 · [SSD / NVMe Comparison](https://miguelpimentel.do/ssd-nvme-comparison/)
+- Jul 12, 2023 · [Aurora Borealis Sighting](https://miguelpimentel.do/aurora-borealis/)<!-- NOTES:END -->
 
 ## 📖 Tutorials
 
