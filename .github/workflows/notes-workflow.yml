@@ -18,7 +18,7 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://database.bearblog.dev/feed/?q=notes"
-          template: "$newline- [$title]($url)"
+          template: "$newline- $date · [$title]($url)"
           comment_tag_name: "NOTES"
           # feed_names: "Notes"
           # max_post_count: "5"
