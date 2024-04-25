@@ -20,5 +20,6 @@ jobs:
           feed_list: "https://database.bearblog.dev/feed/?q=tutorials"
           template: "$newline- $date · [$title]($url)"
           comment_tag_name: "TUTORIALS"
+          date_format: "mmm d, yyyy"
           # feed_names: "Tutorials"
           # max_post_count: "5"
