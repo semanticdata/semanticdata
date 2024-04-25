@@ -42,7 +42,7 @@ I like other things too, but these are relevant:
 ## 📖 Tutorials
 
 <!-- TUTORIALS:START -->
-- [Unlock the Sidebar Width in Firefox](https://miguelpimentel.do/unlock-firefox-sidebar-width/)<!-- TUTORIALS:END -->
+- Mon Jun 26 2023 12:00 AM · [Unlock the Sidebar Width in Firefox](https://miguelpimentel.do/unlock-firefox-sidebar-width/)<!-- TUTORIALS:END -->
 
 ## 📈 GitHub Stats
 
