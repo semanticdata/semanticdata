@@ -20,5 +20,6 @@ jobs:
           feed_list: "https://database.bearblog.dev/feed/?q=notes"
           template: "$newline- $date · [$title]($url)"
           comment_tag_name: "NOTES"
+          date_format: "mmm d, yyyy"
           # feed_names: "Notes"
           # max_post_count: "5"
