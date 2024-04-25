@@ -18,7 +18,7 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://database.bearblog.dev/feed/?q=tutorials"
-          template: "$newline- [$title]($url)"
+          template: "$newline- $date · [$title]($url)"
           comment_tag_name: "TUTORIALS"
           # feed_names: "Tutorials"
           # max_post_count: "5"
