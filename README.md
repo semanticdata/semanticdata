@@ -1,12 +1,11 @@
-<p align="center">
+<!-- <p align="center">
 <img src="assets/gh-banner-b.png" />
 <img src="assets/gh-banner-a.png" />
-</p>
+</p> -->
 
-<!-- # 🙋‍♂️ Hi there, I'm Miguel -->
-<p align="center">
-I'm a self-taught hobby developer with too many ideas and not enough time. You'll always find me doing lots of things with computers.
-</p>
+# 🙋‍♂️ Hi there, I'm Miguel
+
+Self-taught hobby developer with too many ideas and not enough time. You'll always find me doing lots of things with computers.
 
 While browsing my repositories you'll find:
 
