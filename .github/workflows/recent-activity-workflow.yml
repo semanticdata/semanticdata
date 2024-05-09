@@ -1,4 +1,7 @@
+# Source: https://github.com/jamesgeorge007/github-activity-readme
+
 name: Update Recent Activity in README
+
 on:
   workflow_dispatch:
   schedule:
