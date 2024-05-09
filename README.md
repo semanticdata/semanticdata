@@ -1,13 +1,19 @@
-<!-- <p align="center">
+<!--
+<p align="center">
 <img src="assets/gh-banner-b.png" />
 <img src="assets/gh-banner-a.png" />
-</p> -->
+</p>
+-->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&random=false&width=435&lines=Hey+there!+I'm+Miguel+Pimentel.)](https://git.io/typing-svg)
+<!--
+# 🙋‍♂️ Hi there, I'm Miguel
+-->
 
-<!-- # 🙋‍♂️ Hi there, I'm Miguel -->
-
-Self-taught hobby developer with too many ideas and not enough time. You'll always find me doing lots of things with computers.
+<p align="center">  
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&random=false&width=435&lines=Hey+there!+I'm+Miguel+Pimentel." />
+<br />
+Self-taught hobby developer with too many ideas and not enough time.
+</p>
 
 ## 🧡 Interests
 
@@ -20,14 +26,14 @@ I like other things too, but these are relevant:
 - Fire Science
 - Public Infrastructure
 
-## 📝 Recent Blog Posts
+## 📄 Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - Jul 6, 2023 · [Being a Firefighter Does Not Save You From Burnout](https://miguelpimentel.do/on-burning-out/)
 - Apr 12, 2023 · [Blogging to Tame the Monkey Mind](https://miguelpimentel.do/monkey-mind/)
 - Mar 18, 2023 · [Hello World!](https://miguelpimentel.do/hello-world/)<!-- BLOG-POST-LIST:END -->
 
-## 📓 Impersonal Notes
+## 📓 Notes
 
 <!-- NOTES:START -->
 - Jul 28, 2023 · [SSD / NVMe Comparison](https://miguelpimentel.do/ssd-nvme-comparison/)
@@ -38,7 +44,7 @@ I like other things too, but these are relevant:
 <!-- TUTORIALS:START -->
 - Jun 26, 2023 · [Unlock the Sidebar Width in Firefox](https://miguelpimentel.do/unlock-firefox-sidebar-width/)<!-- TUTORIALS:END -->
 
-## ⌚ Recent GitHub Activity
+## ⌚ Recent Activity
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#52](https://github.com/rothsandro/eleventy-notes/issues/52#issuecomment-2093394729) in [rothsandro/eleventy-notes](https://github.com/rothsandro/eleventy-notes)
