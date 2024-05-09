@@ -3,7 +3,9 @@
 <img src="assets/gh-banner-a.png" />
 </p> -->
 
-# 🙋‍♂️ Hi there, I'm Miguel
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&random=false&width=435&lines=Hey+there!+I'm+Miguel+Pimentel.)](https://git.io/typing-svg)
+
+<!-- # 🙋‍♂️ Hi there, I'm Miguel -->
 
 Self-taught hobby developer with too many ideas and not enough time. You'll always find me doing lots of things with computers.
 
@@ -50,3 +52,7 @@ I like other things too, but these are relevant:
 <hr />
 <p>With 💜 from <a href="https://www.instagram.com/reel/BVRFeF8h2m3/" target="_blank">Minne</a><a href="https://www.instagram.com/reel/Bhl7n_oH1av/" target="_blank">sota</a>.</p>
 <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Fsemanticdata%2Fsemanticdata.json&label=Visitors&color=palepink" alt="Unique visitor counter" />
+
+## ⚙ Technology
+
+![eleventy icon](assets/icons/logos--eleventy.png) ![lua icon](assets/icons/logos--lua.png)
