@@ -9,13 +9,6 @@
 
 Self-taught hobby developer with too many ideas and not enough time. You'll always find me doing lots of things with computers.
 
-While browsing my repositories you'll find:
-
-- [Code](https://github.com/semanticdata/miguelpimentel.do/blob/main/README.md) for my [blog](https://miguelpimentel.do/)
-- [Code](https://github.com/semanticdata/forgetful-notes/blob/main/README.md) for my [digital garden](https://forgetfulnotes.com/)
-- Code for my [Zola themes](https://github.com/semanticdata?tab=repositories&q=zola-theme&type=template&language=&sort=name)
-- Code for my [Firefox extensions](https://github.com/semanticdata?tab=repositories&q=firefox&type=public&language=&sort=name)
-
 ## 🧡 Interests
 
 I like other things too, but these are relevant:
@@ -24,6 +17,8 @@ I like other things too, but these are relevant:
 - Static Site Generators
 - Personal Knowledge Management
 - Game Development
+- Fire Science
+- Public Infrastructure
 
 ## 📝 Recent Blog Posts
 
@@ -43,17 +38,7 @@ I like other things too, but these are relevant:
 <!-- TUTORIALS:START -->
 - Jun 26, 2023 · [Unlock the Sidebar Width in Firefox](https://miguelpimentel.do/unlock-firefox-sidebar-width/)<!-- TUTORIALS:END -->
 
-## 📈 GitHub Stats
-
-<img height=auto src="https://streak-stats.demolab.com?user=semanticdata&theme=material-palenight&mode=weekly&hide_longest_streak=false&border_radius=6" />
-<img height=auto src="https://github-readme-stats.vercel.app/api?username=semanticdata&show_icons=true&theme=material-palenight&hide_rank=true&border_radius=6" />
-<img height=auto src="https://github-readme-stats.vercel.app/api/top-langs/?username=semanticdata&hide=markdown&layout=compact&theme=material-palenight" />
-
-<hr />
-<p>With 💜 from <a href="https://www.instagram.com/reel/BVRFeF8h2m3/" target="_blank">Minne</a><a href="https://www.instagram.com/reel/Bhl7n_oH1av/" target="_blank">sota</a>.</p>
-<img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Fsemanticdata%2Fsemanticdata.json&label=Visitors&color=palepink" alt="Unique visitor counter" />
-
-## Recent Activity
+## ⌚ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#52](https://github.com/rothsandro/eleventy-notes/issues/52#issuecomment-2093394729) in [rothsandro/eleventy-notes](https://github.com/rothsandro/eleventy-notes)
@@ -61,6 +46,16 @@ I like other things too, but these are relevant:
 3. ❌ Closed PR [#4](https://github.com/semanticdata/eleventy-plus-vite/pull/4) in [semanticdata/eleventy-plus-vite](https://github.com/semanticdata/eleventy-plus-vite)
 <!--END_SECTION:activity-->
 
+## 📈 GitHub Stats
+
+<img height=auto src="https://streak-stats.demolab.com?user=semanticdata&theme=material-palenight&mode=weekly&hide_longest_streak=false&border_radius=6" />
+<img height=auto src="https://github-readme-stats.vercel.app/api?username=semanticdata&show_icons=true&theme=material-palenight&hide_rank=true&border_radius=6" />
+<img height=auto src="https://github-readme-stats.vercel.app/api/top-langs/?username=semanticdata&hide=markdown&layout=compact&theme=material-palenight" />
+
 ## ⚙ Technology
 
-![eleventy icon](assets/icons/logos--eleventy.png) ![lua icon](assets/icons/logos--lua.png)
+![sass icon](assets/icons/logos--sass.png) ![eleventy icon](assets/icons/logos--eleventy.png) ![lua icon](assets/icons/logos--lua.png) ![svelte icon](assets/icons/logos--svelte-icon.png) ![markdown icon](assets/icons/openmoji--markdown.png) ![astro icon](assets/icons/vscode-icons--file-type-astro.png) ![typescript icon](assets/icons/vscode-icons--file-type-typescript.png)
+
+<hr />
+<p>With 💜 from <a href="https://www.instagram.com/reel/BVRFeF8h2m3/" target="_blank">Minne</a><a href="https://www.instagram.com/reel/Bhl7n_oH1av/" target="_blank">sota</a>.</p>
+<img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Fsemanticdata%2Fsemanticdata.json&label=Visitors&color=palepink" alt="Unique visitor counter" />
