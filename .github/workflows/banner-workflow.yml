@@ -1,3 +1,5 @@
+# source: https://github.com/darkterminal/create-banner-image
+
 name: Create Banner Image
 
 on: workflow_dispatch
@@ -8,12 +10,11 @@ jobs:
         runs-on: ubuntu-latest
         steps:
             - uses: actions/checkout@main
-            - uses: darkterminal/create-banner-image@master # Uses an action in the root directory
+            - uses: darkterminal/create-banner-image@master
               with:
                 github-token: ${{ secrets.GITHUB_TOKEN }}
                 canonical-name: 'banner'
-                # gradient-colors: '#fc00ff,#00dbde'
                 gradient-colors: '#cb04ff,#03de85'
                 article-name: 'Miguel Pimentel'
-                article-category: 'open-source'
-                emoji: '🦝'
+                # article-category: 'open-source'
+                # emoji: '🦝'
