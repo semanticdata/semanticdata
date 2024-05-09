@@ -52,9 +52,11 @@ I like other things too, but these are relevant:
 <img height=auto src="https://github-readme-stats.vercel.app/api?username=semanticdata&show_icons=true&theme=material-palenight&hide_rank=true&border_radius=6" />
 <img height=auto src="https://github-readme-stats.vercel.app/api/top-langs/?username=semanticdata&hide=markdown&layout=compact&theme=material-palenight" />
 
-## ⚙ Technology
+## ⚙ Technologies
 
-![sass icon](assets/icons/logos--sass.png) ![eleventy icon](assets/icons/logos--eleventy.png) ![lua icon](assets/icons/logos--lua.png) ![svelte icon](assets/icons/logos--svelte-icon.png) ![markdown icon](assets/icons/openmoji--markdown.png) ![astro icon](assets/icons/vscode-icons--file-type-astro.png) ![typescript icon](assets/icons/vscode-icons--file-type-typescript.png)
+![sass icon](assets/icons/logos--sass.png) ![lua icon](assets/icons/logos--lua.png) ![svelte icon](assets/icons/logos--svelte-icon.png) ![markdown icon](assets/icons/openmoji--markdown.png) ![astro icon](assets/icons/vscode-icons--file-type-astro.png) ![typescript icon](assets/icons/vscode-icons--file-type-typescript.png)
+
+<!-- ![eleventy icon](assets/icons/logos--eleventy.png) -->
 
 <hr />
 <p>With 💜 from <a href="https://www.instagram.com/reel/BVRFeF8h2m3/" target="_blank">Minne</a><a href="https://www.instagram.com/reel/Bhl7n_oH1av/" target="_blank">sota</a>.</p>
