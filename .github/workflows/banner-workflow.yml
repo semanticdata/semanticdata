@@ -5,16 +5,16 @@ name: Create Banner Image
 on: workflow_dispatch
 
 jobs:
-    create_banner_image:
-        name: "Create Banner Image"
-        runs-on: ubuntu-latest
-        steps:
-            - uses: actions/checkout@main
-            - uses: darkterminal/create-banner-image@master
-              with:
-                github-token: ${{ secrets.GITHUB_TOKEN }}
-                canonical-name: 'banner'
-                gradient-colors: '#cb04ff,#03de85'
-                article-name: 'Miguel Pimentel'
-                # article-category: 'open-source'
-                # emoji: '🦝'
+  create_banner_image:
+    name: "Create Banner Image"
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@main
+      - uses: darkterminal/create-banner-image@master
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          canonical-name: "banner"
+          gradient-colors: "#cb04ff,#03de85"
+          article-name: "Miguel Pimentel"
+          # article-category: 'open-source'
+          # emoji: '🦝'

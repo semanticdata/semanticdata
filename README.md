@@ -1,5 +1,5 @@
 <p align="center">
-<img src="assets/gh-header-a.png" />
+<img src="assets/gh-header-d.png" />
 </p>
 
 <!-- # 🙋‍♂️ Hi there, I'm Miguel -->
