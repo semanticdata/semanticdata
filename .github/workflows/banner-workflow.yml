@@ -1,3 +1,5 @@
+name: Create Banner Image
+
 on: workflow_dispatch
 
 jobs:
