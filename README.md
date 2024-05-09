@@ -1,16 +1,11 @@
-![profile-banner](assets/gh-header-purple.png)
+<p align="center">
+<img src="assets/gh-header-a.png" />
+</p>
 
 <!-- # 🙋‍♂️ Hi there, I'm Miguel -->
-
-<!-- - 🔭 Currently working on … the [One HTML Page Challenge](https://github.com/semanticdata/one-html-page-challenge). -->
-<!-- - 🌱 Currently learning … [web development](https://github.com/semanticdata/miguelpimentel.do). -->
-<!-- - 👯 Looking to collaborate on … any of your interesting projects. -->
-<!-- - 🤔 Looking for help … learning [Godot](https://godotengine.org/) and simple video game design. -->
-<!-- - 💬 Ask me about … public infrastructure and fire science. -->
-<!-- - 🎧 Listening to … [K.Flay](https://en.wikipedia.org/wiki/K.Flay), [Gin Wigmore](https://en.wikipedia.org/wiki/Gin_Wigmore), and [Arkells](https://en.wikipedia.org/wiki/Arkells). -->
-<!-- - 📫 You can reach me via … [email](mailto:contact@miguelpimentel.do) or [Discord](https://discord.com/users/244318363734507520). -->
-
+<p align="center">
 I'm a self-taught hobby developer with too many ideas and not enough time. You'll always find me doing lots of things with computers.
+</p>
 
 While browsing my repositories you'll find:
 
