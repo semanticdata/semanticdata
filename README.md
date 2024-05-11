@@ -45,8 +45,8 @@ Self-taught hobby developer with too many ideas and not enough time.
 ## ⌚ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#52](https://github.com/rothsandro/eleventy-notes/issues/52#issuecomment-2104686044) in [rothsandro/eleventy-notes](https://github.com/rothsandro/eleventy-notes)
-2. 🗣 Commented on [#52](https://github.com/rothsandro/eleventy-notes/issues/52#issuecomment-2093394729) in [rothsandro/eleventy-notes](https://github.com/rothsandro/eleventy-notes)
+1. ❌ Closed PR [#169](https://github.com/Track3/hermit/pull/169) in [Track3/hermit](https://github.com/Track3/hermit)
+2. 🗣 Commented on [#52](https://github.com/rothsandro/eleventy-notes/issues/52#issuecomment-2104686044) in [rothsandro/eleventy-notes](https://github.com/rothsandro/eleventy-notes)
 3. ❌ Closed PR [#4](https://github.com/semanticdata/eleventy-plus-vite/pull/4) in [semanticdata/eleventy-plus-vite](https://github.com/semanticdata/eleventy-plus-vite)
 <!--END_SECTION:activity-->
 
