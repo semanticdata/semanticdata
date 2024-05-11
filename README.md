@@ -36,8 +36,7 @@ Self-taught hobby developer with too many ideas and not enough time.
 
 <!-- NOTES:START -->
 - Jul 28, 2023 · [SSD / NVMe Comparison](https://miguelpimentel.do/ssd-nvme-comparison/)
-- Jul 12, 2023 · [Aurora Borealis Sighting](https://miguelpimentel.do/aurora-borealis/)
-<!-- NOTES:END -->
+- Jul 12, 2023 · [Aurora Borealis Sighting](https://miguelpimentel.do/aurora-borealis/)<!-- NOTES:END -->
 
 ## 📜 Tutorials
 
