@@ -40,7 +40,7 @@ Self-taught hobby developer with too many ideas and not enough time.
 ## 📜 Tutorials
 
 <!-- TUTORIALS:START -->
-- Jun 26, 2023 · [Unlock the Sidebar Width in Firefox](https://miguelpimentel.do/unlock-firefox-sidebar-width/)<!-- TUTORIALS:END -->
+- Jun 26, 2023 · [Unlock the Sidebar Width in Firefox](https://miguelpimentel.do/unlock-firefox-sidebar/)<!-- TUTORIALS:END -->
 
 ## ⌚ Recent Activity
 
