@@ -1,21 +1,10 @@
-<!--
-<p align="center">
-<img src="assets/gh-banner-b.png" />
-<img src="assets/gh-banner-a.png" />
-</p>
--->
-
-<!--
-# 🙋‍♂️ Hi there, I'm Miguel
--->
-
 <p align="center">  
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&random=false&width=435&lines=Hey+there!+I'm+Miguel+Pimentel." />
 <br />
 Self-taught hobby developer with too many ideas and not enough time.
 </p>
 
-## 🧡 Interests
+## ❤️ Interests
 
 - Web Development
 - Static Site Generators
@@ -24,7 +13,7 @@ Self-taught hobby developer with too many ideas and not enough time.
 - Fire Science
 - Public Infrastructure
 
-## 📄 Blog Posts
+## 📝 Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - Jul 6, 2023 · [Being a Firefighter Does Not Save You From Burnout](https://miguelpimentel.do/on-burning-out/)
@@ -37,20 +26,18 @@ Self-taught hobby developer with too many ideas and not enough time.
 - Jul 28, 2023 · [SSD / NVMe Comparison](https://miguelpimentel.do/ssd-nvme-comparison/)
 - Jul 12, 2023 · [Aurora Borealis Sighting](https://miguelpimentel.do/aurora-borealis/)<!-- NOTES:END -->
 
-## 📜 Tutorials
+## 🎓 Tutorials
 
 <!-- TUTORIALS:START -->
 - Jun 26, 2023 · [Unlock the Sidebar Width in Firefox](https://miguelpimentel.do/unlock-firefox-sidebar/)<!-- TUTORIALS:END -->
 
-## ⌚ Recent Activity
+## 🕒 Recent Activity
 
 <!--START_SECTION:activity-->
 1. ❌ Closed PR [#169](https://github.com/Track3/hermit/pull/169) in [Track3/hermit](https://github.com/Track3/hermit)
 2. 🗣 Commented on [#52](https://github.com/rothsandro/eleventy-notes/issues/52#issuecomment-2104686044) in [rothsandro/eleventy-notes](https://github.com/rothsandro/eleventy-notes)
 3. ❌ Closed PR [#4](https://github.com/semanticdata/eleventy-plus-vite/pull/4) in [semanticdata/eleventy-plus-vite](https://github.com/semanticdata/eleventy-plus-vite)
 <!--END_SECTION:activity-->
-
-<!--## 📈 GitHub Stats-->
 
 <div align=center>
 
