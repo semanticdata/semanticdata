@@ -22,14 +22,14 @@ Self-taught hobby developer with too many ideas and not enough time.
 ![Static Badge](https://img.shields.io/badge/Personal%20Knowledge%20Management-darkgreen?style=flat-square)
 ![Static Badge](https://img.shields.io/badge/Public%20Infrastructure-gray?style=flat-square)
 
-## ❤️ Interests
+<!-- ## ❤️ Interests
 
 - Web Development
 - Static Site Generators
 - Fire Science
 - Personal Knowledge Management
 - Game Development
-- Public Infrastructure
+- Public Infrastructure -->
 
 ## 📝 Blog Posts
 
