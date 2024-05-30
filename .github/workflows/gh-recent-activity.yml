@@ -16,7 +16,7 @@ jobs:
       - name: Recent activity
         uses: lowlighter/metrics@latest
         with:
-          filename: svg/metrics-gh-recent-actibity.svg
+          filename: assets/svg/metrics-gh-recent-actibity.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_activity: yes
