@@ -1,19 +1,8 @@
-<p align="center">  
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&random=false&width=435&lines=Hey+there!+I'm+Miguel+Pimentel." />
-<br />
-Self-taught hobby developer with too many ideas and not enough time.
-</p>
-
 <div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&random=false&width=512&lines=Hey+there!+I'm+Miguel+Pimentel." />
+<!-- <br /> -->
 
-![basic info](assets/svg/metrics-gh-base.svg)
-
-![recent activity](assets/svg/metrics-gh-recent-activity.svg)
-
-![languages](assets/svg/metrics-gh-languages.svg)
-
-![mild facts](assets/svg/metrics-gh-mild-facts.svg)
-</div>
+Self-taught hobby developer with too many ideas and not enough time.
 
 ## ❤️ Interests
 
@@ -24,6 +13,37 @@ Self-taught hobby developer with too many ideas and not enough time.
 ![Static Badge](https://img.shields.io/badge/Personal%20Knowledge%20Management-darkgreen?style=flat-square)
 ![Static Badge](https://img.shields.io/badge/Public%20Infrastructure-gray?style=flat-square)
 
+## 📊 Stats
+
+![basic info](assets/svg/metrics-gh-base.svg)
+
+![recent activity](assets/svg/metrics-gh-recent-activity.svg)
+
+![languages](assets/svg/metrics-gh-languages.svg)
+
+![mild facts](assets/svg/metrics-gh-mild-facts.svg)
+
+![img](https://streak-stats.demolab.com?user=semanticdata&theme=material-palenight&mode=weekly&hide_longest_streak=false&border_radius=6)
+</div>
+
+<div align="center">
+
+## ✍ Writings
+
+| **📝 Blog Posts** | **📅 Date** |
+| ------------- | :---: |
+| [Being a Firefighter Does Not Save You From Burnout](https://miguelpimentel.do/on-burning-out/) | Jul 6, 2023 |
+| [Blogging to Tame the Monkey Mind](https://miguelpimentel.do/monkey-mind/) | Apr 12, 2023 |
+| [Hello World!](https://miguelpimentel.do/hello-world/) | Mar 18, 2023 |
+| | |
+| **📓 Notes** |  |
+| [SSD / NVMe Comparison](https://miguelpimentel.do/ssd-nvme-comparison/) | Jul 28, 2023 |
+| [Aurora Borealis Sighting](https://miguelpimentel.do/aurora-borealis/) | Jul 12, 2023 |
+| | |
+| **🎓 Tutorials** |  |
+| [Unlock the Sidebar Width in Firefox](https://miguelpimentel.do/unlock-firefox-sidebar/) | Jun 26, 2023 |
+</div>
+
 <!-- ## ❤️ Interests
 
 - Web Development
@@ -33,48 +53,50 @@ Self-taught hobby developer with too many ideas and not enough time.
 - Game Development
 - Public Infrastructure -->
 
-## 📝 Blog Posts
+<!-- ## 📝 Blog Posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- Jul 6, 2023 · [Being a Firefighter Does Not Save You From Burnout](https://miguelpimentel.do/on-burning-out/)
+<!-- - Jul 6, 2023 · [Being a Firefighter Does Not Save You From Burnout](https://miguelpimentel.do/on-burning-out/)
 - Apr 12, 2023 · [Blogging to Tame the Monkey Mind](https://miguelpimentel.do/monkey-mind/)
-- Mar 18, 2023 · [Hello World!](https://miguelpimentel.do/hello-world/)
+- Mar 18, 2023 · [Hello World!](https://miguelpimentel.do/hello-world/) -->
 <!-- BLOG-POST-LIST:END -->
 
-## 📓 Notes
+<!-- ## 📓 Notes -->
 
 <!-- NOTES:START -->
-- Jul 28, 2023 · [SSD / NVMe Comparison](https://miguelpimentel.do/ssd-nvme-comparison/)
-- Jul 12, 2023 · [Aurora Borealis Sighting](https://miguelpimentel.do/aurora-borealis/)<!-- NOTES:END -->
+<!-- - Jul 28, 2023 · [SSD / NVMe Comparison](https://miguelpimentel.do/ssd-nvme-comparison/)
+- Jul 12, 2023 · [Aurora Borealis Sighting](https://miguelpimentel.do/aurora-borealis/) -->
+<!-- NOTES:END -->
 
-## 🎓 Tutorials
+<!-- ## 🎓 Tutorials -->
 
 <!-- TUTORIALS:START -->
-- Jun 26, 2023 · [Unlock the Sidebar Width in Firefox](https://miguelpimentel.do/unlock-firefox-sidebar/)<!-- TUTORIALS:END -->
+<!-- - Jun 26, 2023 · [Unlock the Sidebar Width in Firefox](https://miguelpimentel.do/unlock-firefox-sidebar/) -->
+<!-- TUTORIALS:END -->
 
 <!-- ## 🕒 Recent Activity -->
 
 <!--START_SECTION:activity-->
 <!-- 1. 🗣 Commented on [#2](https://github.com/kjk/edna/issues/2#issuecomment-2138026500) in [kjk/edna](https://github.com/kjk/edna)
-2. ❗ Opened issue [#2](https://github.com/kjk/edna/issues/2) in [kjk/edna](https://github.com/kjk/edna)
-3. ❌ Closed PR [#4](https://github.com/semanticdata/eleventy-plus-vite/pull/4) in [semanticdata/eleventy-plus-vite](https://github.com/semanticdata/eleventy-plus-vite) -->
+1. ❗ Opened issue [#2](https://github.com/kjk/edna/issues/2) in [kjk/edna](https://github.com/kjk/edna)
+2. ❌ Closed PR [#4](https://github.com/semanticdata/eleventy-plus-vite/pull/4) in [semanticdata/eleventy-plus-vite](https://github.com/semanticdata/eleventy-plus-vite) -->
 <!--END_SECTION:activity-->
-
-<div align="center">
-
-## 📊 Other Stats
 
 <!-- ![img](https://github-readme-stats.vercel.app/api/top-langs/?username=semanticdata&hide=markdown&layout=compact&theme=material-palenight) -->
 
-![img](https://github-readme-stats.vercel.app/api?username=semanticdata&show_icons=true&theme=material-palenight&hide_rank=true&border_radius=6)
+<!-- ![img](https://github-readme-stats.vercel.app/api?username=semanticdata&show_icons=true&theme=material-palenight&hide_rank=true&border_radius=6) -->
 
-![img](https://streak-stats.demolab.com?user=semanticdata&theme=material-palenight&mode=weekly&hide_longest_streak=false&border_radius=6)
+<!-- ![img](https://streak-stats.demolab.com?user=semanticdata&theme=material-palenight&mode=weekly&hide_longest_streak=false&border_radius=6) -->
+
+<div align="center">
 
 ## 🤖 Technologies
 
 ![sass icon](assets/icons/logos--sass.png) ![lua icon](assets/icons/logos--lua.png) ![svelte icon](assets/icons/logos--svelte-icon.png) ![markdown icon](assets/icons/openmoji--markdown.png) ![astro icon](assets/icons/skill-icons--astro.png) ![godot icon](assets/icons/devicon--godot.png) ![husky icon](assets/icons/vscode-icons--file-type-husky.png) ![firefox icon](assets/icons/logos--firefox.png) ![postcss icon](assets/icons/logos--postcss.png) ![prettier icon](assets/icons/logos--prettier.png) ![obsidian icon](assets/icons/skill-icons--obsidian-dark.png) ![vite icon](assets/icons/skill-icons--vite-dark.png) ![eleventy icon](assets/icons/eleventy-small-gray-bg.png) ![css icon](assets/icons/vscode-icons--file-type-css.png) ![javascript icon](assets/icons/vscode-icons--file-type-js-official.png) ![html icon](assets/icons/logos--html-5.png) ![npm icon](assets/icons/vscode-icons--file-type-npm.png) ![pnpm icon](assets/icons/vscode-icons--file-type-light-pnpm.png) ![vs code icon](assets/icons/vscode-icons--file-type-vscode.png) ![vercel icon](assets/icons/skill-icons--vercel-light.png) ![netlify icon](assets/icons/vscode-icons--file-type-light-netlify.png) ![nunjucks icon](assets/icons/vscode-icons--file-type-nunjucks.png)
 
 <!-- ![skillicons.dev](https://skillicons.dev/icons?i=js,html,css,sass,lua,markdown,astro,godot,npm,pnpm,vscode,vercel,netlify,obsidian,vite,neovim,git,svg,svelte,python) -->
+
+## 🌑 Today's Moon
 
 [![moon](https://moon-svg.minung.dev/moon.svg?theme=basic&rotate=45)](https://www.timeanddate.com/moon/phases/)
 

@@ -2,7 +2,7 @@ name: Update Blog RSS Feed in README
 on:
   workflow_dispatch: # Run workflow manually
   schedule: # Run workflow automatically
-    - cron: 10 8 * * *
+    # - cron: 10 8 * * *
 
 permissions:
   contents: write # Generated contents to README
