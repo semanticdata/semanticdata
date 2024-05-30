@@ -1,0 +1,25 @@
+# Source: https://github.com/lowlighter/metrics#-documentation
+name: Update GitHub Recent activity
+
+on:
+  # runs every day at 02:40
+  schedule: [{ cron: "40 2 * * *" }]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Recent activity
+        uses: lowlighter/metrics@latest
+        with:
+          filename: svg/metrics-gh-recent-actibity.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_activity: yes
+          plugin_activity_limit: 5
+          plugin_activity_days: 0
+          plugin_activity_filter: issue, pr, release, fork, review, ref/create

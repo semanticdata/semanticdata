@@ -1,0 +1,22 @@
+# Source: https://github.com/lowlighter/metrics#-documentation
+name: Update GitHub Base Metrics
+
+on:
+  # runs every day at 05:40
+  schedule: [{ cron: "40 5 * * *" }]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: assets/svg/metrics-gh-base.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          # Options
+          base: header, activity, community, repositories, metadata

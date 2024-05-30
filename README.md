@@ -4,6 +4,10 @@
 Self-taught hobby developer with too many ideas and not enough time.
 </p>
 
+![basic info](assets/svg/metrics-gh-base.svg)
+
+![recent activity](assets/svg/metrics-gh-recent-activity.svg)
+
 ## ❤️ Interests
 
 - Web Development
