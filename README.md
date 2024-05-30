@@ -11,6 +11,8 @@ Self-taught hobby developer with too many ideas and not enough time.
 ![recent activity](assets/svg/metrics-gh-recent-activity.svg)
 
 ![languages](assets/svg/metrics-gh-languages.svg)
+
+![mild facts](assets/svg/metrics-gh-mild-facts.svg)
 </div>
 
 ## ❤️ Interests
