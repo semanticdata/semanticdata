@@ -76,9 +76,7 @@ Self-taught hobby developer with too many ideas and not enough time.
 
 <!-- ![skillicons.dev](https://skillicons.dev/icons?i=js,html,css,sass,lua,markdown,astro,godot,npm,pnpm,vscode,vercel,netlify,obsidian,vite,neovim,git,svg,svelte,python) -->
 
-![moon](https://moon-svg.minung.dev/moon.svg?theme=basic&rotate=0)
-
-<!-- <a href="https://moon-svg.minung.dev"><img src="https://moon-svg.minung.dev/moon.svg?theme=basic&rotate=0" alt="moon.svg"></a> -->
+[![moon](https://moon-svg.minung.dev/moon.svg?theme=basic&rotate=45)](https://www.timeanddate.com/moon/phases/)
 
 With 💜 from <a href="https://www.instagram.com/reel/BVRFeF8h2m3/" target="_blank">Minne</a><a href="https://www.instagram.com/reel/Bhl7n_oH1av/" target="_blank">sota</a>.
 
