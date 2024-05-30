@@ -34,8 +34,8 @@ Self-taught hobby developer with too many ideas and not enough time.
 ## 🕒 Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#2](https://github.com/kjk/edna/issues/2) in [kjk/edna](https://github.com/kjk/edna)
-2. ❌ Closed PR [#169](https://github.com/Track3/hermit/pull/169) in [Track3/hermit](https://github.com/Track3/hermit)
+1. 🗣 Commented on [#2](https://github.com/kjk/edna/issues/2#issuecomment-2138026500) in [kjk/edna](https://github.com/kjk/edna)
+2. ❗ Opened issue [#2](https://github.com/kjk/edna/issues/2) in [kjk/edna](https://github.com/kjk/edna)
 3. ❌ Closed PR [#4](https://github.com/semanticdata/eleventy-plus-vite/pull/4) in [semanticdata/eleventy-plus-vite](https://github.com/semanticdata/eleventy-plus-vite)
 <!--END_SECTION:activity-->
 
