@@ -4,7 +4,7 @@
 
 Self-taught hobby developer with too many ideas and not enough time.
 
-## ❤️ Interests
+## Likes ❤️ Interests
 
 ![Static Badge](https://img.shields.io/badge/Web_Development-rebeccapurple?style=flat-square)
 ![Static Badge](https://img.shields.io/badge/Static%20Site%20Generators-gold?style=flat-square)
@@ -13,7 +13,7 @@ Self-taught hobby developer with too many ideas and not enough time.
 ![Static Badge](https://img.shields.io/badge/Personal%20Knowledge%20Management-darkgreen?style=flat-square)
 ![Static Badge](https://img.shields.io/badge/Public%20Infrastructure-gray?style=flat-square)
 
-## 📊 Stats
+## Github 📊 Stats
 
 ![basic info](assets/svg/metrics-gh-base.svg)
 
@@ -28,7 +28,7 @@ Self-taught hobby developer with too many ideas and not enough time.
 
 <div align="center">
 
-## ✍ Writings
+## Musings ✍ Writings
 
 | **📝 Blog Posts** | **📅 Date** |
 | ------------- | :---: |
@@ -90,17 +90,18 @@ Self-taught hobby developer with too many ideas and not enough time.
 
 <div align="center">
 
-## 🤖 Technologies
+## Tools 🤖 Technologies
 
 ![sass icon](assets/icons/logos--sass.png) ![lua icon](assets/icons/logos--lua.png) ![svelte icon](assets/icons/logos--svelte-icon.png) ![markdown icon](assets/icons/openmoji--markdown.png) ![astro icon](assets/icons/skill-icons--astro.png) ![godot icon](assets/icons/devicon--godot.png) ![husky icon](assets/icons/vscode-icons--file-type-husky.png) ![firefox icon](assets/icons/logos--firefox.png) ![postcss icon](assets/icons/logos--postcss.png) ![prettier icon](assets/icons/logos--prettier.png) ![obsidian icon](assets/icons/skill-icons--obsidian-dark.png) ![vite icon](assets/icons/skill-icons--vite-dark.png) ![eleventy icon](assets/icons/eleventy-small-gray-bg.png) ![css icon](assets/icons/vscode-icons--file-type-css.png) ![javascript icon](assets/icons/vscode-icons--file-type-js-official.png) ![html icon](assets/icons/logos--html-5.png) ![npm icon](assets/icons/vscode-icons--file-type-npm.png) ![pnpm icon](assets/icons/vscode-icons--file-type-light-pnpm.png) ![vs code icon](assets/icons/vscode-icons--file-type-vscode.png) ![vercel icon](assets/icons/skill-icons--vercel-light.png) ![netlify icon](assets/icons/vscode-icons--file-type-light-netlify.png) ![nunjucks icon](assets/icons/vscode-icons--file-type-nunjucks.png)
 
 <!-- ![skillicons.dev](https://skillicons.dev/icons?i=js,html,css,sass,lua,markdown,astro,godot,npm,pnpm,vscode,vercel,netlify,obsidian,vite,neovim,git,svg,svelte,python) -->
 
-## 🌑 Today's Moon
-
-[![moon](https://moon-svg.minung.dev/moon.svg?theme=basic&rotate=45)](https://www.timeanddate.com/moon/phases/)
-
+---
 With 💜 from <a href="https://www.instagram.com/reel/BVRFeF8h2m3/" target="_blank">Minne</a><a href="https://www.instagram.com/reel/Bhl7n_oH1av/" target="_blank">sota</a>.
 
 <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Fsemanticdata%2Fsemanticdata.json&label=Visitors&color=palepink" alt="Unique visitor counter" />
+
+<a href="https://www.timeanddate.com/moon/phases/" target="_blank">
+<img src="https://moon-svg.minung.dev/moon.svg?theme=basic&rotate=45" width="50px" alt="today's moon" />
+</a>
 </div>
