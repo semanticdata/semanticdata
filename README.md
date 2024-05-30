@@ -50,9 +50,12 @@ Self-taught hobby developer with too many ideas and not enough time.
 ![img](https://streak-stats.demolab.com?user=semanticdata&theme=material-palenight&mode=weekly&hide_longest_streak=false&border_radius=6)
 
 ## 🤖 Technologies
-  
+
 ![sass icon](assets/icons/logos--sass.png) ![lua icon](assets/icons/logos--lua.png) ![svelte icon](assets/icons/logos--svelte-icon.png) ![markdown icon](assets/icons/openmoji--markdown.png) ![astro icon](assets/icons/skill-icons--astro.png) ![godot icon](assets/icons/devicon--godot.png) ![husky icon](assets/icons/vscode-icons--file-type-husky.png) ![firefox icon](assets/icons/logos--firefox.png) ![postcss icon](assets/icons/logos--postcss.png) ![prettier icon](assets/icons/logos--prettier.png) ![obsidian icon](assets/icons/skill-icons--obsidian-dark.png) ![vite icon](assets/icons/skill-icons--vite-dark.png) ![eleventy icon](assets/icons/eleventy-small-gray-bg.png) ![css icon](assets/icons/vscode-icons--file-type-css.png) ![javascript icon](assets/icons/vscode-icons--file-type-js-official.png) ![html icon](assets/icons/logos--html-5.png) ![npm icon](assets/icons/vscode-icons--file-type-npm.png) ![pnpm icon](assets/icons/vscode-icons--file-type-light-pnpm.png) ![vs code icon](assets/icons/vscode-icons--file-type-vscode.png) ![vercel icon](assets/icons/skill-icons--vercel-light.png) ![netlify icon](assets/icons/vscode-icons--file-type-light-netlify.png) ![nunjucks icon](assets/icons/vscode-icons--file-type-nunjucks.png)
 </div>
+<!--
+![skillicons.dev](https://skillicons.dev/icons?i=js,html,css,sass,lua,markdown,astro,godot,npm,pnpm,vscode,vercel,netlify,obsidian,vite,neovim,git,svg,svelte,python)
+</div>-->
 
 <p align=center>
 <a href="https://moon-svg.minung.dev"><img src="https://moon-svg.minung.dev/moon.svg?theme=basic&rotate=0" alt="moon.svg"></a>
