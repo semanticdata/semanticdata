@@ -4,17 +4,31 @@
 Self-taught hobby developer with too many ideas and not enough time.
 </p>
 
+<div align="center">
+
 ![basic info](assets/svg/metrics-gh-base.svg)
 
 ![recent activity](assets/svg/metrics-gh-recent-activity.svg)
+
+![languages](assets/svg/metrics-gh-languages.svg)
+</div>
+
+## ❤️ Interests
+
+![Static Badge](https://img.shields.io/badge/Web_Development-rebeccapurple?style=flat-square)
+![Static Badge](https://img.shields.io/badge/Static%20Site%20Generators-gold?style=flat-square)
+![Static Badge](https://img.shields.io/badge/Fire%20Science-red?style=flat-square)
+![Static Badge](https://img.shields.io/badge/Game%20Development-dodgerblue?style=flat-square)  
+![Static Badge](https://img.shields.io/badge/Personal%20Knowledge%20Management-darkgreen?style=flat-square)
+![Static Badge](https://img.shields.io/badge/Public%20Infrastructure-gray?style=flat-square)
 
 ## ❤️ Interests
 
 - Web Development
 - Static Site Generators
+- Fire Science
 - Personal Knowledge Management
 - Game Development
-- Fire Science
 - Public Infrastructure
 
 ## 📝 Blog Posts
@@ -22,7 +36,8 @@ Self-taught hobby developer with too many ideas and not enough time.
 <!-- BLOG-POST-LIST:START -->
 - Jul 6, 2023 · [Being a Firefighter Does Not Save You From Burnout](https://miguelpimentel.do/on-burning-out/)
 - Apr 12, 2023 · [Blogging to Tame the Monkey Mind](https://miguelpimentel.do/monkey-mind/)
-- Mar 18, 2023 · [Hello World!](https://miguelpimentel.do/hello-world/)<!-- BLOG-POST-LIST:END -->
+- Mar 18, 2023 · [Hello World!](https://miguelpimentel.do/hello-world/)
+<!-- BLOG-POST-LIST:END -->
 
 ## 📓 Notes
 
@@ -35,15 +50,15 @@ Self-taught hobby developer with too many ideas and not enough time.
 <!-- TUTORIALS:START -->
 - Jun 26, 2023 · [Unlock the Sidebar Width in Firefox](https://miguelpimentel.do/unlock-firefox-sidebar/)<!-- TUTORIALS:END -->
 
-## 🕒 Recent Activity
+<!-- ## 🕒 Recent Activity -->
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/kjk/edna/issues/2#issuecomment-2138026500) in [kjk/edna](https://github.com/kjk/edna)
+<!-- 1. 🗣 Commented on [#2](https://github.com/kjk/edna/issues/2#issuecomment-2138026500) in [kjk/edna](https://github.com/kjk/edna)
 2. ❗ Opened issue [#2](https://github.com/kjk/edna/issues/2) in [kjk/edna](https://github.com/kjk/edna)
-3. ❌ Closed PR [#4](https://github.com/semanticdata/eleventy-plus-vite/pull/4) in [semanticdata/eleventy-plus-vite](https://github.com/semanticdata/eleventy-plus-vite)
+3. ❌ Closed PR [#4](https://github.com/semanticdata/eleventy-plus-vite/pull/4) in [semanticdata/eleventy-plus-vite](https://github.com/semanticdata/eleventy-plus-vite) -->
 <!--END_SECTION:activity-->
 
-<div align=center>
+<div align="center">
 
 ## 📊 GitHub Stats
 
@@ -61,12 +76,12 @@ Self-taught hobby developer with too many ideas and not enough time.
 ![skillicons.dev](https://skillicons.dev/icons?i=js,html,css,sass,lua,markdown,astro,godot,npm,pnpm,vscode,vercel,netlify,obsidian,vite,neovim,git,svg,svelte,python)
 </div>-->
 
-<p align=center>
+<p align="center">
 <a href="https://moon-svg.minung.dev"><img src="https://moon-svg.minung.dev/moon.svg?theme=basic&rotate=0" alt="moon.svg"></a>
 </p>
-<p align=center>
+<p align="center">
 With 💜 from <a href="https://www.instagram.com/reel/BVRFeF8h2m3/" target="_blank">Minne</a><a href="https://www.instagram.com/reel/Bhl7n_oH1av/" target="_blank">sota</a>.
 </p>
-<p align=center>
+<p align="center">
 <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Fsemanticdata%2Fsemanticdata.json&label=Visitors&color=palepink" alt="Unique visitor counter" />
 </p>

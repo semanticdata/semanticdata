@@ -1,9 +1,9 @@
 # Source: https://github.com/lowlighter/metrics#-documentation
-name: Update GitHub Base Metrics
+name: Update GitHub Languages
 
 on:
-  # runs every day at 05:40
-  schedule: [{ cron: "40 5 * * *" }]
+  # runs every day at 04:15
+  schedule: [{ cron: "15 4 * * *" }]
   workflow_dispatch:
 
 permissions:
@@ -15,8 +15,11 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          filename: assets/svg/metrics-gh-base.svg
+          filename: assets/svg/metrics-gh-languages.svg
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          base: activity, community, repositories # header, metadata
+          base: ""
+          plugin_languages: yes
+          plugin_languages_ignored: markdown
+          plugin_languages_details: percentage
