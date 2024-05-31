@@ -82,20 +82,6 @@
 
 ## Tools 🤖 Technologies
 
-![sass icon](assets/icons/logos--sass.png) ![lua icon](assets/icons/logos--lua.png) ![svelte icon](assets/icons/logos--svelte-icon.png) ![markdown icon](assets/icons/openmoji--markdown.png) ![astro icon](assets/icons/skill-icons--astro.png) ![godot icon](assets/icons/devicon--godot.png) ![husky icon](assets/icons/vscode-icons--file-type-husky.png) ![firefox icon](assets/icons/logos--firefox.png) ![postcss icon](assets/icons/logos--postcss.png) ![prettier icon](assets/icons/logos--prettier.png) ![obsidian icon](assets/icons/skill-icons--obsidian-dark.png) ![vite icon](assets/icons/skill-icons--vite-dark.png) ![eleventy icon](assets/icons/eleventy-small-gray-bg.png) ![css icon](assets/icons/vscode-icons--file-type-css.png) ![javascript icon](assets/icons/vscode-icons--file-type-js-official.png) ![html icon](assets/icons/logos--html-5.png) ![npm icon](assets/icons/vscode-icons--file-type-npm.png) ![pnpm icon](assets/icons/vscode-icons--file-type-light-pnpm.png) ![vs code icon](assets/icons/vscode-icons--file-type-vscode.png) ![vercel icon](assets/icons/skill-icons--vercel-light.png) ![netlify icon](assets/icons/vscode-icons--file-type-light-netlify.png) ![nunjucks icon](assets/icons/vscode-icons--file-type-nunjucks.png)
-
-<!-- ![skillicons.dev](https://skillicons.dev/icons?i=js,html,css,sass,lua,markdown,astro,godot,npm,pnpm,vscode,vercel,netlify,obsidian,vite,neovim,git,svg,svelte,python) -->
-
----
-With 💜 from <a href="https://www.instagram.com/reel/BVRFeF8h2m3/" target="_blank">Minne</a><a href="https://www.instagram.com/reel/Bhl7n_oH1av/" target="_blank">sota</a>.
-
-<img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Fsemanticdata%2Fsemanticdata.json&label=Visitors&color=palepink" alt="Unique visitor counter" />
-<br />
-<a href="https://www.timeanddate.com/moon/phases/" target="_blank">
-<img src="https://moon-svg.minung.dev/moon.svg?theme=basic&rotate=45" width="50px" alt="today's moon" />
-</a>
-</div>
-
 ![11ty](assets/icons/11ty.svg)
 ![astro](assets/icons/astro.svg)
 ![css](assets/icons/css.svg)
@@ -116,3 +102,35 @@ With 💜 from <a href="https://www.instagram.com/reel/BVRFeF8h2m3/" target="_bl
 ![svelte](assets/icons/svelte.svg)
 ![typescript](assets/icons/typescript.svg)
 ![vite](assets/icons/vite.svg)
+
+<img src="assets/icons/11ty.svg" alt="11ty" width="32px" />
+<img src="assets/icons/astro.svg" alt="astro" width="32px" />
+<img src="assets/icons/css.svg" alt="css" width="32px" />
+<img src="assets/icons/docker.svg" alt="docker" width="32px" />
+<img src="assets/icons/godot.svg" alt="godot" width="32px" />
+<img src="assets/icons/html.svg" alt="html" width="32px" />
+<img src="assets/icons/husky.svg" alt="husky" width="32px" />
+<img src="assets/icons/javascript.svg" alt="javascript" width="32px" />
+<img src="assets/icons/lua.svg" alt="lua" width="32px" />
+<img src="assets/icons/markdown.svg" alt="markdown" width="32px" />
+<img src="assets/icons/nunjucks.svg" alt="nunjucks" width="32px" />
+<img src="assets/icons/obsidian.svg" alt="obsidian" width="32px" />
+<img src="assets/icons/pnpm.svg" alt="pnpm" width="32px" />
+<img src="assets/icons/postcss.svg" alt="postcss" width="32px" />
+<img src="assets/icons/prettier.svg" alt="prettier" width="32px" />
+<img src="assets/icons/sass.svg" alt="sass" width="32px" />
+<img src="assets/icons/svelte.svg" alt="svelte" width="32px" />
+<img src="assets/icons/typescript.svg" alt="typescript" width="32px" />
+<img src="assets/icons/vite.svg" alt="vite" width="32px" />
+
+<!-- ![skillicons.dev](https://skillicons.dev/icons?i=js,html,css,sass,lua,markdown,astro,godot,npm,pnpm,vscode,vercel,netlify,obsidian,vite,neovim,git,svg,svelte,python) -->
+
+---
+With 💜 from <a href="https://www.instagram.com/reel/BVRFeF8h2m3/" target="_blank">Minne</a><a href="https://www.instagram.com/reel/Bhl7n_oH1av/" target="_blank">sota</a>.
+
+<img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Fsemanticdata%2Fsemanticdata.json&label=Visitors&color=palepink" alt="Unique visitor counter" />
+<br />
+<a href="https://www.timeanddate.com/moon/phases/" target="_blank">
+<img src="https://moon-svg.minung.dev/moon.svg?theme=basic&rotate=45" width="50px" alt="today's moon" />
+</a>
+</div>
