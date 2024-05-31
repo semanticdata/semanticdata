@@ -95,3 +95,24 @@ With 💜 from <a href="https://www.instagram.com/reel/BVRFeF8h2m3/" target="_bl
 <img src="https://moon-svg.minung.dev/moon.svg?theme=basic&rotate=45" width="50px" alt="today's moon" />
 </a>
 </div>
+
+![11ty](assets/icons/11ty.svg)
+![astro](assets/icons/astro.svg)
+![css](assets/icons/css.svg)
+![docker](assets/icons/docker.svg)
+![godot](assets/icons/godot.svg)
+![html](assets/icons/html.svg)
+![husky](assets/icons/husky.svg)
+![javascript](assets/icons/javascript.svg)
+![lua](assets/icons/lua.svg)
+![markdown](assets/icons/markdown.svg)
+![markdown-2](assets/icons/markdown-2.svg)
+![nunjucks](assets/icons/nunjucks.svg)
+![obsidian](assets/icons/obsidian.svg)
+![pnpm](assets/icons/pnpm.svg)
+![postcss](assets/icons/postcss.svg)
+![prettier](assets/icons/prettier.svg)
+![sass](assets/icons/sass.svg)
+![svelte](assets/icons/svelte.svg)
+![typescript](assets/icons/typescript.svg)
+![vite](assets/icons/vite.svg)
