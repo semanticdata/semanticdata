@@ -1,0 +1,51 @@
+# Source: https://github.com/lowlighter/metrics#-documentation
+name: Markdown Template (test)
+
+on:
+  # runs every day at 00:00
+  # schedule: [{ cron: "0 0 * * *" }]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics-markdown.md
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          # Options
+          user: semanticdata
+          template: markdown
+          config_output: markdown
+          markdown_cache: .cache
+          markdown: >-
+            https://raw.githubusercontent.com/semanticdata/semanticdata/main/README-source.md
+          base: ""
+          
+          plugin_rss: yes
+          plugin_rss_source: https://database.bearblog.dev/feed/?q=posts
+          # plugin_rss_limit: 4
+          
+          plugin_activity: yes
+          plugin_activity_limit: 8
+          # plugin_activity_load: 300
+          plugin_activity_days: 30
+          # plugin_activity_visibility: all
+          # plugin_activity_timestamps: yes
+          plugin_activity_filter: issue, pr, release, review, fork, ref/create
+          
+          plugin_topics: yes
+          plugin_topics_mode: icons
+          plugin_topics_limit: 0
+          
+          plugin_posts: yes
+          plugin_posts_source: dev.to
+          plugin_posts_user: semanticdata
+          plugin_posts_descriptions: yes
+          plugin_posts_covers: yes
+          plugin_posts_limit: 3
