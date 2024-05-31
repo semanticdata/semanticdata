@@ -41,15 +41,16 @@
 <!-- ## 📝 Blog Posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- Jul 6, 2023 · [Being a Firefighter Does Not Save You From Burnout](https://miguelpimentel.do/on-burning-out/)
-- Apr 12, 2023 · [Blogging to Tame the Monkey Mind](https://miguelpimentel.do/monkey-mind/)
-- Mar 18, 2023 · [Hello World!](https://miguelpimentel.do/hello-world/)<!-- BLOG-POST-LIST:END -->
+<!-- - Jul 6, 2023 · [Being a Firefighter Does Not Save You From Burnout](https://miguelpimentel.do/on-burning-out/) -->
+<!-- - Apr 12, 2023 · [Blogging to Tame the Monkey Mind](https://miguelpimentel.do/monkey-mind/) -->
+<!-- - Mar 18, 2023 · [Hello World!](https://miguelpimentel.do/hello-world/) -->
+<!-- BLOG-POST-LIST:END -->
 
 <!-- ## 📓 Notes -->
 
 <!-- NOTES:START -->
-<!-- - Jul 28, 2023 · [SSD / NVMe Comparison](https://miguelpimentel.do/ssd-nvme-comparison/)
-- Jul 12, 2023 · [Aurora Borealis Sighting](https://miguelpimentel.do/aurora-borealis/) -->
+<!-- - Jul 28, 2023 · [SSD / NVMe Comparison](https://miguelpimentel.do/ssd-nvme-comparison/) -->
+<!-- - Jul 12, 2023 · [Aurora Borealis Sighting](https://miguelpimentel.do/aurora-borealis/) -->
 <!-- NOTES:END -->
 
 <!-- ## 🎓 Tutorials -->
@@ -61,15 +62,13 @@
 <!-- ## 🕒 Recent Activity -->
 
 <!--START_SECTION:activity-->
-<!-- 1. 🗣 Commented on [#2](https://github.com/kjk/edna/issues/2#issuecomment-2138026500) in [kjk/edna](https://github.com/kjk/edna)
-1. ❗ Opened issue [#2](https://github.com/kjk/edna/issues/2) in [kjk/edna](https://github.com/kjk/edna)
-2. ❌ Closed PR [#4](https://github.com/semanticdata/eleventy-plus-vite/pull/4) in [semanticdata/eleventy-plus-vite](https://github.com/semanticdata/eleventy-plus-vite) -->
+<!-- 1. 🗣 Commented on [#2](https://github.com/kjk/edna/issues/2#issuecomment-2138026500) in [kjk/edna](https://github.com/kjk/edna) -->
+<!-- 2. ❗ Opened issue [#2](https://github.com/kjk/edna/issues/2) in [kjk/edna](https://github.com/kjk/edna) -->
+<!-- 3. ❌ Closed PR [#4](https://github.com/semanticdata/eleventy-plus-vite/pull/4) in [semanticdata/eleventy-plus-vite](https://github.com/semanticdata/eleventy-plus-vite) -->
 <!--END_SECTION:activity-->
 
 <!-- ![img](https://github-readme-stats.vercel.app/api/top-langs/?username=semanticdata&hide=markdown&layout=compact&theme=material-palenight) -->
-
 <!-- ![img](https://github-readme-stats.vercel.app/api?username=semanticdata&show_icons=true&theme=material-palenight&hide_rank=true&border_radius=6) -->
-
 <!-- ![img](https://streak-stats.demolab.com?user=semanticdata&theme=material-palenight&mode=weekly&hide_longest_streak=false&border_radius=6) -->
 
 <div align="center">
