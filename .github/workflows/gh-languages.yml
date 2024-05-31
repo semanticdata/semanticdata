@@ -3,7 +3,7 @@ name: Update GitHub Languages
 
 on:
   # runs every day at 04:15
-  schedule: [{ cron: "15 4 * * *" }]
+  # schedule: [{ cron: "15 4 * * *" }]
   workflow_dispatch:
 
 permissions:
