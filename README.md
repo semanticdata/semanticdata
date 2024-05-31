@@ -46,10 +46,9 @@
 <!-- ## 📝 Blog Posts -->
 
 <!-- BLOG-POST-LIST:START -->
-<!-- - Jul 6, 2023 · [Being a Firefighter Does Not Save You From Burnout](https://miguelpimentel.do/on-burning-out/)
+- Jul 6, 2023 · [Being a Firefighter Does Not Save You From Burnout](https://miguelpimentel.do/on-burning-out/)
 - Apr 12, 2023 · [Blogging to Tame the Monkey Mind](https://miguelpimentel.do/monkey-mind/)
-- Mar 18, 2023 · [Hello World!](https://miguelpimentel.do/hello-world/) -->
-<!-- BLOG-POST-LIST:END -->
+- Mar 18, 2023 · [Hello World!](https://miguelpimentel.do/hello-world/)<!-- BLOG-POST-LIST:END -->
 
 <!-- ## 📓 Notes -->
 
