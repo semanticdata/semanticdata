@@ -1,7 +1,7 @@
 name: Update Tutorials RSS Feed in README
 on:
   workflow_dispatch: # Run workflow manually
-  schedule: # Run workflow automatically
+  # schedule: # Run workflow automatically
     # - cron: 10 22 * * *
 
 permissions:
