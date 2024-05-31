@@ -80,7 +80,7 @@
 
 <div align="center">
 
-## Spotify
+## Music 🎶 Spotify
 
 ![spotify top 10 artists](assets/svg/metrics-spotify-top-artists.svg)
 
