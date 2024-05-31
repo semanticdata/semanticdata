@@ -4,7 +4,7 @@ name: Update Recent Activity in README
 
 on:
   workflow_dispatch:
-  schedule:
+  # schedule:
     # - cron: "10 */6 * * *" # Run every 6 hours
 
 jobs:
