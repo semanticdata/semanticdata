@@ -1,0 +1,23 @@
+# Source: https://github.com/lowlighter/metrics#-documentation
+name: Update GitHub Notable contributions
+
+on:
+  # runs every day at 03:00
+  schedule: [{ cron: "0 3 * * *" }]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  github-metrics-screenshot:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: assets/svg/metrics-gh-notable-contributions.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          # Options
+          base: ""
+          plugin_notable: yes
