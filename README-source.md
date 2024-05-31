@@ -20,7 +20,7 @@
 
 ![mild facts](assets/svg/metrics-gh-mild-facts.svg)
 
-![notable contributions](svg/metrics-gh-notable-contributions.svg)
+![notable contributions](assets/svg/metrics-gh-notable-contributions.svg)
 
 ![languages](assets/svg/metrics-gh-languages.svg)
 
@@ -82,9 +82,9 @@
 
 ## Spotify
 
-![spotify top 10 artists](svg/metrics-spotify-top-artists.svg)
+![spotify top 10 artists](assets/svg/metrics-spotify-top-artists.svg)
 
-![spotify top 10 tracks](svg/metrics-spotify-top-tracks.svg)
+![spotify top 10 tracks](assets/svg/metrics-spotify-top-tracks.svg)
 
 ## Tools 🤖 Technologies
 
