@@ -82,46 +82,25 @@
 
 ## Tools 🤖 Technologies
 
-![11ty](assets/icons/11ty.svg)
-![astro](assets/icons/astro.svg)
-![css](assets/icons/css.svg)
-![docker](assets/icons/docker.svg)
-![godot](assets/icons/godot.svg)
-![html](assets/icons/html.svg)
-![husky](assets/icons/husky.svg)
-![javascript](assets/icons/javascript.svg)
-![lua](assets/icons/lua.svg)
-![markdown](assets/icons/markdown.svg)
-![markdown-2](assets/icons/markdown-2.svg)
-![nunjucks](assets/icons/nunjucks.svg)
-![obsidian](assets/icons/obsidian.svg)
-![pnpm](assets/icons/pnpm.svg)
-![postcss](assets/icons/postcss.svg)
-![prettier](assets/icons/prettier.svg)
-![sass](assets/icons/sass.svg)
-![svelte](assets/icons/svelte.svg)
-![typescript](assets/icons/typescript.svg)
-![vite](assets/icons/vite.svg)
-
-<img src="assets/icons/11ty.svg" alt="11ty" width="32px" />
-<img src="assets/icons/astro.svg" alt="astro" width="32px" />
-<img src="assets/icons/css.svg" alt="css" width="32px" />
-<img src="assets/icons/docker.svg" alt="docker" width="32px" />
-<img src="assets/icons/godot.svg" alt="godot" width="32px" />
-<img src="assets/icons/html.svg" alt="html" width="32px" />
-<img src="assets/icons/husky.svg" alt="husky" width="32px" />
-<img src="assets/icons/javascript.svg" alt="javascript" width="32px" />
-<img src="assets/icons/lua.svg" alt="lua" width="32px" />
-<img src="assets/icons/markdown.svg" alt="markdown" width="32px" />
-<img src="assets/icons/nunjucks.svg" alt="nunjucks" width="32px" />
-<img src="assets/icons/obsidian.svg" alt="obsidian" width="32px" />
-<img src="assets/icons/pnpm.svg" alt="pnpm" width="32px" />
-<img src="assets/icons/postcss.svg" alt="postcss" width="32px" />
-<img src="assets/icons/prettier.svg" alt="prettier" width="32px" />
-<img src="assets/icons/sass.svg" alt="sass" width="32px" />
-<img src="assets/icons/svelte.svg" alt="svelte" width="32px" />
-<img src="assets/icons/typescript.svg" alt="typescript" width="32px" />
-<img src="assets/icons/vite.svg" alt="vite" width="32px" />
+<img src="assets/icons/11ty.svg" alt="11ty" width="48px" />
+<img src="assets/icons/astro.svg" alt="astro" width="48px" />
+<img src="assets/icons/css.svg" alt="css" width="48px" />
+<img src="assets/icons/docker.svg" alt="docker" width="48px" />
+<img src="assets/icons/godot.svg" alt="godot" width="48px" />
+<img src="assets/icons/html.svg" alt="html" width="48px" />
+<img src="assets/icons/husky.svg" alt="husky" width="48px" />
+<img src="assets/icons/javascript.svg" alt="javascript" width="48px" />
+<img src="assets/icons/lua.svg" alt="lua" width="48px" />
+<img src="assets/icons/markdown.svg" alt="markdown" width="48px" />
+<img src="assets/icons/nunjucks.svg" alt="nunjucks" width="48px" />
+<img src="assets/icons/obsidian.svg" alt="obsidian" width="48px" />
+<img src="assets/icons/pnpm.svg" alt="pnpm" width="48px" />
+<img src="assets/icons/postcss.svg" alt="postcss" width="48px" />
+<img src="assets/icons/prettier.svg" alt="prettier" width="48px" />
+<img src="assets/icons/sass.svg" alt="sass" width="48px" />
+<img src="assets/icons/svelte.svg" alt="svelte" width="48px" />
+<img src="assets/icons/typescript.svg" alt="typescript" width="48px" />
+<img src="assets/icons/vite.svg" alt="vite" width="48px" />
 
 <!-- ![skillicons.dev](https://skillicons.dev/icons?i=js,html,css,sass,lua,markdown,astro,godot,npm,pnpm,vscode,vercel,netlify,obsidian,vite,neovim,git,svg,svelte,python) -->
 
