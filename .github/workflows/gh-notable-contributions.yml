@@ -21,6 +21,6 @@ jobs:
           # Options
           base: ""
           plugin_notable: yes
-          plugin_notable_repositories: no
-          plugin_notable_from: all # opts: [all|organization|user]
+          plugin_notable_repositories: yes
+          # plugin_notable_from: all # opts: [all|organization|user]
           plugin_notable_types: commit, pull_request, issue
