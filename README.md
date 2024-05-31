@@ -5,7 +5,12 @@
 
 ## Likes ❤️ Interests
 
-![Static Badge](https://img.shields.io/badge/Web_Development-rebeccapurple?style=flat-square) ![Static Badge](https://img.shields.io/badge/Static%20Site%20Generators-gold?style=flat-square) ![Static Badge](https://img.shields.io/badge/Fire%20Science-red?style=flat-square) ![Static Badge](https://img.shields.io/badge/Game%20Development-dodgerblue?style=flat-square)   ![Static Badge](https://img.shields.io/badge/Personal%20Knowledge%20Management-darkgreen?style=flat-square) ![Static Badge](https://img.shields.io/badge/Public%20Infrastructure-gray?style=flat-square)
+<img alt="Static Badge" height="24px" src="https://img.shields.io/badge/Web_Development-rebeccapurple?style=flat-square">
+<img alt="Static Badge" height="24px" src="https://img.shields.io/badge/Static%20Site%20Generators-gold?style=flat-square">
+<img alt="Static Badge" height="24px" src="https://img.shields.io/badge/Fire%20Science-red?style=flat-square">
+<img alt="Static Badge" height="24px" src="https://img.shields.io/badge/Game%20Development-dodgerblue?style=flat-square">
+<img alt="Static Badge" height="24px" src="https://img.shields.io/badge/Personal%20Knowledge%20Management-darkgreen?style=flat-square">
+<img alt="Static Badge" height="24px" src="https://img.shields.io/badge/Public%20Infrastructure-gray?style=flat-square">
 
 ## GitHub 📊 Stats
 
