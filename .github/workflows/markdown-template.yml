@@ -15,7 +15,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          filename: metrics-markdown.md
+          filename: README.md
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
