@@ -1,0 +1,29 @@
+# Source: https://github.com/lowlighter/metrics#-documentation
+name: Update Spotify - Top 10 (Tracks)
+
+on:
+  # runs every day at 06:35
+  # schedule: [{ cron: "35 6 * * *" }]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Spotify - Top 10 (Tracks)
+      uses: lowlighter/metrics@latest
+      with:
+        filename: assets/svg/metrics-spotify-top-tracks.svg
+        token: ${{ secrets.METRICS_TOKEN }}
+        base: ""
+        plugin_music: yes
+        plugin_music_provider: spotify
+        plugin_music_token: ${{ secrets.SPOTIFY_SECRETS }}
+        plugin_music_mode: top         # opts: [playlist|top|recent]
+        plugin_music_limit: 10         # opts: [1-100]
+        plugin_music_time_range: medium # opts: [short|medium|long]
+        plugin_music_top_type: tracks  # opts: [artists|tracks]
+        plugin_music_played_at: yes    # opts: [yes|no]
