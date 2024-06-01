@@ -19,6 +19,8 @@
 <img width="550px" src="assets/svg/metrics-gh-mild-facts.svg" alt="mild facts">
 <img width="550px" src="assets/svg/metrics-gh-notable-contributions.svg" alt="notable contributions">
 <img width="550px" src="assets/svg/metrics-gh-languages.svg" alt="languages">
+
+<br />
 <img width="550px" src="https://streak-stats.demolab.com?user=semanticdata&theme=material-palenight&mode=weekly&hide_longest_streak=false&border_radius=6" alt="img">
 </div>
 
@@ -82,30 +84,30 @@
 
 <img src="assets/icons/11ty.svg" alt="11ty" width="48px" />
 <img src="assets/icons/astro.svg" alt="astro" width="48px" />
+<img src="assets/icons/bulma.svg" alt="vite" width="40px" />
 <img src="assets/icons/css.svg" alt="css" width="48px" />
 <img src="assets/icons/docker.svg" alt="docker" width="48px" />
+<img src="assets/icons/eleventy.svg" alt="vite" width="48px" />
+<img src="assets/icons/git.svg" alt="vite" width="48px" />
 <img src="assets/icons/godot.svg" alt="godot" width="48px" />
 <img src="assets/icons/html.svg" alt="html" width="48px" />
 <img src="assets/icons/husky.svg" alt="husky" width="48px" />
 <img src="assets/icons/javascript.svg" alt="javascript" width="48px" />
+<img src="assets/icons/love.ico" alt="vite" width="48px" />
 <img src="assets/icons/lua.svg" alt="lua" width="48px" />
 <img src="assets/icons/markdown.svg" alt="markdown" width="48px" />
+<img src="assets/icons/neovim.svg" alt="vite" width="48px" />
 <img src="assets/icons/nunjucks.svg" alt="nunjucks" width="48px" />
 <img src="assets/icons/obsidian.svg" alt="obsidian" width="48px" />
 <img src="assets/icons/pnpm.svg" alt="pnpm" width="48px" />
 <img src="assets/icons/postcss.svg" alt="postcss" width="48px" />
 <img src="assets/icons/prettier.svg" alt="prettier" width="48px" />
+<img src="assets/icons/python.svg" alt="vite" width="48px" />
 <img src="assets/icons/sass.svg" alt="sass" width="48px" />
 <img src="assets/icons/svelte.svg" alt="svelte" width="48px" />
+<img src="assets/icons/tailwindcss.svg" alt="vite" width="48px" />
 <img src="assets/icons/typescript.svg" alt="typescript" width="48px" />
 <img src="assets/icons/vite.svg" alt="vite" width="48px" />
-<img src="assets/icons/bulma.svg" alt="vite" width="40px" />
-<img src="assets/icons/eleventy.svg" alt="vite" width="48px" />
-<img src="assets/icons/git.svg" alt="vite" width="48px" />
-<img src="assets/icons/neovim.svg" alt="vite" width="48px" />
-<img src="assets/icons/python.svg" alt="vite" width="48px" />
-<img src="assets/icons/tailwindcss.svg" alt="vite" width="48px" />
-<img src="assets/icons/love.ico" alt="vite" width="48px" />
 <img src="assets/icons/zola.ico" alt="vite" width="48px" />
 
 <!-- ![skillicons.dev](https://skillicons.dev/icons?i=js,html,css,sass,lua,markdown,astro,godot,npm,pnpm,vscode,vercel,netlify,obsidian,vite,neovim,git,svg,svelte,python) -->
