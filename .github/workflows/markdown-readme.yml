@@ -1,5 +1,5 @@
 # Source: https://github.com/lowlighter/metrics#-documentation
-name: Markdown Template (test)
+name: Update README.md
 
 on:
   # runs every day at 00:00

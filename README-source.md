@@ -84,7 +84,7 @@
 
 <img src="assets/icons/11ty.svg" alt="11ty" width="48px" />
 <img src="assets/icons/astro.svg" alt="astro" width="48px" />
-<img src="assets/icons/bulma.svg" alt="vite" width="40px" />
+<img src="assets/icons/bulma.svg" alt="vite" height="48px" />
 <img src="assets/icons/css.svg" alt="css" width="48px" />
 <img src="assets/icons/docker.svg" alt="docker" width="48px" />
 <img src="assets/icons/eleventy.svg" alt="vite" width="48px" />
