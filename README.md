@@ -5,12 +5,12 @@
 
 ## Likes ❤️ Interests
 
-<img alt="Static Badge" height="24px" src="https://img.shields.io/badge/Web_Development-rebeccapurple?style=flat-square">
-<img alt="Static Badge" height="24px" src="https://img.shields.io/badge/Static%20Site%20Generators-gold?style=flat-square">
-<img alt="Static Badge" height="24px" src="https://img.shields.io/badge/Fire%20Science-red?style=flat-square">
-<img alt="Static Badge" height="24px" src="https://img.shields.io/badge/Game%20Development-dodgerblue?style=flat-square">
-<img alt="Static Badge" height="24px" src="https://img.shields.io/badge/Personal%20Knowledge%20Management-darkgreen?style=flat-square">
-<img alt="Static Badge" height="24px" src="https://img.shields.io/badge/Public%20Infrastructure-gray?style=flat-square">
+<img alt="Static Badge" height="28px" src="https://img.shields.io/badge/Web_Development-rebeccapurple?style=flat-square">
+<img alt="Static Badge" height="28px" src="https://img.shields.io/badge/Static%20Site%20Generators-gold?style=flat-square">
+<img alt="Static Badge" height="28px" src="https://img.shields.io/badge/Fire%20Science-red?style=flat-square">
+<img alt="Static Badge" height="28px" src="https://img.shields.io/badge/Game%20Development-dodgerblue?style=flat-square">
+<img alt="Static Badge" height="28px" src="https://img.shields.io/badge/Personal%20Knowledge%20Management-darkgreen?style=flat-square">
+<img alt="Static Badge" height="28px" src="https://img.shields.io/badge/Public%20Infrastructure-gray?style=flat-square">
 
 ## GitHub 📊 Stats
 
@@ -110,9 +110,9 @@
 
 <!-- ![skillicons.dev](https://skillicons.dev/icons?i=js,html,css,sass,lua,markdown,astro,godot,npm,pnpm,vscode,vercel,netlify,obsidian,vite,neovim,git,svg,svelte,python) -->
 
-<!-- <hr /> -->
-<br />
-<br />
+<!-- <br /> -->
+<!-- <br /> -->
+<hr />
 
 <p>With 💜 from <a href="https://www.instagram.com/reel/BVRFeF8h2m3/" target="_blank">Minne</a><a href="https://www.instagram.com/reel/Bhl7n_oH1av/" target="_blank">sota</a>.</p>
 
