@@ -31,7 +31,7 @@
 
 ## Musings ✍ Writings
 
-| **📝 Blog Posts**                                                                               |  **📅 Date** |
+| **📝 Blog posts**                                                                               |  **📅 Date** |
 | :----------------                                                                               | :----------: |
 | [Being a Firefighter Does Not Save You From Burnout](https://miguelpimentel.do/on-burning-out/) | Jul 6, 2023  |
 | [Blogging to Tame the Monkey Mind](https://miguelpimentel.do/monkey-mind/)                      | Apr 12, 2023 |
