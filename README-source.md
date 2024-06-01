@@ -83,33 +83,32 @@
 
 ## Tools 🤖 Technologies
 
-<img src="assets/icons/11ty.svg" alt="11ty" width="48px" />
-<img src="assets/icons/astro.svg" alt="astro" width="48px" />
-<img src="assets/icons/bulma.svg" alt="vite" height="48px" />
-<img src="assets/icons/css.svg" alt="css" width="48px" />
-<img src="assets/icons/docker.svg" alt="docker" width="48px" />
-<img src="assets/icons/eleventy.svg" alt="vite" width="48px" />
-<img src="assets/icons/git.svg" alt="vite" width="48px" />
-<img src="assets/icons/godot.svg" alt="godot" width="48px" />
-<img src="assets/icons/html.svg" alt="html" width="48px" />
-<img src="assets/icons/husky.svg" alt="husky" width="48px" />
-<img src="assets/icons/javascript.svg" alt="javascript" width="48px" />
-<img src="assets/icons/love.ico" alt="vite" width="48px" />
-<img src="assets/icons/lua.svg" alt="lua" width="48px" />
-<img src="assets/icons/markdown.svg" alt="markdown" width="48px" />
-<img src="assets/icons/neovim.svg" alt="vite" width="48px" />
-<img src="assets/icons/nunjucks.svg" alt="nunjucks" width="48px" />
-<img src="assets/icons/obsidian.svg" alt="obsidian" width="48px" />
-<img src="assets/icons/pnpm.svg" alt="pnpm" width="48px" />
-<img src="assets/icons/postcss.svg" alt="postcss" width="48px" />
-<img src="assets/icons/prettier.svg" alt="prettier" width="48px" />
-<img src="assets/icons/python.svg" alt="vite" width="48px" />
-<img src="assets/icons/sass.svg" alt="sass" width="48px" />
-<img src="assets/icons/svelte.svg" alt="svelte" width="48px" />
-<img src="assets/icons/tailwindcss.svg" alt="vite" width="48px" />
-<img src="assets/icons/typescript.svg" alt="typescript" width="48px" />
-<img src="assets/icons/vite.svg" alt="vite" width="48px" />
-<img src="assets/icons/zola.ico" alt="vite" width="48px" />
+<a href="https://astro.build/"><img src="assets/icons/astro.svg" alt="astro" width="48px" /></a>
+<a href="https://bulma.io/"><img src="assets/icons/bulma.svg" alt="vite" height="48px" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="assets/icons/css.svg" alt="css" width="48px" /></a>
+<a href="https://www.docker.com/"><img src="assets/icons/docker.svg" alt="docker" width="48px" /></a>
+<a href="https://11ty.dev/"><img src="assets/icons/eleventy.svg" alt="vite" width="48px" /></a>
+<a href="https://www.git-scm.com/"><img src="assets/icons/git.svg" alt="vite" width="48px" /></a>
+<a href="https://godotengine.org/"><img src="assets/icons/godot.svg" alt="godot" width="48px" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="assets/icons/html.svg" alt="html" width="48px" /></a>
+<a href="https://typicode.github.io/husky/"><img src="assets/icons/husky.svg" alt="husky" width="48px" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="assets/icons/javascript.svg" alt="javascript" width="48px" /></a>
+<a href="https://love2d.org/"><img src="assets/icons/love.ico" alt="vite" width="48px" /></a>
+<a href="https://lua.org/"><img src="assets/icons/lua.svg" alt="lua" width="48px" /></a>
+<a href="https://www.markdownguide.org/"><img src="assets/icons/markdown.svg" alt="markdown" width="48px" /></a>
+<a href="https://neovim.io/"><img src="assets/icons/neovim.svg" alt="vite" width="48px" /></a>
+<a href="https://mozilla.github.io/nunjucks/"><img src="assets/icons/nunjucks.svg" alt="nunjucks" width="48px" /></a>
+<a href="https://obsidian.md/"><img src="assets/icons/obsidian.svg" alt="obsidian" width="48px" /></a>
+<a href="https://pnpm.io/"><img src="assets/icons/pnpm.svg" alt="pnpm" width="48px" /></a>
+<a href="https://postcss.org/"><img src="assets/icons/postcss.svg" alt="postcss" width="48px" /></a>
+<a href="https://prettier.io/"><img src="assets/icons/prettier.svg" alt="prettier" width="48px" /></a>
+<a href="https://www.python.org/"><img src="assets/icons/python.svg" alt="vite" width="48px" /></a>
+<a href="https://sass-lang.com/"><img src="assets/icons/sass.svg" alt="sass" width="48px" /></a>
+<a href="https://svelte.dev/"><img src="assets/icons/svelte.svg" alt="svelte" width="48px" /></a>
+<a href="https://tailwindcss.com/"><img src="assets/icons/tailwindcss.svg" alt="vite" width="48px" /></a>
+<a href="https://www.typescriptlang.org/"><img src="assets/icons/typescript.svg" alt="typescript" width="48px" /></a>
+<a href="https://vitejs.dev/"><img src="assets/icons/vite.svg" alt="vite" width="48px" /></a>
+<a href="https://www.getzola.org/"><img src="assets/icons/zola.ico" alt="vite" width="48px" /></a>
 
 <!-- ![skillicons.dev](https://skillicons.dev/icons?i=js,html,css,sass,lua,markdown,astro,godot,npm,pnpm,vscode,vercel,netlify,obsidian,vite,neovim,git,svg,svelte,python) -->
 
