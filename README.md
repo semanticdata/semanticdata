@@ -75,8 +75,8 @@
 
 ## Music 🎶 Spotify
 
-<img width="500px" alt="top artists" src="assets/svg/metrics-spotify-top-artists.svg" />
-<img width="500px" alt="top tracks" src="assets/svg/metrics-spotify-top-tracks.svg" />
+<img width="600px" alt="top artists" src="assets/svg/metrics-spotify-top-artists.svg" />
+<img width="600px" alt="top tracks" src="assets/svg/metrics-spotify-top-tracks.svg" />
 
 ## Tools 🤖 Technologies
 

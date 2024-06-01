@@ -75,9 +75,8 @@
 
 ## Music 🎶 Spotify
 
-![spotify top 10 artists](assets/svg/metrics-spotify-top-artists.svg)
-
-![spotify top 10 tracks](assets/svg/metrics-spotify-top-tracks.svg)
+<img width="600px" alt="top artists" src="assets/svg/metrics-spotify-top-artists.svg" />
+<img width="600px" alt="top tracks" src="assets/svg/metrics-spotify-top-tracks.svg" />
 
 ## Tools 🤖 Technologies
 
@@ -100,6 +99,14 @@
 <img src="assets/icons/svelte.svg" alt="svelte" width="48px" />
 <img src="assets/icons/typescript.svg" alt="typescript" width="48px" />
 <img src="assets/icons/vite.svg" alt="vite" width="48px" />
+<img src="assets/icons/bulma.svg" alt="vite" width="40px" />
+<img src="assets/icons/eleventy.svg" alt="vite" width="48px" />
+<img src="assets/icons/git.svg" alt="vite" width="48px" />
+<img src="assets/icons/neovim.svg" alt="vite" width="48px" />
+<img src="assets/icons/python.svg" alt="vite" width="48px" />
+<img src="assets/icons/tailwindcss.svg" alt="vite" width="48px" />
+<img src="assets/icons/love.ico" alt="vite" width="48px" />
+<img src="assets/icons/zola.ico" alt="vite" width="48px" />
 
 <!-- ![skillicons.dev](https://skillicons.dev/icons?i=js,html,css,sass,lua,markdown,astro,godot,npm,pnpm,vscode,vercel,netlify,obsidian,vite,neovim,git,svg,svelte,python) -->
 
