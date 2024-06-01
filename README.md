@@ -75,11 +75,8 @@
 
 ## Music 🎶 Spotify
 
-<img width="500px" src="assets/svg/metrics-spotify-top-artists.svg" />
-<img width="500px" src="assets/svg/metrics-spotify-top-tracks.svg" />
-
-![spotify top 10 artists](assets/svg/metrics-spotify-top-artists.svg)
-![spotify top 10 tracks](assets/svg/metrics-spotify-top-tracks.svg)
+<img width="500px" alt="top artists" src="assets/svg/metrics-spotify-top-artists.svg" />
+<img width="500px" alt="top tracks" src="assets/svg/metrics-spotify-top-tracks.svg" />
 
 ## Tools 🤖 Technologies
 
@@ -105,8 +102,9 @@
 
 <!-- ![skillicons.dev](https://skillicons.dev/icons?i=js,html,css,sass,lua,markdown,astro,godot,npm,pnpm,vscode,vercel,netlify,obsidian,vite,neovim,git,svg,svelte,python) -->
 
----
-With 💜 from <a href="https://www.instagram.com/reel/BVRFeF8h2m3/" target="_blank">Minne</a><a href="https://www.instagram.com/reel/Bhl7n_oH1av/" target="_blank">sota</a>.
+<!-- <hr /> -->
+
+<p>With 💜 from <a href="https://www.instagram.com/reel/BVRFeF8h2m3/" target="_blank">Minne</a><a href="https://www.instagram.com/reel/Bhl7n_oH1av/" target="_blank">sota</a>.</p>
 
 <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Fsemanticdata%2Fsemanticdata.json&label=Visitors&color=palepink" alt="Unique visitor counter" />
 <br />

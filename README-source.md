@@ -5,26 +5,21 @@
 
 ## Likes ❤️ Interests
 
-![Static Badge](https://img.shields.io/badge/Web_Development-rebeccapurple?style=flat-square)
-![Static Badge](https://img.shields.io/badge/Static%20Site%20Generators-gold?style=flat-square)
-![Static Badge](https://img.shields.io/badge/Fire%20Science-red?style=flat-square)
-![Static Badge](https://img.shields.io/badge/Game%20Development-dodgerblue?style=flat-square)  
-![Static Badge](https://img.shields.io/badge/Personal%20Knowledge%20Management-darkgreen?style=flat-square)
-![Static Badge](https://img.shields.io/badge/Public%20Infrastructure-gray?style=flat-square)
+<img alt="Static Badge" height="24px" src="https://img.shields.io/badge/Web_Development-rebeccapurple?style=flat-square">
+<img alt="Static Badge" height="24px" src="https://img.shields.io/badge/Static%20Site%20Generators-gold?style=flat-square">
+<img alt="Static Badge" height="24px" src="https://img.shields.io/badge/Fire%20Science-red?style=flat-square">
+<img alt="Static Badge" height="24px" src="https://img.shields.io/badge/Game%20Development-dodgerblue?style=flat-square">
+<img alt="Static Badge" height="24px" src="https://img.shields.io/badge/Personal%20Knowledge%20Management-darkgreen?style=flat-square">
+<img alt="Static Badge" height="24px" src="https://img.shields.io/badge/Public%20Infrastructure-gray?style=flat-square">
 
 ## GitHub 📊 Stats
 
-![basic info](assets/svg/metrics-gh-base.svg)
-
-![recent activity](assets/svg/metrics-gh-recent-activity.svg)
-
-![mild facts](assets/svg/metrics-gh-mild-facts.svg)
-
-![notable contributions](assets/svg/metrics-gh-notable-contributions.svg)
-
-![languages](assets/svg/metrics-gh-languages.svg)
-
-![img](https://streak-stats.demolab.com?user=semanticdata&theme=material-palenight&mode=weekly&hide_longest_streak=false&border_radius=6)
+<img width="550px" src="assets/svg/metrics-gh-base.svg" alt="basic info">
+<img width="550px" src="assets/svg/metrics-gh-recent-activity.svg" alt="recent activity">
+<img width="550px" src="assets/svg/metrics-gh-mild-facts.svg" alt="mild facts">
+<img width="550px" src="assets/svg/metrics-gh-notable-contributions.svg" alt="notable contributions">
+<img width="550px" src="assets/svg/metrics-gh-languages.svg" alt="languages">
+<img width="550px" src="https://streak-stats.demolab.com?user=semanticdata&theme=material-palenight&mode=weekly&hide_longest_streak=false&border_radius=6" alt="img">
 </div>
 
 <div align="center">
@@ -46,16 +41,16 @@
 <!-- ## 📝 Blog Posts -->
 
 <!-- BLOG-POST-LIST:START -->
-<!-- - Jul 6, 2023 · [Being a Firefighter Does Not Save You From Burnout](https://miguelpimentel.do/on-burning-out/)
-- Apr 12, 2023 · [Blogging to Tame the Monkey Mind](https://miguelpimentel.do/monkey-mind/)
-- Mar 18, 2023 · [Hello World!](https://miguelpimentel.do/hello-world/) -->
+<!-- - Jul 6, 2023 · [Being a Firefighter Does Not Save You From Burnout](https://miguelpimentel.do/on-burning-out/) -->
+<!-- - Apr 12, 2023 · [Blogging to Tame the Monkey Mind](https://miguelpimentel.do/monkey-mind/) -->
+<!-- - Mar 18, 2023 · [Hello World!](https://miguelpimentel.do/hello-world/) -->
 <!-- BLOG-POST-LIST:END -->
 
 <!-- ## 📓 Notes -->
 
 <!-- NOTES:START -->
-<!-- - Jul 28, 2023 · [SSD / NVMe Comparison](https://miguelpimentel.do/ssd-nvme-comparison/)
-- Jul 12, 2023 · [Aurora Borealis Sighting](https://miguelpimentel.do/aurora-borealis/) -->
+<!-- - Jul 28, 2023 · [SSD / NVMe Comparison](https://miguelpimentel.do/ssd-nvme-comparison/) -->
+<!-- - Jul 12, 2023 · [Aurora Borealis Sighting](https://miguelpimentel.do/aurora-borealis/) -->
 <!-- NOTES:END -->
 
 <!-- ## 🎓 Tutorials -->
@@ -67,15 +62,13 @@
 <!-- ## 🕒 Recent Activity -->
 
 <!--START_SECTION:activity-->
-<!-- 1. 🗣 Commented on [#2](https://github.com/kjk/edna/issues/2#issuecomment-2138026500) in [kjk/edna](https://github.com/kjk/edna)
-1. ❗ Opened issue [#2](https://github.com/kjk/edna/issues/2) in [kjk/edna](https://github.com/kjk/edna)
-2. ❌ Closed PR [#4](https://github.com/semanticdata/eleventy-plus-vite/pull/4) in [semanticdata/eleventy-plus-vite](https://github.com/semanticdata/eleventy-plus-vite) -->
+<!-- 1. 🗣 Commented on [#2](https://github.com/kjk/edna/issues/2#issuecomment-2138026500) in [kjk/edna](https://github.com/kjk/edna) -->
+<!-- 2. ❗ Opened issue [#2](https://github.com/kjk/edna/issues/2) in [kjk/edna](https://github.com/kjk/edna) -->
+<!-- 3. ❌ Closed PR [#4](https://github.com/semanticdata/eleventy-plus-vite/pull/4) in [semanticdata/eleventy-plus-vite](https://github.com/semanticdata/eleventy-plus-vite) -->
 <!--END_SECTION:activity-->
 
 <!-- ![img](https://github-readme-stats.vercel.app/api/top-langs/?username=semanticdata&hide=markdown&layout=compact&theme=material-palenight) -->
-
 <!-- ![img](https://github-readme-stats.vercel.app/api?username=semanticdata&show_icons=true&theme=material-palenight&hide_rank=true&border_radius=6) -->
-
 <!-- ![img](https://streak-stats.demolab.com?user=semanticdata&theme=material-palenight&mode=weekly&hide_longest_streak=false&border_radius=6) -->
 
 <div align="center">
@@ -88,12 +81,31 @@
 
 ## Tools 🤖 Technologies
 
-![sass icon](assets/icons/logos--sass.png) ![lua icon](assets/icons/logos--lua.png) ![svelte icon](assets/icons/logos--svelte-icon.png) ![markdown icon](assets/icons/openmoji--markdown.png) ![astro icon](assets/icons/skill-icons--astro.png) ![godot icon](assets/icons/devicon--godot.png) ![husky icon](assets/icons/vscode-icons--file-type-husky.png) ![firefox icon](assets/icons/logos--firefox.png) ![postcss icon](assets/icons/logos--postcss.png) ![prettier icon](assets/icons/logos--prettier.png) ![obsidian icon](assets/icons/skill-icons--obsidian-dark.png) ![vite icon](assets/icons/skill-icons--vite-dark.png) ![eleventy icon](assets/icons/eleventy-small-gray-bg.png) ![css icon](assets/icons/vscode-icons--file-type-css.png) ![javascript icon](assets/icons/vscode-icons--file-type-js-official.png) ![html icon](assets/icons/logos--html-5.png) ![npm icon](assets/icons/vscode-icons--file-type-npm.png) ![pnpm icon](assets/icons/vscode-icons--file-type-light-pnpm.png) ![vs code icon](assets/icons/vscode-icons--file-type-vscode.png) ![vercel icon](assets/icons/skill-icons--vercel-light.png) ![netlify icon](assets/icons/vscode-icons--file-type-light-netlify.png) ![nunjucks icon](assets/icons/vscode-icons--file-type-nunjucks.png)
+<img src="assets/icons/11ty.svg" alt="11ty" width="48px" />
+<img src="assets/icons/astro.svg" alt="astro" width="48px" />
+<img src="assets/icons/css.svg" alt="css" width="48px" />
+<img src="assets/icons/docker.svg" alt="docker" width="48px" />
+<img src="assets/icons/godot.svg" alt="godot" width="48px" />
+<img src="assets/icons/html.svg" alt="html" width="48px" />
+<img src="assets/icons/husky.svg" alt="husky" width="48px" />
+<img src="assets/icons/javascript.svg" alt="javascript" width="48px" />
+<img src="assets/icons/lua.svg" alt="lua" width="48px" />
+<img src="assets/icons/markdown.svg" alt="markdown" width="48px" />
+<img src="assets/icons/nunjucks.svg" alt="nunjucks" width="48px" />
+<img src="assets/icons/obsidian.svg" alt="obsidian" width="48px" />
+<img src="assets/icons/pnpm.svg" alt="pnpm" width="48px" />
+<img src="assets/icons/postcss.svg" alt="postcss" width="48px" />
+<img src="assets/icons/prettier.svg" alt="prettier" width="48px" />
+<img src="assets/icons/sass.svg" alt="sass" width="48px" />
+<img src="assets/icons/svelte.svg" alt="svelte" width="48px" />
+<img src="assets/icons/typescript.svg" alt="typescript" width="48px" />
+<img src="assets/icons/vite.svg" alt="vite" width="48px" />
 
 <!-- ![skillicons.dev](https://skillicons.dev/icons?i=js,html,css,sass,lua,markdown,astro,godot,npm,pnpm,vscode,vercel,netlify,obsidian,vite,neovim,git,svg,svelte,python) -->
 
----
-With 💜 from <a href="https://www.instagram.com/reel/BVRFeF8h2m3/" target="_blank">Minne</a><a href="https://www.instagram.com/reel/Bhl7n_oH1av/" target="_blank">sota</a>.
+<!-- <hr /> -->
+
+<p>With 💜 from <a href="https://www.instagram.com/reel/BVRFeF8h2m3/" target="_blank">Minne</a><a href="https://www.instagram.com/reel/Bhl7n_oH1av/" target="_blank">sota</a>.</p>
 
 <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Fsemanticdata%2Fsemanticdata.json&label=Visitors&color=palepink" alt="Unique visitor counter" />
 <br />
