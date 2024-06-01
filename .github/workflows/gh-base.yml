@@ -19,4 +19,4 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          base: header, activity, community, repositories # metadata
+          base: header, activity, community, repositories

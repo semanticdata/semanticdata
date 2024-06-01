@@ -1,11 +1,9 @@
 # Source: https://github.com/jamesgeorge007/github-activity-readme
-
 name: Update Recent Activity in README
 
 on:
   workflow_dispatch:
-  # schedule:
-    # - cron: "10 */6 * * *" # Run every 6 hours
+  # schedule: [{ cron: "10 */6 * * *" }]
 
 jobs:
   build:

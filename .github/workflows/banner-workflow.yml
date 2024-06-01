@@ -1,5 +1,4 @@
 # source: https://github.com/darkterminal/create-banner-image
-
 name: Create Banner Image
 
 on: workflow_dispatch
