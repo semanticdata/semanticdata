@@ -14,17 +14,12 @@
 
 ## GitHub 📊 Stats
 
-![basic info](assets/svg/metrics-gh-base.svg)
-
-![recent activity](assets/svg/metrics-gh-recent-activity.svg)
-
-![mild facts](assets/svg/metrics-gh-mild-facts.svg)
-
-![notable contributions](assets/svg/metrics-gh-notable-contributions.svg)
-
-![languages](assets/svg/metrics-gh-languages.svg)
-
-![img](https://streak-stats.demolab.com?user=semanticdata&theme=material-palenight&mode=weekly&hide_longest_streak=false&border_radius=6)
+<img width="550px" src="assets/svg/metrics-gh-base.svg" alt="basic info">
+<img width="550px" src="assets/svg/metrics-gh-recent-activity.svg" alt="recent activity">
+<img width="550px" src="assets/svg/metrics-gh-mild-facts.svg" alt="mild facts">
+<img width="550px" src="assets/svg/metrics-gh-notable-contributions.svg" alt="notable contributions">
+<img width="550px" src="assets/svg/metrics-gh-languages.svg" alt="languages">
+<img width="550px" src="https://streak-stats.demolab.com?user=semanticdata&theme=material-palenight&mode=weekly&hide_longest_streak=false&border_radius=6" alt="img">
 </div>
 
 <div align="center">
@@ -80,8 +75,10 @@
 
 ## Music 🎶 Spotify
 
-![spotify top 10 artists](assets/svg/metrics-spotify-top-artists.svg)
+<img width="500px" src="assets/svg/metrics-spotify-top-artists.svg" />
+<img width="500px" src="assets/svg/metrics-spotify-top-tracks.svg" />
 
+![spotify top 10 artists](assets/svg/metrics-spotify-top-artists.svg)
 ![spotify top 10 tracks](assets/svg/metrics-spotify-top-tracks.svg)
 
 ## Tools 🤖 Technologies
