@@ -5,12 +5,14 @@
 
 ## Likes ❤️ Interests
 
-<img alt="Static Badge" height="28px" src="https://img.shields.io/badge/Web_Development-rebeccapurple?style=flat-square">
-<img alt="Static Badge" height="28px" src="https://img.shields.io/badge/Static%20Site%20Generators-gold?style=flat-square">
-<img alt="Static Badge" height="28px" src="https://img.shields.io/badge/Fire%20Science-red?style=flat-square">
-<img alt="Static Badge" height="28px" src="https://img.shields.io/badge/Game%20Development-dodgerblue?style=flat-square">
-<img alt="Static Badge" height="28px" src="https://img.shields.io/badge/Personal%20Knowledge%20Management-darkgreen?style=flat-square">
-<img alt="Static Badge" height="28px" src="https://img.shields.io/badge/Public%20Infrastructure-gray?style=flat-square">
+<a href="https://en.wikipedia.org/wiki/Web_development"><img alt="Static Badge" height="28px" src="https://img.shields.io/badge/Web_Development-FF3EA5?style=flat-square"></a>
+<a href="https://en.wikipedia.org/wiki/Static_site_generator"><img alt="Static Badge" height="28px" src="https://img.shields.io/badge/Static%20Site%20Generators-gold?style=flat-square"></a>
+<a href="https://learn.org/articles/What_is_Fire_Science.html"><img alt="Static Badge" height="28px" src="https://img.shields.io/badge/Fire%20Science-red?style=flat-square"></a>
+<a href="https://en.wikipedia.org/wiki/Video_game_development"><img alt="Static Badge" height="28px" src="https://img.shields.io/badge/Game%20Development-836FFF?style=flat-square"></a>
+<a href="https://en.wikipedia.org/wiki/Personal_knowledge_management"><img alt="Static Badge" height="28px" src="https://img.shields.io/badge/Personal%20Knowledge%20Management-darkgreen?style=flat-square"></a>
+<a href="https://en.wikipedia.org/wiki/Public_infrastructure"><img alt="Static Badge" height="28px" src="https://img.shields.io/badge/Public%20Infrastructure-gray?style=flat-square"></a>
+<a href="https://maggieappleton.com/garden-history"><img alt="Static Badge" height="28px" src="https://img.shields.io/badge/Digital%20Gardening-rebeccapurple?style=flat-square"></a>
+<a href="https://en.wikipedia.org/wiki/Materials_science"><img alt="Static Badge" height="28px" src="https://img.shields.io/badge/Materials%20Science-A0153E?style=flat-square"></a>
 
 ## GitHub 📊 Stats
 
@@ -29,16 +31,16 @@
 
 ## Musings ✍ Writings
 
-| **📝 Blog Posts** | **📅 Date** |
-| :------------- | :---: |
-| [Being a Firefighter Does Not Save You From Burnout](https://miguelpimentel.do/on-burning-out/) | Jul 6, 2023 |
-| [Blogging to Tame the Monkey Mind](https://miguelpimentel.do/monkey-mind/) | Apr 12, 2023 |
-| [Hello World!](https://miguelpimentel.do/hello-world/) | Mar 18, 2023 |
-| **📓 Notes** |  |
-| [SSD / NVMe Comparison](https://miguelpimentel.do/ssd-nvme-comparison/) | Jul 28, 2023 |
-| [Aurora Borealis Sighting](https://miguelpimentel.do/aurora-borealis/) | Jul 12, 2023 |
-| **🎓 Tutorials** |  |
-| [Unlock the Sidebar Width in Firefox](https://miguelpimentel.do/unlock-firefox-sidebar/) | Jun 26, 2023 |
+| **📝 Blog Posts**                                                                               |  **📅 Date** |
+| :----------------                                                                               | :----------: |
+| [Being a Firefighter Does Not Save You From Burnout](https://miguelpimentel.do/on-burning-out/) | Jul 6, 2023  |
+| [Blogging to Tame the Monkey Mind](https://miguelpimentel.do/monkey-mind/)                      | Apr 12, 2023 |
+| [Hello World!](https://miguelpimentel.do/hello-world/)                                          | Mar 18, 2023 |
+| **📓 Notes**                                                                                    |              |
+| [SSD / NVMe Comparison](https://miguelpimentel.do/ssd-nvme-comparison/)                         | Jul 28, 2023 |
+| [Aurora Borealis Sighting](https://miguelpimentel.do/aurora-borealis/)                          | Jul 12, 2023 |
+| **🎓 Tutorials**                                                                                |              |
+| [Unlock the Sidebar Width in Firefox](https://miguelpimentel.do/unlock-firefox-sidebar/)        | Jun 26, 2023 |
 </div>
 
 <!-- ## 📝 Blog Posts -->
@@ -79,7 +81,7 @@
 ## Music 🎶 Spotify
 
 <img width="600px" alt="top artists" src="assets/svg/metrics-spotify-top-artists.svg" />
-<img width="600px" alt="top tracks" src="assets/svg/metrics-spotify-top-tracks.svg" />
+<!--<img width="600px" alt="top tracks" src="assets/svg/metrics-spotify-top-tracks.svg" />-->
 
 ## Tools 🤖 Technologies
 
@@ -110,10 +112,6 @@
 <a href="https://vitejs.dev/"><img src="assets/icons/vite.svg" alt="vite" width="48px" /></a>
 <a href="https://www.getzola.org/"><img src="assets/icons/zola.ico" alt="vite" width="48px" /></a>
 
-<!-- ![skillicons.dev](https://skillicons.dev/icons?i=js,html,css,sass,lua,markdown,astro,godot,npm,pnpm,vscode,vercel,netlify,obsidian,vite,neovim,git,svg,svelte,python) -->
-
-<!-- <br /> -->
-<!-- <br /> -->
 <hr />
 
 <p>With 💜 from <a href="https://www.instagram.com/reel/BVRFeF8h2m3/" target="_blank">Minne</a><a href="https://www.instagram.com/reel/Bhl7n_oH1av/" target="_blank">sota</a>.</p>
