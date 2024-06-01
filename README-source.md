@@ -103,7 +103,9 @@
 
 <!-- ![skillicons.dev](https://skillicons.dev/icons?i=js,html,css,sass,lua,markdown,astro,godot,npm,pnpm,vscode,vercel,netlify,obsidian,vite,neovim,git,svg,svelte,python) -->
 
-<!-- <hr /> -->
+<!-- <br /> -->
+<!-- <br /> -->
+<hr />
 
 <p>With 💜 from <a href="https://www.instagram.com/reel/BVRFeF8h2m3/" target="_blank">Minne</a><a href="https://www.instagram.com/reel/Bhl7n_oH1av/" target="_blank">sota</a>.</p>
 
