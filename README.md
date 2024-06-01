@@ -1,7 +1,7 @@
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&random=false&width=512&lines=Hey+there!+I'm+Miguel+Pimentel." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1250&center=true&random=false&lines=Hey+there!+I'm+Miguel+Pimentel." width="480px" />
 
-<p>Self-taught hobby developer with too many ideas and not enough time.</p>
+***Self-taught hobby developer with too many ideas and not enough time.***
 
 ## Likes ❤️ Interests
 
@@ -20,6 +20,7 @@
 <img width="550px" src="assets/svg/metrics-gh-notable-contributions.svg" alt="notable contributions">
 <img width="550px" src="assets/svg/metrics-gh-languages.svg" alt="languages">
 
+<br />
 <br />
 <img width="550px" src="https://streak-stats.demolab.com?user=semanticdata&theme=material-palenight&mode=weekly&hide_longest_streak=false&border_radius=6" alt="img">
 </div>
