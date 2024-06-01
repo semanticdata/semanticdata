@@ -99,7 +99,7 @@
 <img src="assets/icons/svelte.svg" alt="svelte" width="48px" />
 <img src="assets/icons/typescript.svg" alt="typescript" width="48px" />
 <img src="assets/icons/vite.svg" alt="vite" width="48px" />
-<img src="assets/icons/bulma.svg" alt="vite" width="48px" />
+<img src="assets/icons/bulma.svg" alt="vite" width="40px" />
 <img src="assets/icons/eleventy.svg" alt="vite" width="48px" />
 <img src="assets/icons/git.svg" alt="vite" width="48px" />
 <img src="assets/icons/neovim.svg" alt="vite" width="48px" />
