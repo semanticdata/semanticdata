@@ -1,9 +1,16 @@
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1250&center=true&random=false&lines=Hey+there!+I'm+Miguel+Pimentel." width="480px" />
 
-***Self-taught hobby developer with too many ideas and not enough time.***
+***Self-taught hobby developer with too many ideas and not enough time.***  
+I think a lot, work a lot, have existential crises, and know just enough about making websites to make me dangerous.  
+I enjoy writing, reading, coding, listening to music, and love having a problem to solve.
+</div>
 
+<div align="center">
+  
 ## Likes ❤️ Interests
+
+In my spare time, I am drawn to a diverse range of hobbies and interests, for example:
 
 <a href="https://en.wikipedia.org/wiki/Web_development"><img alt="Static Badge" height="28px" src="https://img.shields.io/badge/Web_Development-FF3EA5?style=flat-square"></a>
 <a href="https://en.wikipedia.org/wiki/Static_site_generator"><img alt="Static Badge" height="28px" src="https://img.shields.io/badge/Static%20Site%20Generators-gold?style=flat-square"></a>
