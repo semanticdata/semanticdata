@@ -44,16 +44,13 @@ In my spare time, I am drawn to a diverse range of hobbies and interests, for ex
 
 ## Musings ✍ Writings
 
-| **📝 Blog posts**                                                                               |  **📅 Date** |
-| :----------------                                                                               | :----------: |
-| [Being a Firefighter Does Not Save You From Burnout](https://miguelpimentel.do/on-burning-out/) | Jul 6, 2023  |
-| [Blogging to Tame the Monkey Mind](https://miguelpimentel.do/monkey-mind/)                      | Apr 12, 2023 |
-| [Hello World!](https://miguelpimentel.do/hello-world/)                                          | Mar 18, 2023 |
-| **📓 Notes**                                                                                    |              |
-| [SSD / NVMe Comparison](https://miguelpimentel.do/ssd-nvme-comparison/)                         | Jul 28, 2023 |
-| [Aurora Borealis Sighting](https://miguelpimentel.do/aurora-borealis/)                          | Jul 12, 2023 |
-| **🎓 Tutorials**                                                                                |              |
-| [Unlock the Sidebar Width in Firefox](https://miguelpimentel.do/unlock-firefox-sidebar/)        | Jun 26, 2023 |
+| **📅 Date** | **📝 Recent Blog posts**                                                                        |
+| :---: | :---                                                                                                    |
+| Jul 28, 2023 | [Comparing SSD and NVMe Technologies](https://miguelpimentel.do/comparing-ssd-and-nvme-technologies/) |
+| Jul 12, 2023 | [Aurora Borealis Sighting](https://miguelpimentel.do/aurora-borealis/)                          |
+| Jul 6, 2023  | [Being a Firefighter Does Not Save You From Burnout](https://miguelpimentel.do/on-burning-out/) |
+| Jun 26, 2023 | [Unlock the Sidebar Width in Firefox](https://miguelpimentel.do/unlock-firefox-sidebar/)        |
+| Apr 12, 2023 | [Blogging to Tame the Monkey Mind](https://miguelpimentel.do/monkey-mind/)                      |
 </div>
 
 <!-- ## 📝 Blog Posts -->
