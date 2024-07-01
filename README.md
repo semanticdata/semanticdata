@@ -42,10 +42,11 @@ In my spare time, I am drawn to a diverse range of hobbies and interests, for ex
 
 <div align="center">
 
-## Musings ✍ Writings
+## Blog Posts ✍ Tutorials
 
 | **📅 Date** | **📝 Recent Blog posts**                                                                        |
 | :---: | :---                                                                                                    |
+| Jul 01, 2024 | [Adding Pretier to Your Project](https://miguelpimentel.do/adding-prettier-to-your-project/) |
 | Jul 28, 2023 | [Comparing SSD and NVMe Technologies](https://miguelpimentel.do/comparing-ssd-and-nvme-technologies/) |
 | Jul 12, 2023 | [Aurora Borealis Pocket Guide](https://miguelpimentel.do/aurora-borealis-pocket-guide/)                         |
 | Jul 6, 2023  | [Being a Firefighter Does Not Save You From Burnout](https://miguelpimentel.do/on-burning-out/) |
