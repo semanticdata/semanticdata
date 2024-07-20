@@ -30,8 +30,10 @@ In my spare time, I am drawn to a diverse range of hobbies and interests, for ex
 | <img width="550px" src="assets/svg/metrics-gh-recent-activity.svg" alt="recent activity"> |
 | :---: |
 
+<!--
 | <img width="550px" src="assets/svg/metrics-gh-mild-facts.svg" alt="mild facts"> |
 | :---: |
+-->
 
 | <img width="550px" src="assets/svg/metrics-gh-notable-contributions.svg" alt="notable contributions"> |
 | :---: |
