@@ -1,5 +1,6 @@
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1250&center=true&random=false&lines=Hey+there!+I'm+Miguel+Pimentel." width="480px" />
+<a href="https://miguelpimentel.do" target="_blank">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1250&center=true&random=false&lines=Hey+there!+I'm+Miguel+Pimentel." width="480px" /></a>
 
 ***Self-taught hobby developer with too many ideas and not enough time.***  
 I think a lot, work a lot, have existential crises, and know just enough about making websites to make me dangerous.  
@@ -29,8 +30,10 @@ In my spare time, I am drawn to a diverse range of hobbies and interests, for ex
 | <img width="550px" src="assets/svg/metrics-gh-recent-activity.svg" alt="recent activity"> |
 | :---: |
 
+<!--
 | <img width="550px" src="assets/svg/metrics-gh-mild-facts.svg" alt="mild facts"> |
 | :---: |
+-->
 
 | <img width="550px" src="assets/svg/metrics-gh-notable-contributions.svg" alt="notable contributions"> |
 | :---: |
@@ -38,14 +41,16 @@ In my spare time, I am drawn to a diverse range of hobbies and interests, for ex
 | <img width="550px" src="assets/svg/metrics-gh-languages.svg" alt="languages"> |
 | :---: |
 
-<img src="https://streak-stats.demolab.com?user=semanticdata&theme=material-palenight&mode=weekly&hide_longest_streak=false&border_radius=6" alt="img" width="550px" />
+<img src="https://streak-stats.demolab.com?user=semanticdata&theme=material-palenight&mode=weekly&hide_longest_streak=false&border_radius=6" alt="img" width="580px" />
 
 <div align="center">
 
-## Musings ✍ Writings
+## Blog Posts ✍ Tutorials
 
-| **📅 Date** | **📝 Recent Blog posts**                                                                        |
+| **📅 Date** |                                                                         |
 | :---: | :---                                                                                                    |
+| July 22, 2024 | [Publish a Logseq Graph to GitHub Pages](https://miguelpimentel.do/publish-logseq-to-github-pages/) |
+| Jul 01, 2024 | [Adding Pretier to Your Project](https://miguelpimentel.do/adding-prettier-to-your-project/) |
 | Jul 28, 2023 | [Comparing SSD and NVMe Technologies](https://miguelpimentel.do/comparing-ssd-and-nvme-technologies/) |
 | Jul 12, 2023 | [Aurora Borealis Pocket Guide](https://miguelpimentel.do/aurora-borealis-pocket-guide/)                         |
 | Jul 6, 2023  | [Being a Firefighter Does Not Save You From Burnout](https://miguelpimentel.do/on-burning-out/) |
@@ -88,9 +93,9 @@ In my spare time, I am drawn to a diverse range of hobbies and interests, for ex
 
 <div align="center">
 
-## Music 🎶 Spotify
+## Music 🎶 Artists
 
-| <img width="600px" alt="top artists" src="assets/svg/metrics-spotify-top-artists.svg" /> |
+| <a href="https://open.spotify.com/user/1216418539" target="_blank"><img width="600px" alt="top artists" src="assets/svg/metrics-spotify-top-artists.svg" /></a> |
 | --- |
 
 ## Tools 🤖 Technologies
