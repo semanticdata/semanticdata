@@ -75,11 +75,22 @@ In my spare time, I am drawn to a diverse range of hobbies and interests, for ex
 
 <!-- ## 🎓 Tutorials -->
 
+<table>
+<thead>
+<tr>
+<th>📅 Date</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
 <!-- TUTORIALS:START -->
-- Jul 29, 2024 · [Consistently Take a Website Screenshot](https://miguelpimentel.do/tutorials/04-screenshot-website/)
-- Jul 22, 2024 · [Publish a Logseq Graph to GitHub Pages](https://miguelpimentel.do/tutorials/03-publish-logseq-github-pages/)
-- Jul 1, 2024 · [Adding Prettier to Your Node Project](https://miguelpimentel.do/tutorials/02-adding-prettier/)
-- Jun 25, 2023 · [Unlock the Sidebar Width in Firefox](https://miguelpimentel.do/tutorials/01-unlock-firefox-sidebar/)<!-- TUTORIALS:END -->
+<tr>
+<th>Jul 29, 2024</th>
+<td>[Consistently Take a Website Screenshot](https://miguelpimentel.do/tutorials/04-screenshot-website/)</td>
+</tr>
+<!-- TUTORIALS:END -->
+</tbody>
+</table>
 
 <!-- ## 🕒 Recent Activity -->
 
