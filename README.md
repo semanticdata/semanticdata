@@ -48,11 +48,13 @@ Visit [MiguelPimentel.do](https://miguelpimentel.do/) to learn more about me.
 </div>
 
 <div align="center">
-  
-## 📝 Blog Posts
+
+## Blog Posts 📝 Tutorials
+
+<!-- ## 📝 Blog Posts -->
 
 <table>
-<thead><tr><th>📅 Date</th><th></th></tr></thead>
+<thead><tr><th>📅 Date</th><th>Blog Posts</th></tr></thead>
 <tbody>
 <!-- BLOG-POST-LIST:START -->
 <tr><th>Jul 27, 2023</th><td><a target='_blank' href='https://miguelpimentel.do/blog/14-comparing-ssd-nvme/'>Comparing SSD and NVMe Technologies</a></td></tr>
@@ -62,10 +64,10 @@ Visit [MiguelPimentel.do](https://miguelpimentel.do/) to learn more about me.
 </tbody>
 </table>
 
-## 🎓 Tutorials
+<!-- ## 🎓 Tutorials -->
 
 <table>
-<thead><tr><th>📅 Date</th><th></th></tr></thead>
+<thead><tr><th>📅 Date</th><th>Tutorials</th></tr></thead>
 <tbody>
 <!-- TUTORIALS:START -->
 <tr><th>Jul 29, 2024</th><td><a target='_blank' href='https://miguelpimentel.do/tutorials/04-screenshot-website/'>Consistently Take a Website Screenshot</a></td></tr>
@@ -80,17 +82,6 @@ Visit [MiguelPimentel.do](https://miguelpimentel.do/) to learn more about me.
 <!-- ![img](https://github-readme-stats.vercel.app/api/top-langs/?username=semanticdata&hide=markdown&layout=compact&theme=material-palenight)
 ![img](https://github-readme-stats.vercel.app/api?username=semanticdata&show_icons=true&theme=material-palenight&hide_rank=true&border_radius=6)
 ![img](https://streak-stats.demolab.com?user=semanticdata&theme=material-palenight&mode=weekly&hide_longest_streak=false&border_radius=6) -->
-
-<div align="center">
-
-## 🕒 Recent Activity
-
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/semanticdata/personal-website/pull/6) in [semanticdata/personal-website](https://github.com/semanticdata/personal-website)
-2. 💪 Opened PR [#6](https://github.com/semanticdata/personal-website/pull/6) in [semanticdata/personal-website](https://github.com/semanticdata/personal-website)
-3. 🎉 Merged PR [#5](https://github.com/semanticdata/personal-website/pull/5) in [semanticdata/personal-website](https://github.com/semanticdata/personal-website)
-<!--END_SECTION:activity-->
-</div>
 
 <div align="center">
 
