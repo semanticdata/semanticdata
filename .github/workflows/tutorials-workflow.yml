@@ -17,7 +17,7 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://miguelpimentel.do/rss-tutorials.xml"
-          template: "$newline- $date · [$title]($url)"
+          template: "$newline<tr><th>$date</th><td><a target='_blank' href='$url'>$title</a></td></tr>"
           comment_tag_name: "TUTORIALS"
           date_format: "mmm d, yyyy"
           # feed_names: "Tutorials"
