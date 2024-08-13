@@ -16,7 +16,7 @@ jobs:
       - name: Pull RSS Entries
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://database.bearblog.dev/feed/?q=tutorials"
+          feed_list: "https://miguelpimentel.do/rss-tutorials.xml"
           template: "$newline- $date · [$title]($url)"
           comment_tag_name: "TUTORIALS"
           date_format: "mmm d, yyyy"
