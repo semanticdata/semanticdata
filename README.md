@@ -51,8 +51,10 @@ In my spare time, I am drawn to a diverse range of hobbies and interests, for ex
 <thead><tr><th>📅 Date</th><th></th></tr></thead>
 <tbody>
 <!-- BLOG-POST-LIST:START -->
-
-<!-- BLOG-POST-LIST:END -->
+<tr><th>Jul 27, 2023</th><td><a target='_blank' href='https://miguelpimentel.do/blog/14-comparing-ssd-nvme/'>Comparing SSD and NVMe Technologies</a></td></tr>
+<tr><th>Jul 11, 2023</th><td><a target='_blank' href='https://miguelpimentel.do/blog/13-aurora-borealis/'>Aurora Borealis Pocket Guide</a></td></tr>
+<tr><th>Jul 5, 2023</th><td><a target='_blank' href='https://miguelpimentel.do/blog/12-on-burnout/'>Being a Firefighter Does Not Save You From Burnout</a></td></tr>
+<tr><th>Apr 11, 2023</th><td><a target='_blank' href='https://miguelpimentel.do/blog/10-monkey-mind/'>Blogging to Tame the Monkey Mind</a></td></tr><!-- BLOG-POST-LIST:END -->
 </tbody>
 </table>
 
