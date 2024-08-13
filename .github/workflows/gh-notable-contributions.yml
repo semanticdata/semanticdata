@@ -1,9 +1,8 @@
-# Source: https://github.com/lowlighter/metrics#-documentation
-name: Update GitHub Notable contributions
+name: Update GitHub Notable Contributions SVG
 
 on:
-  # runs every day at 03:00
-  # schedule: [{ cron: "0 3 * * *" }]
+  # runs every Tuesday at 08:55
+  schedule: [{ cron: "55 8 * * 2" }]
   workflow_dispatch:
 
 permissions:
@@ -17,8 +16,6 @@ jobs:
         with:
           filename: assets/svg/metrics-gh-notable-contributions.svg
           token: ${{ secrets.METRICS_TOKEN }}
-
-          # Options
           base: ""
           plugin_notable: yes
           plugin_notable_repositories: no

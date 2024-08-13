@@ -1,8 +1,9 @@
-name: Update Recent Activity in Readme
+name: Update Recent Activity (section) in Readme
 
 on:
+  # runs every Tuesday at 09:05
+  schedule: [{ cron: "5 9 * * 2" }]
   workflow_dispatch:
-  # schedule: [{ cron: "10 */6 * * *" }]
 
 jobs:
   build:
@@ -18,6 +19,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          COMMIT_MSG: "Update Recent Activity section in README"
-          MAX_LINES: 10
-          COMMIT_NAME: Update GitHub Activity in Readme
+          MAX_LINES: 8
+          COMMIT_MSG: "Update Recent Activity section in Readme"
+          COMMIT_NAME: "Update GitHub Activity in Readme"

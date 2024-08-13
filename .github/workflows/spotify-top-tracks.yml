@@ -1,9 +1,8 @@
-# Source: https://github.com/lowlighter/metrics#-documentation
 name: Update Spotify - Top 10 (Tracks)
 
 on:
-  # runs every day at 06:35
-  # schedule: [{ cron: "35 6 * * *" }]
+  # runs every Wednesday at 09:25
+  schedule: [{ cron: "25 8 * * 3" }]
   workflow_dispatch:
 
 permissions:

@@ -1,15 +1,16 @@
-name: Update Blog RSS Feed in README
+name: Update Tutorials RSS Feed in README
 
 on:
+  # runs every day at 05:24
+  schedule: [{ cron: "24 5 * * *" }]
   workflow_dispatch:
-  # schedule: [{ cron: 10 8 * * * }]
 
 permissions:
   contents: write
 
 jobs:
   update-readme-with-blog:
-    name: Update Blog RSS Feed in README
+    name: Update Tutorials RSS Feed in README
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -17,8 +18,9 @@ jobs:
       - name: Pull RSS Entries
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://miguelpimentel.do/rss.xml"
+          feed_list: "https://miguelpimentel.do/rss-tutorials.xml"
           template: "$newline<tr><th>$date</th><td><a target='_blank' href='$url'>$title</a></td></tr>"
+          comment_tag_name: "TUTORIALS"
           date_format: "mmm d, yyyy"
-          # feed_names: "Blog"
+          # feed_names: "Tutorials"
           # max_post_count: "5"

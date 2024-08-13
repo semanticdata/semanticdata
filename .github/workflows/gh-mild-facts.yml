@@ -1,9 +1,8 @@
-# Source: https://github.com/lowlighter/metrics#-documentation
-name: Update GitHub Mildly Interesting Facts
+name: Update GitHub Mildly Interesting Facts SVG
 
 on:
-  # runs every day at 03:30
-  # schedule: [{ cron: "40 3 * * *" }]
+  # runs every Tuesday at 08:45
+  schedule: [{ cron: "45 8 * * 2" }]
   workflow_dispatch:
 
 permissions:
@@ -17,8 +16,6 @@ jobs:
         with:
           filename: assets/svg/metrics-gh-mild-facts.svg
           token: ${{ secrets.METRICS_TOKEN }}
-
-          # Options
           base: ""
           plugin_habits: yes
           plugin_habits_facts: yes

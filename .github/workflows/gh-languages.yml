@@ -1,9 +1,9 @@
-# Source: https://github.com/lowlighter/metrics#-documentation
-name: Update GitHub Languages
+name: Update GitHub Languages SVG
 
 on:
-  # runs every day at 04:15
-  # schedule: [{ cron: "15 4 * * *" }]
+on:
+  # runs every Monday at 08:35
+  schedule: [{ cron: "35 8 * * 1" }]
   workflow_dispatch:
 
 permissions:
@@ -17,8 +17,6 @@ jobs:
         with:
           filename: assets/svg/metrics-gh-languages.svg
           token: ${{ secrets.METRICS_TOKEN }}
-
-          # Options
           base: ""
           plugin_languages: yes
           plugin_languages_ignored: markdown
