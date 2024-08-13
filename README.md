@@ -3,7 +3,10 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1250&center=true&random=false&lines=Hey+there!+I'm+Miguel+Pimentel." width="480px" /></a>
 
 ***Self-taught hobby developer with too many ideas and not enough time.***  
-I think a lot, work a lot, have existential crises, and know just enough about making websites to make me dangerous. I enjoy writing, reading, coding, listening to music, and love having a problem to solve. Visit [MiguelPimentel.do](https://miguelpimentel.do/) to learn more about me.
+
+I think a lot, work a lot, have existential crises, and know just enough about making websites to make me dangerous. I enjoy writing, reading, coding, listening to music, and love having a problem to solve.
+
+Visit [MiguelPimentel.do](https://miguelpimentel.do/) to learn more about me.
 </div>
 
 <div align="center">
