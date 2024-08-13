@@ -86,9 +86,9 @@ Visit [MiguelPimentel.do](https://miguelpimentel.do/) to learn more about me.
 ## 🕒 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/kjk/edna/issues/2#issuecomment-2138026500) in [kjk/edna](https://github.com/kjk/edna)
-2. ❗ Opened issue [#2](https://github.com/kjk/edna/issues/2) in [kjk/edna](https://github.com/kjk/edna)
-3. ❌ Closed PR [#4](https://github.com/semanticdata/eleventy-plus-vite/pull/4) in [semanticdata/eleventy-plus-vite](https://github.com/semanticdata/eleventy-plus-vite)
+1. 🎉 Merged PR [#6](https://github.com/semanticdata/personal-website/pull/6) in [semanticdata/personal-website](https://github.com/semanticdata/personal-website)
+2. 💪 Opened PR [#6](https://github.com/semanticdata/personal-website/pull/6) in [semanticdata/personal-website](https://github.com/semanticdata/personal-website)
+3. 🎉 Merged PR [#5](https://github.com/semanticdata/personal-website/pull/5) in [semanticdata/personal-website](https://github.com/semanticdata/personal-website)
 <!--END_SECTION:activity-->
 </div>
 
