@@ -1,5 +1,4 @@
-# Source: https://github.com/jamesgeorge007/github-activity-readme
-name: Update Recent Activity in README
+name: Update Recent Activity in Readme
 
 on:
   workflow_dispatch:
@@ -12,7 +11,13 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: actions/checkout@v4
-      - uses: jamesgeorge007/github-activity-readme@master
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Update Recent GitHub Activity
+        uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          COMMIT_MSG: "Update Recent Activity section in README"
+          MAX_LINES: 10
+          COMMIT_NAME: Update GitHub Activity in Readme
