@@ -84,11 +84,10 @@ In my spare time, I am drawn to a diverse range of hobbies and interests, for ex
 </thead>
 <tbody>
 <!-- TUTORIALS:START -->
-<tr>
-<th>Jul 29, 2024</th>
-<td>[Consistently Take a Website Screenshot](https://miguelpimentel.do/tutorials/04-screenshot-website/)</td>
-</tr>
-<!-- TUTORIALS:END -->
+<tr><th>Jul 29, 2024</th><td><a target='_blank' href='https://miguelpimentel.do/tutorials/04-screenshot-website/'>Consistently Take a Website Screenshot</a></td></tr>
+<tr><th>Jul 22, 2024</th><td><a target='_blank' href='https://miguelpimentel.do/tutorials/03-publish-logseq-github-pages/'>Publish a Logseq Graph to GitHub Pages</a></td></tr>
+<tr><th>Jul 1, 2024</th><td><a target='_blank' href='https://miguelpimentel.do/tutorials/02-adding-prettier/'>Adding Prettier to Your Node Project</a></td></tr>
+<tr><th>Jun 25, 2023</th><td><a target='_blank' href='https://miguelpimentel.do/tutorials/01-unlock-firefox-sidebar/'>Unlock the Sidebar Width in Firefox</a></td></tr><!-- TUTORIALS:END -->
 </tbody>
 </table>
 
