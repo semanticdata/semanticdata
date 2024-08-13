@@ -3,15 +3,12 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1250&center=true&random=false&lines=Hey+there!+I'm+Miguel+Pimentel." width="480px" /></a>
 
 ***Self-taught hobby developer with too many ideas and not enough time.***  
-I think a lot, work a lot, have existential crises, and know just enough about making websites to make me dangerous.  
-I enjoy writing, reading, coding, listening to music, and love having a problem to solve.
+I think a lot, work a lot, have existential crises, and know just enough about making websites to make me dangerous. I enjoy writing, reading, coding, listening to music, and love having a problem to solve. Visit [MiguelPimentel.do](https://miguelpimentel.do/) to learn more about me.
 </div>
 
 <div align="center">
   
 ## Likes ❤️ Interests
-
-In my spare time, I am drawn to a diverse range of hobbies and interests, for example:
 
 <a href="https://en.wikipedia.org/wiki/Web_development"><img alt="Static Badge" height="28px" src="https://img.shields.io/badge/Web_Development-FF3EA5?style=flat-square"></a>
 <a href="https://en.wikipedia.org/wiki/Static_site_generator"><img alt="Static Badge" height="28px" src="https://img.shields.io/badge/Static%20Site%20Generators-gold?style=flat-square"></a>
@@ -21,6 +18,9 @@ In my spare time, I am drawn to a diverse range of hobbies and interests, for ex
 <a href="https://en.wikipedia.org/wiki/Public_infrastructure"><img alt="Static Badge" height="28px" src="https://img.shields.io/badge/Public%20Infrastructure-gray?style=flat-square"></a>
 <a href="https://maggieappleton.com/garden-history"><img alt="Static Badge" height="28px" src="https://img.shields.io/badge/Digital%20Gardening-rebeccapurple?style=flat-square"></a>
 <a href="https://en.wikipedia.org/wiki/Materials_science"><img alt="Static Badge" height="28px" src="https://img.shields.io/badge/Materials%20Science-A0153E?style=flat-square"></a>
+</div>
+
+<div align="center">
 
 ## GitHub 📊 Stats
 
@@ -42,6 +42,7 @@ In my spare time, I am drawn to a diverse range of hobbies and interests, for ex
 | :---: |
 
 <img src="https://streak-stats.demolab.com?user=semanticdata&theme=material-palenight&mode=weekly&hide_longest_streak=false&border_radius=6" alt="img" width="580px" />
+</div>
 
 <div align="center">
   
@@ -73,13 +74,6 @@ In my spare time, I am drawn to a diverse range of hobbies and interests, for ex
 
 </div>
 
-<!-- ## 📓 Notes -->
-
-<!-- NOTES:START -->
-<!-- - Jul 28, 2023 · [SSD / NVMe Comparison](https://miguelpimentel.do/ssd-nvme-comparison/) -->
-<!-- - Jul 12, 2023 · [Aurora Borealis Sighting](https://miguelpimentel.do/aurora-borealis/) -->
-<!-- NOTES:END -->
-
 <!-- ## 🕒 Recent Activity -->
 
 <!--START_SECTION:activity-->
@@ -98,6 +92,9 @@ In my spare time, I am drawn to a diverse range of hobbies and interests, for ex
 
 | <a href="https://open.spotify.com/user/1216418539" target="_blank"><img width="600px" alt="top artists" src="assets/svg/metrics-spotify-top-artists.svg" /></a> |
 | --- |
+</div>
+
+<div align="center">
 
 ## Tools 🤖 Technologies
 
@@ -127,14 +124,16 @@ In my spare time, I am drawn to a diverse range of hobbies and interests, for ex
 <a href="https://www.typescriptlang.org/"><img src="assets/icons/typescript.svg" alt="typescript" width="48px" /></a>
 <a href="https://vitejs.dev/"><img src="assets/icons/vite.svg" alt="vite" width="48px" /></a>
 <a href="https://www.getzola.org/"><img src="assets/icons/zola.ico" alt="vite" width="48px" /></a>
+</div>
 
 <hr />
+
+<div align="center">
 
 <p>With 💜 from <a href="https://www.instagram.com/reel/BVRFeF8h2m3/" target="_blank">Minne</a><a href="https://www.instagram.com/reel/Bhl7n_oH1av/" target="_blank">sota</a>.</p>
 
 <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Fsemanticdata%2Fsemanticdata.json&label=Visitors&color=palepink" alt="Unique visitor counter" />
 <br />
 <a href="https://www.timeanddate.com/moon/phases/" target="_blank">
-<img src="https://moon-svg.minung.dev/moon.svg?theme=basic&rotate=45" width="50px" alt="today's moon" />
-</a>
+<img src="https://moon-svg.minung.dev/moon.svg?theme=basic&rotate=45" width="50px" alt="today's moon" /></a>
 </div>
