@@ -1,7 +1,6 @@
 name: Update GitHub Languages SVG
 
 on:
-on:
   # runs every Monday at 08:35
   schedule: [{ cron: "35 8 * * 1" }]
   workflow_dispatch:
