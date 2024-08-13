@@ -6,7 +6,7 @@
 
 I think a lot, work a lot, have existential crises, and know just enough about making websites to make me dangerous. I enjoy writing, reading, coding, listening to music, and love having a problem to solve.
 
-Visit [MiguelPimentel.do](https://miguelpimentel.do/) to learn more about me.
+Visit [MiguelPimentel.do](https://miguelpimentel.do/) to learn more [about me](https://miguelpimentel.do/about/), read my [blog](https://miguelpimentel.do/blog/), or to follow any of my [tutorials](https://miguelpimentel.do/tutorials/).
 </div>
 
 <div align="center">
@@ -21,30 +21,6 @@ Visit [MiguelPimentel.do](https://miguelpimentel.do/) to learn more about me.
 <a href="https://en.wikipedia.org/wiki/Public_infrastructure"><img alt="Static Badge" height="28px" src="https://img.shields.io/badge/Public%20Infrastructure-gray?style=flat-square"></a>
 <a href="https://maggieappleton.com/garden-history"><img alt="Static Badge" height="28px" src="https://img.shields.io/badge/Digital%20Gardening-rebeccapurple?style=flat-square"></a>
 <a href="https://en.wikipedia.org/wiki/Materials_science"><img alt="Static Badge" height="28px" src="https://img.shields.io/badge/Materials%20Science-A0153E?style=flat-square"></a>
-</div>
-
-<div align="center">
-
-## GitHub 📊 Stats
-
-| <img width="550px" src="assets/svg/metrics-gh-base.svg" alt="basic info"> |
-| :---: |
-
-| <img width="550px" src="assets/svg/metrics-gh-recent-activity.svg" alt="recent activity"> |
-| :---: |
-
-<!--
-| <img width="550px" src="assets/svg/metrics-gh-mild-facts.svg" alt="mild facts"> |
-| :---: |
--->
-
-| <img width="550px" src="assets/svg/metrics-gh-notable-contributions.svg" alt="notable contributions"> |
-| :---: |
-
-| <img width="550px" src="assets/svg/metrics-gh-languages.svg" alt="languages"> |
-| :---: |
-
-<img src="https://streak-stats.demolab.com?user=semanticdata&theme=material-palenight&mode=weekly&hide_longest_streak=false&border_radius=6" alt="img" width="580px" />
 </div>
 
 <div align="center">
@@ -79,9 +55,34 @@ Visit [MiguelPimentel.do](https://miguelpimentel.do/) to learn more about me.
 
 </div>
 
+<div align="center">
+
+## GitHub 📊 Stats
+
+| <img width="550px" src="assets/svg/metrics-gh-base.svg" alt="basic info"> |
+| :---: |
+
+| <img width="550px" src="assets/svg/metrics-gh-recent-activity.svg" alt="recent activity"> |
+| :---: |
+
+<!--
+| <img width="550px" src="assets/svg/metrics-gh-mild-facts.svg" alt="mild facts"> |
+| :---: |
+-->
+
+| <img width="550px" src="assets/svg/metrics-gh-notable-contributions.svg" alt="notable contributions"> |
+| :---: |
+
+| <img width="550px" src="assets/svg/metrics-gh-languages.svg" alt="languages"> |
+| :---: |
+
+<img src="https://streak-stats.demolab.com?user=semanticdata&theme=material-palenight&mode=weekly&hide_longest_streak=false&border_radius=6" alt="img" width="580px" />
+
 <!-- ![img](https://github-readme-stats.vercel.app/api/top-langs/?username=semanticdata&hide=markdown&layout=compact&theme=material-palenight)
 ![img](https://github-readme-stats.vercel.app/api?username=semanticdata&show_icons=true&theme=material-palenight&hide_rank=true&border_radius=6)
 ![img](https://streak-stats.demolab.com?user=semanticdata&theme=material-palenight&mode=weekly&hide_longest_streak=false&border_radius=6) -->
+
+</div>
 
 <div align="center">
 
