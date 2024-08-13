@@ -44,44 +44,22 @@ In my spare time, I am drawn to a diverse range of hobbies and interests, for ex
 <img src="https://streak-stats.demolab.com?user=semanticdata&theme=material-palenight&mode=weekly&hide_longest_streak=false&border_radius=6" alt="img" width="580px" />
 
 <div align="center">
-
-## Blog Posts ✍ Tutorials
-
-| **📅 Date** |                                                                         |
-| :---: | :---                                                                                                    |
-| July 22, 2024 | [Publish a Logseq Graph to GitHub Pages](https://miguelpimentel.do/publish-logseq-to-github-pages/) |
-| Jul 01, 2024 | [Adding Pretier to Your Project](https://miguelpimentel.do/adding-prettier-to-your-project/) |
-| Jul 28, 2023 | [Comparing SSD and NVMe Technologies](https://miguelpimentel.do/comparing-ssd-and-nvme-technologies/) |
-| Jul 12, 2023 | [Aurora Borealis Pocket Guide](https://miguelpimentel.do/aurora-borealis-pocket-guide/)                         |
-| Jul 6, 2023  | [Being a Firefighter Does Not Save You From Burnout](https://miguelpimentel.do/on-burning-out/) |
-| Jun 26, 2023 | [Unlock the Sidebar Width in Firefox](https://miguelpimentel.do/unlock-firefox-sidebar/)        |
-| Apr 12, 2023 | [Blogging to Tame the Monkey Mind](https://miguelpimentel.do/monkey-mind/)                      |
-</div>
-
-<!-- ## 📝 Blog Posts -->
-
-<!-- BLOG-POST-LIST:START -->
-<!-- - Jul 6, 2023 · [Being a Firefighter Does Not Save You From Burnout](https://miguelpimentel.do/on-burning-out/) -->
-<!-- - Apr 12, 2023 · [Blogging to Tame the Monkey Mind](https://miguelpimentel.do/monkey-mind/) -->
-<!-- - Mar 18, 2023 · [Hello World!](https://miguelpimentel.do/hello-world/) -->
-<!-- BLOG-POST-LIST:END -->
-
-<!-- ## 📓 Notes -->
-
-<!-- NOTES:START -->
-<!-- - Jul 28, 2023 · [SSD / NVMe Comparison](https://miguelpimentel.do/ssd-nvme-comparison/) -->
-<!-- - Jul 12, 2023 · [Aurora Borealis Sighting](https://miguelpimentel.do/aurora-borealis/) -->
-<!-- NOTES:END -->
-
-<!-- ## 🎓 Tutorials -->
+  
+## 📝 Blog Posts
 
 <table>
-<thead>
-<tr>
-<th>📅 Date</th>
-<th></th>
-</tr>
-</thead>
+<thead><tr><th>📅 Date</th><th></th></tr></thead>
+<tbody>
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
+</tbody>
+</table>
+
+## 🎓 Tutorials
+
+<table>
+<thead><tr><th>📅 Date</th><th></th></tr></thead>
 <tbody>
 <!-- TUTORIALS:START -->
 <tr><th>Jul 29, 2024</th><td><a target='_blank' href='https://miguelpimentel.do/tutorials/04-screenshot-website/'>Consistently Take a Website Screenshot</a></td></tr>
@@ -90,6 +68,15 @@ In my spare time, I am drawn to a diverse range of hobbies and interests, for ex
 <tr><th>Jun 25, 2023</th><td><a target='_blank' href='https://miguelpimentel.do/tutorials/01-unlock-firefox-sidebar/'>Unlock the Sidebar Width in Firefox</a></td></tr><!-- TUTORIALS:END -->
 </tbody>
 </table>
+
+</div>
+
+<!-- ## 📓 Notes -->
+
+<!-- NOTES:START -->
+<!-- - Jul 28, 2023 · [SSD / NVMe Comparison](https://miguelpimentel.do/ssd-nvme-comparison/) -->
+<!-- - Jul 12, 2023 · [Aurora Borealis Sighting](https://miguelpimentel.do/aurora-borealis/) -->
+<!-- NOTES:END -->
 
 <!-- ## 🕒 Recent Activity -->
 
