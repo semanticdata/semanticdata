@@ -135,3 +135,4 @@ Visit [MiguelPimentel.do](https://miguelpimentel.do/) to learn more [about me](h
 <a href="https://www.timeanddate.com/moon/phases/" target="_blank">
 <img src="https://moon-svg.minung.dev/moon.svg?theme=basic&rotate=45" width="50px" alt="today's moon" /></a>
 </div>
+<link rel="me" href="https://mastodon.social/@semanticdata">
