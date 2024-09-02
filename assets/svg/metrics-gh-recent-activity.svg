@@ -23,12 +23,12 @@
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#8 update-about-new-job</span>
+                                        <span class="issue">#11 link to github repo instead of demo</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">semanticdata/personal-website</span></div>
-                                    <div>1 file changed <span class="code">++5 --12</span></div>
+                                    <div>5 files changed <span class="code">++51 --126</span></div>
                                 </div>
                             </section>
                         </div>
@@ -40,12 +40,12 @@
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#8 update-about-new-job</span>
+                                        <span class="issue">#11 link to github repo instead of demo</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">semanticdata/personal-website</span></div>
-                                    <div>1 file changed <span class="code">++5 --12</span></div>
+                                    <div>5 files changed <span class="code">++51 --126</span></div>
                                 </div>
                             </section>
                         </div>
@@ -58,7 +58,7 @@
                                     <div class="content">
                                         Created new
                       branch
-                                        <span class="code">update-about-me</span>
+                                        <span class="code">component-letsconnect</span>
                                         in
                                         <span class="repo">semanticdata/personal-website</span>
                                     </div>
@@ -73,12 +73,12 @@
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#2 remove non sidebar extensions prior to repo rename</span>
+                                        <span class="issue">#9 rework animation and correct el position</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div> in <span class="repo">semanticdata/browser-extensions</span></div>
-                                    <div>65 files changed <span class="code">++2 --1386</span></div>
+                                    <div> in <span class="repo">semanticdata/personal-website</span></div>
+                                    <div>12 files changed <span class="code">++717 --260</span></div>
                                 </div>
                             </section>
                         </div>
@@ -90,12 +90,12 @@
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#2 remove non sidebar extensions prior to repo rename</span>
+                                        <span class="issue">#9 rework animation and correct el position</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div> in <span class="repo">semanticdata/browser-extensions</span></div>
-                                    <div>65 files changed <span class="code">++2 --1386</span></div>
+                                    <div> in <span class="repo">semanticdata/personal-website</span></div>
+                                    <div>12 files changed <span class="code">++717 --260</span></div>
                                 </div>
                             </section>
                         </div>
