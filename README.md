@@ -1,6 +1,5 @@
 <div align="center">
-<a href="https://miguelpimentel.do" target="_blank">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1250&center=true&random=false&lines=Hey+there!+I'm+Miguel+Pimentel." width="480px" /></a>
+<a href="https://miguelpimentel.do" target="_blank"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1250&center=true&random=false&lines=Hey+there!+I'm+Miguel+Pimentel." width="480px" /></a>
 
 ***Self-taught hobby developer with too many ideas and not enough time.***  
 
@@ -13,24 +12,22 @@ Visit [MiguelPimentel.do](https://miguelpimentel.do/) to learn more [about me](h
   
 ## Likes ❤️ Interests
 
-<a href="https://en.wikipedia.org/wiki/Web_development"><img alt="Static Badge" height="28px" src="https://img.shields.io/badge/Web_Development-FF3EA5?style=flat-square"></a>
-<a href="https://en.wikipedia.org/wiki/Static_site_generator"><img alt="Static Badge" height="28px" src="https://img.shields.io/badge/Static%20Site%20Generators-gold?style=flat-square"></a>
-<a href="https://learn.org/articles/What_is_Fire_Science.html"><img alt="Static Badge" height="28px" src="https://img.shields.io/badge/Fire%20Science-red?style=flat-square"></a>
-<a href="https://en.wikipedia.org/wiki/Video_game_development"><img alt="Static Badge" height="28px" src="https://img.shields.io/badge/Game%20Development-836FFF?style=flat-square"></a>
-<a href="https://en.wikipedia.org/wiki/Personal_knowledge_management"><img alt="Static Badge" height="28px" src="https://img.shields.io/badge/Personal%20Knowledge%20Management-darkgreen?style=flat-square"></a>
-<a href="https://en.wikipedia.org/wiki/Public_infrastructure"><img alt="Static Badge" height="28px" src="https://img.shields.io/badge/Public%20Infrastructure-gray?style=flat-square"></a>
-<a href="https://maggieappleton.com/garden-history"><img alt="Static Badge" height="28px" src="https://img.shields.io/badge/Digital%20Gardening-rebeccapurple?style=flat-square"></a>
-<a href="https://en.wikipedia.org/wiki/Materials_science"><img alt="Static Badge" height="28px" src="https://img.shields.io/badge/Materials%20Science-A0153E?style=flat-square"></a>
+<a href="https://en.wikipedia.org/wiki/Web_development" target="_blank"><img alt="Static Badge" height="28px" src="https://img.shields.io/badge/Web_Development-FF3EA5?style=flat-square"></a>
+<a href="https://en.wikipedia.org/wiki/Static_site_generator" target="_blank"><img alt="Static Badge" height="28px" src="https://img.shields.io/badge/Static%20Site%20Generators-gold?style=flat-square"></a>
+<a href="https://learn.org/articles/What_is_Fire_Science.html" target="_blank"><img alt="Static Badge" height="28px" src="https://img.shields.io/badge/Fire%20Science-red?style=flat-square"></a>
+<a href="https://en.wikipedia.org/wiki/Video_game_development" target="_blank"><img alt="Static Badge" height="28px" src="https://img.shields.io/badge/Game%20Development-836FFF?style=flat-square"></a>
+<a href="https://en.wikipedia.org/wiki/Personal_knowledge_management" target="_blank"><img alt="Static Badge" height="28px" src="https://img.shields.io/badge/Personal%20Knowledge%20Management-darkgreen?style=flat-square"></a>
+<a href="https://en.wikipedia.org/wiki/Public_infrastructure" target="_blank"><img alt="Static Badge" height="28px" src="https://img.shields.io/badge/Public%20Infrastructure-gray?style=flat-square"></a>
+<a href="https://maggieappleton.com/garden-history" target="_blank"><img alt="Static Badge" height="28px" src="https://img.shields.io/badge/Digital%20Gardening-rebeccapurple?style=flat-square"></a>
+<a href="https://en.wikipedia.org/wiki/Materials_science" target="_blank"><img alt="Static Badge" height="28px" src="https://img.shields.io/badge/Materials%20Science-A0153E?style=flat-square"></a>
 </div>
 
 <div align="center">
 
-## Blog Posts 📝 Tutorials
-
-<!-- ## 📝 Blog Posts -->
+## 📝 Blog Posts 🎓 Tutorials
 
 <table>
-<thead><tr><th>📅 Date</th><th>Blog Posts</th></tr></thead>
+<thead><tr><th>📅 Date</th><th>📝 Blog Posts</th></tr></thead>
 <tbody>
 <!-- BLOG-POST-LIST:START -->
 <tr><th>Jul 27, 2023</th><td><a target='_blank' href='https://miguelpimentel.do/blog/14-comparing-ssd-nvme/'>Comparing SSD and NVMe Technologies</a></td></tr>
@@ -40,10 +37,8 @@ Visit [MiguelPimentel.do](https://miguelpimentel.do/) to learn more [about me](h
 </tbody>
 </table>
 
-<!-- ## 🎓 Tutorials -->
-
 <table>
-<thead><tr><th>📅 Date</th><th>Tutorials</th></tr></thead>
+<thead><tr><th>📅 Date</th><th>🎓 Tutorials</th></tr></thead>
 <tbody>
 <!-- TUTORIALS:START -->
 <tr><th>Jul 29, 2024</th><td><a target='_blank' href='https://miguelpimentel.do/tutorials/04-screenshot-website/'>Consistently Take a Website Screenshot</a></td></tr>
@@ -78,9 +73,11 @@ Visit [MiguelPimentel.do](https://miguelpimentel.do/) to learn more [about me](h
 
 <img src="https://streak-stats.demolab.com?user=semanticdata&theme=material-palenight&mode=weekly&hide_longest_streak=false&border_radius=6" alt="img" width="580px" />
 
-<!-- ![img](https://github-readme-stats.vercel.app/api/top-langs/?username=semanticdata&hide=markdown&layout=compact&theme=material-palenight)
+<!--
+![img](https://github-readme-stats.vercel.app/api/top-langs/?username=semanticdata&hide=markdown&layout=compact&theme=material-palenight)
 ![img](https://github-readme-stats.vercel.app/api?username=semanticdata&show_icons=true&theme=material-palenight&hide_rank=true&border_radius=6)
-![img](https://streak-stats.demolab.com?user=semanticdata&theme=material-palenight&mode=weekly&hide_longest_streak=false&border_radius=6) -->
+![img](https://streak-stats.demolab.com?user=semanticdata&theme=material-palenight&mode=weekly&hide_longest_streak=false&border_radius=6)
+-->
 
 </div>
 
@@ -127,11 +124,9 @@ Visit [MiguelPimentel.do](https://miguelpimentel.do/) to learn more [about me](h
 <hr />
 
 <div align="center">
-
 <p>With 💜 from <a href="https://www.instagram.com/reel/BVRFeF8h2m3/" target="_blank">Minne</a><a href="https://www.instagram.com/reel/Bhl7n_oH1av/" target="_blank">sota</a>.</p>
 
 <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Fsemanticdata%2Fsemanticdata.json&label=Visitors&color=palepink" alt="Unique visitor counter" />
 <br />
-<a href="https://www.timeanddate.com/moon/phases/" target="_blank">
-<img src="https://moon-svg.minung.dev/moon.svg?theme=basic&rotate=45" width="50px" alt="today's moon" /></a>
+<a href="https://www.timeanddate.com/moon/phases/" target="_blank"><img src="https://moon-svg.minung.dev/moon.svg?theme=basic&rotate=45" width="50px" alt="today's moon" /></a>
 </div>
