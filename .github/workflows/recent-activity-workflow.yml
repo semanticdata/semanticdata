@@ -2,7 +2,7 @@ name: Update Recent Activity (section) in Readme
 
 on:
   # runs every Tuesday at 09:05
-  schedule: [{ cron: "5 9 * * 2" }]
+  # schedule: [{ cron: "5 9 * * 2" }]
   workflow_dispatch:
 
 jobs:
