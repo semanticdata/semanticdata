@@ -1,9 +1,13 @@
 <div align="center">
 <a href="https://miguelpimentel.do" target="_blank"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1250&center=true&random=false&lines=Hey+there!+I'm+Miguel+Pimentel." width="480px" /></a>
 
-***Self-taught hobby developer with too many ideas and not enough time.***  
+***Self-taught hobby developer with too many ideas and not enough time.***
 
 I think a lot, work a lot, have existential crises, and know just enough about making websites to make me dangerous. I enjoy writing, reading, coding, listening to music, and love having a problem to solve.
+
+With a background in engineering project management and a love for coding, I enjoy blending my technical knowledge with curiosity-driven side projects.
+
+When I’m not working, you’ll find me learning new programming languages, experimenting with web development, or digging into the latest trends in public infrastructure.
 
 Visit [MiguelPimentel.do](https://miguelpimentel.do/) to learn more [about me](https://miguelpimentel.do/about/), read my [blog](https://miguelpimentel.do/blog/), or to follow any of my [tutorials](https://miguelpimentel.do/tutorials/).
 </div>
