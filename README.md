@@ -86,6 +86,7 @@ Visit [MiguelPimentel.do](https://miguelpimentel.do/) to learn more [about me](h
 
 </div>
 
+<!--
 <div align="center">
 
 ## Music 🎶 Artists
@@ -93,6 +94,7 @@ Visit [MiguelPimentel.do](https://miguelpimentel.do/) to learn more [about me](h
 | <a href="https://open.spotify.com/user/1216418539" target="_blank"><img width="600px" alt="top artists" src="assets/svg/metrics-spotify-top-artists.svg" /></a> |
 | --- |
 </div>
+-->
 
 <div align="center">
 
