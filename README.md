@@ -34,11 +34,11 @@ Visit [MiguelPimentel.do](https://miguelpimentel.do/) to learn more [about me](h
 <thead><tr><th>📅 Date</th><th>📝 Blog Posts</th></tr></thead>
 <tbody>
 <!-- BLOG-POST-LIST:START -->
-<tr><th>Sep 12, 2024</th><td><a target='_blank' href='https://barebones-phi.vercel.app/blog/undefined/'>10 Fun Facts About the Dominican Republic</a></td></tr>
-<tr><th>Jul 27, 2023</th><td><a target='_blank' href='https://barebones-phi.vercel.app/blog/undefined/'>Comparing SSD and NVMe Technologies</a></td></tr>
-<tr><th>Jul 11, 2023</th><td><a target='_blank' href='https://barebones-phi.vercel.app/blog/undefined/'>Aurora Borealis Pocket Guide</a></td></tr>
-<tr><th>Jul 5, 2023</th><td><a target='_blank' href='https://barebones-phi.vercel.app/blog/undefined/'>Being a Firefighter Does Not Save You From Burnout</a></td></tr>
-<tr><th>Jun 25, 2023</th><td><a target='_blank' href='https://barebones-phi.vercel.app/blog/undefined/'>Tutorial: Unlock the Sidebar Width in Firefox</a></td></tr><!-- BLOG-POST-LIST:END -->
+<tr><th>Sep 12, 2024</th><td><a target='_blank' href='https://miguelpimentel.do/blog/undefined/'>10 Fun Facts About the Dominican Republic</a></td></tr>
+<tr><th>Jul 27, 2023</th><td><a target='_blank' href='https://miguelpimentel.do/blog/undefined/'>Comparing SSD and NVMe Technologies</a></td></tr>
+<tr><th>Jul 11, 2023</th><td><a target='_blank' href='https://miguelpimentel.do/blog/undefined/'>Aurora Borealis Pocket Guide</a></td></tr>
+<tr><th>Jul 5, 2023</th><td><a target='_blank' href='https://miguelpimentel.do/blog/undefined/'>Being a Firefighter Does Not Save You From Burnout</a></td></tr>
+<tr><th>Jun 25, 2023</th><td><a target='_blank' href='https://miguelpimentel.do/blog/undefined/'>Tutorial: Unlock the Sidebar Width in Firefox</a></td></tr><!-- BLOG-POST-LIST:END -->
 </tbody>
 </table>
 
