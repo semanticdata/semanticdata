@@ -1,29 +1,25 @@
 <div align="center">
 <a href="https://miguelpimentel.do" target="_blank"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1250&center=true&random=false&lines=Hey+there!+I'm+Miguel+Pimentel." width="480px" /></a>
 
-***Self-taught hobby developer with too many ideas and not enough time.***
+**_Self-taught hobby developer with too many ideas and not enough time._** I love coding, collaborating, and solving problems. When I'm not working, you'll find me learning new programming languages or experimenting with web development.
 
-I think a lot, work a lot, have existential crises, and know just enough about making websites to make me dangerous. I enjoy writing, reading, coding, listening to music, and love having a problem to solve.
+Visit [MiguelPimentel.do](https://miguelpimentel.do/) to learn more about me, read my blog, or follow my tutorials.
 
-With a background in engineering project management and a love for coding, I enjoy blending my technical knowledge with curiosity-driven side projects.
-
-When I’m not working, you’ll find me learning new programming languages, experimenting with web development, or digging into the latest trends in public infrastructure.
-
-Visit [MiguelPimentel.do](https://miguelpimentel.do/) to learn more [about me](https://miguelpimentel.do/about/), read my [blog](https://miguelpimentel.do/blog/), or to follow any of my [tutorials](https://miguelpimentel.do/tutorials/).
 </div>
 
 <div align="center">
   
-## Likes ❤️ Interests
+## Skills & Interests ❤️🤖
 
-<a href="https://en.wikipedia.org/wiki/Web_development" target="_blank"><img alt="Static Badge" height="28px" src="https://img.shields.io/badge/Web_Development-FF3EA5?style=flat-square"></a>
-<a href="https://en.wikipedia.org/wiki/Static_site_generator" target="_blank"><img alt="Static Badge" height="28px" src="https://img.shields.io/badge/Static%20Site%20Generators-gold?style=flat-square"></a>
+<a href="https://en.wikipedia.org/wiki/Web_development" target="_blank"><img alt="Web Development" height="28px" src="https://img.shields.io/badge/Web_Development-FF3EA5?style=flat-square"></a>
+<a href="https://en.wikipedia.org/wiki/Static_site_generator" target="_blank"><img alt="Static Site Generators" height="28px" src="https://img.shields.io/badge/Static%20Site%20Generators-gold?style=flat-square"></a>
 <a href="https://learn.org/articles/What_is_Fire_Science.html" target="_blank"><img alt="Static Badge" height="28px" src="https://img.shields.io/badge/Fire%20Science-red?style=flat-square"></a>
 <a href="https://en.wikipedia.org/wiki/Video_game_development" target="_blank"><img alt="Static Badge" height="28px" src="https://img.shields.io/badge/Game%20Development-836FFF?style=flat-square"></a>
 <a href="https://en.wikipedia.org/wiki/Personal_knowledge_management" target="_blank"><img alt="Static Badge" height="28px" src="https://img.shields.io/badge/Personal%20Knowledge%20Management-darkgreen?style=flat-square"></a>
 <a href="https://en.wikipedia.org/wiki/Public_infrastructure" target="_blank"><img alt="Static Badge" height="28px" src="https://img.shields.io/badge/Public%20Infrastructure-gray?style=flat-square"></a>
 <a href="https://maggieappleton.com/garden-history" target="_blank"><img alt="Static Badge" height="28px" src="https://img.shields.io/badge/Digital%20Gardening-rebeccapurple?style=flat-square"></a>
 <a href="https://en.wikipedia.org/wiki/Materials_science" target="_blank"><img alt="Static Badge" height="28px" src="https://img.shields.io/badge/Materials%20Science-A0153E?style=flat-square"></a>
+
 </div>
 
 <div align="center">
@@ -59,42 +55,39 @@ Visit [MiguelPimentel.do](https://miguelpimentel.do/) to learn more [about me](h
 
 ## GitHub 📊 Stats
 
-| <img width="550px" src="assets/svg/metrics-gh-base.svg" alt="basic info"> |
-| :---: |
+| <img width="500px" src="assets/svg/metrics-gh-base.svg" alt="basic info"> |
+| :-----------------------------------------------------------------------: |
 
-| <img width="550px" src="assets/svg/metrics-gh-recent-activity.svg" alt="recent activity"> |
-| :---: |
+| <img width="500px" src="assets/svg/metrics-gh-recent-activity.svg" alt="recent activity"> |
+| :---------------------------------------------------------------------------------------: |
 
 <!--
 | <img width="550px" src="assets/svg/metrics-gh-mild-facts.svg" alt="mild facts"> |
-| :---: |
--->
+| :---: | -->
 
-| <img width="550px" src="assets/svg/metrics-gh-notable-contributions.svg" alt="notable contributions"> |
-| :---: |
+| <img width="500px" src="assets/svg/metrics-gh-notable-contributions.svg" alt="notable contributions"> |
+| :---------------------------------------------------------------------------------------------------: |
 
-| <img width="550px" src="assets/svg/metrics-gh-languages.svg" alt="languages"> |
-| :---: |
+| <img width="500px" src="assets/svg/metrics-gh-languages.svg" alt="languages"> |
+| :---------------------------------------------------------------------------: |
 
-<img src="https://streak-stats.demolab.com?user=semanticdata&theme=material-palenight&mode=weekly&hide_longest_streak=false&border_radius=6" alt="img" width="580px" />
+<img src="https://streak-stats.demolab.com?user=semanticdata&theme=material-palenight&mode=weekly&hide_longest_streak=false&border_radius=6" alt="img" width="500px" />
 
 <!--
 ![img](https://github-readme-stats.vercel.app/api/top-langs/?username=semanticdata&hide=markdown&layout=compact&theme=material-palenight)
 ![img](https://github-readme-stats.vercel.app/api?username=semanticdata&show_icons=true&theme=material-palenight&hide_rank=true&border_radius=6)
-![img](https://streak-stats.demolab.com?user=semanticdata&theme=material-palenight&mode=weekly&hide_longest_streak=false&border_radius=6)
--->
+![img](https://streak-stats.demolab.com?user=semanticdata&theme=material-palenight&mode=weekly&hide_longest_streak=false&border_radius=6) -->
 
 </div>
 
-<!--
 <div align="center">
 
 ## Music 🎶 Artists
 
-| <a href="https://open.spotify.com/user/1216418539" target="_blank"><img width="600px" alt="top artists" src="assets/svg/metrics-spotify-top-artists.svg" /></a> |
-| --- |
+| <a href="https://open.spotify.com/user/1216418539" target="_blank"><img width="500px" alt="top artists" src="assets/svg/metrics-spotify-top-artists.svg" /></a> |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
 </div>
--->
 
 <div align="center">
 
@@ -126,6 +119,7 @@ Visit [MiguelPimentel.do](https://miguelpimentel.do/) to learn more [about me](h
 <a href="https://www.typescriptlang.org/"><img src="assets/icons/typescript.svg" alt="typescript" width="48px" /></a>
 <a href="https://vitejs.dev/"><img src="assets/icons/vite.svg" alt="vite" width="48px" /></a>
 <a href="https://www.getzola.org/"><img src="assets/icons/zola.ico" alt="vite" width="48px" /></a>
+
 </div>
 
 <hr />
