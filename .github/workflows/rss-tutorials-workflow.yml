@@ -2,7 +2,7 @@ name: Update Tutorials RSS Feed in README
 
 on:
   # runs every day at 05:24
-  schedule: [{ cron: "24 5 * * *" }]
+  # schedule: [{ cron: "24 5 * * *" }]
   workflow_dispatch:
 
 permissions:

@@ -2,7 +2,7 @@ name: Update GitHub Mildly Interesting Facts SVG
 
 on:
   # runs every Tuesday at 08:45
-  schedule: [{ cron: "45 8 * * 2" }]
+  # schedule: [{ cron: "45 8 * * 2" }]
   workflow_dispatch:
 
 permissions:
