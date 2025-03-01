@@ -24,10 +24,10 @@ Visit [MiguelPimentel.do](https://miguelpimentel.do/) to learn more about me, re
 
 <div align="center">
 
-## 📝 Blog Posts 🎓 Tutorials
+## 📝 Blog Posts
 
 <table>
-<thead><tr><th>📅 Date</th><th>📝 Blog Posts</th></tr></thead>
+<thead><tr><th>📅 Date</th><th>📝 Posts</th></tr></thead>
 <tbody>
 <!-- BLOG-POST-LIST:START -->
 <tr><th>Sep 12, 2024</th><td><a target='_blank' href='https://miguelpimentel.do/blog/2024-09-12-dominican-fun-facts/'>10 Fun Facts About the Dominican Republic</a></td></tr>
@@ -35,17 +35,6 @@ Visit [MiguelPimentel.do](https://miguelpimentel.do/) to learn more about me, re
 <tr><th>Jul 11, 2023</th><td><a target='_blank' href='https://miguelpimentel.do/blog/2023-07-11-aurora-borealis/'>Aurora Borealis Pocket Guide</a></td></tr>
 <tr><th>Jul 5, 2023</th><td><a target='_blank' href='https://miguelpimentel.do/blog/2023-07-05-on-burnout/'>Being a Firefighter Does Not Save You From Burnout</a></td></tr>
 <tr><th>Jun 25, 2023</th><td><a target='_blank' href='https://miguelpimentel.do/blog/2023-06-25-unlock-firefox-sidebar/'>Unlock the Sidebar Width in Firefox</a></td></tr><!-- BLOG-POST-LIST:END -->
-</tbody>
-</table>
-
-<table>
-<thead><tr><th>📅 Date</th><th>🎓 Tutorials</th></tr></thead>
-<tbody>
-<!-- TUTORIALS:START -->
-<tr><th>Jul 29, 2024</th><td><a target='_blank' href='https://miguelpimentel.do/tutorials/04-screenshot-website/'>Consistently Take a Website Screenshot</a></td></tr>
-<tr><th>Jul 22, 2024</th><td><a target='_blank' href='https://miguelpimentel.do/tutorials/03-publish-logseq-github-pages/'>Publish a Logseq Graph to GitHub Pages</a></td></tr>
-<tr><th>Jul 1, 2024</th><td><a target='_blank' href='https://miguelpimentel.do/tutorials/02-adding-prettier/'>Adding Prettier to Your Node Project</a></td></tr>
-<tr><th>Jun 25, 2023</th><td><a target='_blank' href='https://miguelpimentel.do/tutorials/01-unlock-firefox-sidebar/'>Unlock the Sidebar Width in Firefox</a></td></tr><!-- TUTORIALS:END -->
 </tbody>
 </table>
 
