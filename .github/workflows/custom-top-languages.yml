@@ -1,0 +1,31 @@
+name: Fetch Top Languages SVG
+
+on:
+  workflow_dispatch:
+
+jobs:
+  fetch-svg:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Create assets directory
+        run: mkdir -p assets/svg
+
+      - name: Fetch Top Languages SVG
+        run: |
+          curl -o assets/svg/top-langs.svg "https://github-readme-stats.vercel.app/api/top-langs/?username=semanticdata&layout=pie&theme=material-palenight&hide_border=true"
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add assets/svg/top-langs.svg
+          # Check if there are changes to commit
+          if ! git diff --staged --quiet; then
+            git commit -m "Update top languages SVG"
+            git push
+          else
+            echo "No changes to commit."
+          fi
