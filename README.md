@@ -57,7 +57,7 @@ Visit [MiguelPimentel.do](https://miguelpimentel.do/) to learn more about me, re
 | <img width="500px" src="assets/svg/metrics-gh-notable-contributions.svg" alt="notable contributions"> |
 | :---------------------------------------------------------------------------------------------------: |
 
-| <img width="500px" src="assets/svg/metrics-gh-languages.svg" alt="languages"> |
+| <img width="250px" src="assets/svg/top-langs.svg" alt="languages"> |
 | :---------------------------------------------------------------------------: |
 
 <img src="https://streak-stats.demolab.com?user=semanticdata&theme=material-palenight&mode=weekly&hide_longest_streak=false&border_radius=6" alt="img" width="500px" />
