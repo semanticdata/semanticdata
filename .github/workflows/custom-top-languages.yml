@@ -15,7 +15,7 @@ jobs:
 
       - name: Fetch Top Languages SVG
         run: |
-          curl -o assets/svg/top-langs.svg "https://github-readme-stats.vercel.app/api/top-langs/?username=semanticdata&layout=pie&theme=material-palenight&hide_border=true&hide=markdown"
+          curl -o assets/svg/top-langs.svg "https://github-readme-stats-ruby-xi.vercel.app/api/top-langs/?username=semanticdata&layout=pie&theme=material-palenight&hide_border=true&hide=markdown"
 
       - name: Commit and push changes
         run: |
