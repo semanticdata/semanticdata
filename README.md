@@ -11,14 +11,14 @@ Visit [MiguelPimentel.do](https://miguelpimentel.do/) to learn more about me, re
   
 ## Skills & Interests ❤️🤖
 
-<a href="https://en.wikipedia.org/wiki/Web_development" target="_blank"><img alt="Web Development" height="28px" src="https://img.shields.io/badge/Web_Development-FF3EA5?style=flat-square"></a>
-<a href="https://en.wikipedia.org/wiki/Static_site_generator" target="_blank"><img alt="Static Site Generators" height="28px" src="https://img.shields.io/badge/Static%20Site%20Generators-gold?style=flat-square"></a>
-<a href="https://learn.org/articles/What_is_Fire_Science.html" target="_blank"><img alt="Static Badge" height="28px" src="https://img.shields.io/badge/Fire%20Science-red?style=flat-square"></a>
-<a href="https://en.wikipedia.org/wiki/Video_game_development" target="_blank"><img alt="Static Badge" height="28px" src="https://img.shields.io/badge/Game%20Development-836FFF?style=flat-square"></a>
-<a href="https://en.wikipedia.org/wiki/Personal_knowledge_management" target="_blank"><img alt="Static Badge" height="28px" src="https://img.shields.io/badge/Personal%20Knowledge%20Management-darkgreen?style=flat-square"></a>
-<a href="https://en.wikipedia.org/wiki/Public_infrastructure" target="_blank"><img alt="Static Badge" height="28px" src="https://img.shields.io/badge/Public%20Infrastructure-gray?style=flat-square"></a>
-<a href="https://maggieappleton.com/garden-history" target="_blank"><img alt="Static Badge" height="28px" src="https://img.shields.io/badge/Digital%20Gardening-rebeccapurple?style=flat-square"></a>
-<a href="https://en.wikipedia.org/wiki/Materials_science" target="_blank"><img alt="Static Badge" height="28px" src="https://img.shields.io/badge/Materials%20Science-A0153E?style=flat-square"></a>
+<a href="https://en.wikipedia.org/wiki/Web_development" target="_blank"><img alt="Web Development" height="32px" src="https://img.shields.io/badge/Web_Development-FF3EA5?style=flat-square"></a>
+<a href="https://en.wikipedia.org/wiki/Static_site_generator" target="_blank"><img alt="Static Site Generators" height="32px" src="https://img.shields.io/badge/Static%20Site%20Generators-gold?style=flat-square"></a>
+<a href="https://learn.org/articles/What_is_Fire_Science.html" target="_blank"><img alt="Static Badge" height="32px" src="https://img.shields.io/badge/Fire%20Science-red?style=flat-square"></a>
+<a href="https://en.wikipedia.org/wiki/Video_game_development" target="_blank"><img alt="Static Badge" height="32px" src="https://img.shields.io/badge/Game%20Development-836FFF?style=flat-square"></a>
+<a href="https://en.wikipedia.org/wiki/Personal_knowledge_management" target="_blank"><img alt="Static Badge" height="32px" src="https://img.shields.io/badge/Personal%20Knowledge%20Management-darkgreen?style=flat-square"></a>
+<a href="https://en.wikipedia.org/wiki/Public_infrastructure" target="_blank"><img alt="Static Badge" height="32px" src="https://img.shields.io/badge/Public%20Infrastructure-gray?style=flat-square"></a>
+<a href="https://maggieappleton.com/garden-history" target="_blank"><img alt="Static Badge" height="32px" src="https://img.shields.io/badge/Digital%20Gardening-rebeccapurple?style=flat-square"></a>
+<a href="https://en.wikipedia.org/wiki/Materials_science" target="_blank"><img alt="Static Badge" height="32px" src="https://img.shields.io/badge/Materials%20Science-A0153E?style=flat-square"></a>
 
 </div>
 
@@ -44,28 +44,23 @@ Visit [MiguelPimentel.do](https://miguelpimentel.do/) to learn more about me, re
 
 ## GitHub 📊 Stats
 
-| <img width="500px" src="assets/svg/metrics-gh-base.svg" alt="basic info"> |
+| <img width="480px" src="assets/svg/metrics-gh-base.svg" alt="basic info"> |
 | :-----------------------------------------------------------------------: |
 
-| <img width="500px" src="assets/svg/metrics-gh-recent-activity.svg" alt="recent activity"> |
+| <img width="480px" src="assets/svg/metrics-gh-recent-activity.svg" alt="recent activity"> |
 | :---------------------------------------------------------------------------------------: |
 
 <!--
 | <img width="550px" src="assets/svg/metrics-gh-mild-facts.svg" alt="mild facts"> |
-| :---: | -->
+| :---: |
+-->
 
-| <img width="500px" src="assets/svg/metrics-gh-notable-contributions.svg" alt="notable contributions"> |
+| <img width="480px" src="assets/svg/metrics-gh-notable-contributions.svg" alt="notable contributions"> |
 | :---------------------------------------------------------------------------------------------------: |
 
-| <img width="250px" src="assets/svg/top-langs.svg" alt="languages"> |
-| :---------------------------------------------------------------------------: |
-
-<img src="https://streak-stats.demolab.com?user=semanticdata&theme=material-palenight&mode=weekly&hide_longest_streak=false&border_radius=6" alt="img" width="500px" />
-
-<!--
-![img](https://github-readme-stats.vercel.app/api/top-langs/?username=semanticdata&hide=markdown&layout=compact&theme=material-palenight)
-![img](https://github-readme-stats.vercel.app/api?username=semanticdata&show_icons=true&theme=material-palenight&hide_rank=true&border_radius=6)
-![img](https://streak-stats.demolab.com?user=semanticdata&theme=material-palenight&mode=weekly&hide_longest_streak=false&border_radius=6) -->
+<img src="https://streak-stats.demolab.com?user=semanticdata&theme=material-palenight&mode=weekly&hide_longest_streak=false&border_radius=6" alt="img" width="480px" />
+<br />
+<img width="280px" src="assets/svg/top-langs.svg" alt="languages">
 
 </div>
 
@@ -83,23 +78,16 @@ Visit [MiguelPimentel.do](https://miguelpimentel.do/) to learn more about me, re
 ## Tools 🤖 Technologies
 
 <a href="https://astro.build/"><img src="assets/icons/astro.svg" alt="astro" width="48px" /></a>
-<a href="https://bulma.io/"><img src="assets/icons/bulma.svg" alt="vite" height="48px" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="assets/icons/css.svg" alt="css" width="48px" /></a>
 <a href="https://www.docker.com/"><img src="assets/icons/docker.svg" alt="docker" width="48px" /></a>
-<a href="https://11ty.dev/"><img src="assets/icons/eleventy.svg" alt="vite" width="48px" /></a>
-<a href="https://www.git-scm.com/"><img src="assets/icons/git.svg" alt="vite" width="48px" /></a>
 <a href="https://godotengine.org/"><img src="assets/icons/godot.svg" alt="godot" width="48px" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="assets/icons/html.svg" alt="html" width="48px" /></a>
-<a href="https://typicode.github.io/husky/"><img src="assets/icons/husky.svg" alt="husky" width="48px" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="assets/icons/javascript.svg" alt="javascript" width="48px" /></a>
 <a href="https://love2d.org/"><img src="assets/icons/love.ico" alt="vite" width="48px" /></a>
 <a href="https://lua.org/"><img src="assets/icons/lua.svg" alt="lua" width="48px" /></a>
-<a href="https://www.markdownguide.org/"><img src="assets/icons/markdown.svg" alt="markdown" width="48px" /></a>
 <a href="https://neovim.io/"><img src="assets/icons/neovim.svg" alt="vite" width="48px" /></a>
-<a href="https://mozilla.github.io/nunjucks/"><img src="assets/icons/nunjucks.svg" alt="nunjucks" width="48px" /></a>
 <a href="https://obsidian.md/"><img src="assets/icons/obsidian.svg" alt="obsidian" width="48px" /></a>
 <a href="https://pnpm.io/"><img src="assets/icons/pnpm.svg" alt="pnpm" width="48px" /></a>
-<a href="https://postcss.org/"><img src="assets/icons/postcss.svg" alt="postcss" width="48px" /></a>
 <a href="https://prettier.io/"><img src="assets/icons/prettier.svg" alt="prettier" width="48px" /></a>
 <a href="https://www.python.org/"><img src="assets/icons/python.svg" alt="vite" width="48px" /></a>
 <a href="https://sass-lang.com/"><img src="assets/icons/sass.svg" alt="sass" width="48px" /></a>
@@ -111,12 +99,14 @@ Visit [MiguelPimentel.do](https://miguelpimentel.do/) to learn more about me, re
 
 </div>
 
-<hr />
-
 <div align="center">
+<br />
 <p>With 💜 from <a href="https://www.instagram.com/reel/BVRFeF8h2m3/" target="_blank">Minne</a><a href="https://www.instagram.com/reel/Bhl7n_oH1av/" target="_blank">sota</a>.</p>
 
-<img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Fsemanticdata%2Fsemanticdata.json&label=Visitors&color=palepink" alt="Unique visitor counter" />
-<br />
 <a href="https://www.timeanddate.com/moon/phases/" target="_blank"><img src="https://moon-svg.minung.dev/moon.svg?theme=basic&rotate=45" width="50px" alt="today's moon" /></a>
+<br />
+
+| <img src="https://widgetbite.com/stats/semanticdata" alt="profile visitor counter" /> |
+| --- |
+
 </div>
