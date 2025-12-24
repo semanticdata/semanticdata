@@ -30,11 +30,11 @@ Visit [MiguelPimentel.do](https://miguelpimentel.do/) to learn more about me, re
 <thead><tr><th>📅 Date</th><th>📝 Posts</th></tr></thead>
 <tbody>
 <!-- BLOG-POST-LIST:START -->
-<tr><th>Dec 17, 2025</th><td><a target='_blank' href='https://miguelpimentel.do/blog/2025-12-17-adding-snow-fall-with-is-land/'>Adding Snow, Keeping Warm: Using is-land Responsibly</a></td></tr>
+<tr><th>Dec 23, 2025</th><td><a target='_blank' href='https://miguelpimentel.do/blog/2025-12-23-adopt-a-drain-introduction/'>The Adopt-a-Drain Dashboard</a></td></tr>
+<tr><th>Dec 17, 2025</th><td><a target='_blank' href='https://miguelpimentel.do/blog/2025-12-17-adding-snow-fall-with-is-land/'>Adding Snow, Keeping Warm: Using &lt;is-land&gt; Responsibly</a></td></tr>
 <tr><th>Dec 11, 2025</th><td><a target='_blank' href='https://miguelpimentel.do/blog/2025-12-11-solving-blinking-view-transitions/'>Solving Blinking View Transitions &lpar;Featured on Piccalilli&rpar;</a></td></tr>
 <tr><th>Dec 9, 2025</th><td><a target='_blank' href='https://miguelpimentel.do/blog/2025-12-09-when-gratitude-rings/'>When Gratitude Rings</a></td></tr>
-<tr><th>Dec 7, 2025</th><td><a target='_blank' href='https://miguelpimentel.do/blog/2025-12-07-vscode-regex/'>VS Code Regex: Conditional Find and Replace</a></td></tr>
-<tr><th>Sep 15, 2025</th><td><a target='_blank' href='https://miguelpimentel.do/blog/2025-09-15-when-being-wrong-goes-right/'>When Being Wrong Goes Right</a></td></tr><!-- BLOG-POST-LIST:END -->
+<tr><th>Dec 7, 2025</th><td><a target='_blank' href='https://miguelpimentel.do/blog/2025-12-07-vscode-regex/'>VS Code Regex: Conditional Find and Replace</a></td></tr><!-- BLOG-POST-LIST:END -->
 </tbody>
 </table>
 
