@@ -34,7 +34,12 @@ Visit [MiguelPimentel.do](https://miguelpimentel.do/) to learn more about me, re
 <tr><th>Dec 17, 2025</th><td><a target='_blank' href='https://miguelpimentel.do/blog/2025-12-17-adding-snow-fall-with-is-land/'>Adding Snow, Keeping Warm: Using &lt;is-land&gt; Responsibly</a></td></tr>
 <tr><th>Dec 11, 2025</th><td><a target='_blank' href='https://miguelpimentel.do/blog/2025-12-11-solving-blinking-view-transitions/'>Solving Blinking View Transitions &lpar;Featured on Piccalilli&rpar;</a></td></tr>
 <tr><th>Dec 9, 2025</th><td><a target='_blank' href='https://miguelpimentel.do/blog/2025-12-09-when-gratitude-rings/'>When Gratitude Rings</a></td></tr>
-<tr><th>Dec 7, 2025</th><td><a target='_blank' href='https://miguelpimentel.do/blog/2025-12-07-vscode-regex/'>VS Code Regex: Conditional Find and Replace</a></td></tr><!-- BLOG-POST-LIST:END -->
+<tr><th>Dec 7, 2025</th><td><a target='_blank' href='https://miguelpimentel.do/blog/2025-12-07-vscode-regex/'>VS Code Regex: Conditional Find and Replace</a></td></tr>
+<tr><th>Sep 15, 2025</th><td><a target='_blank' href='https://miguelpimentel.do/blog/2025-09-15-when-being-wrong-goes-right/'>When Being Wrong Goes Right</a></td></tr>
+<tr><th>Sep 9, 2025</th><td><a target='_blank' href='https://miguelpimentel.do/blog/2025-09-09-actual-problem-solving-rituals/'>My Actual Problem-Solving Rituals</a></td></tr>
+<tr><th>Aug 17, 2025</th><td><a target='_blank' href='https://miguelpimentel.do/blog/2025-08-17-pomobar-introduction/'>PomoBar for Obsidian</a></td></tr>
+<tr><th>Jul 31, 2025</th><td><a target='_blank' href='https://miguelpimentel.do/blog/2025-07-31-building-in-silence/'>Building in Silence</a></td></tr>
+<tr><th>Sep 12, 2024</th><td><a target='_blank' href='https://miguelpimentel.do/blog/2024-09-12-dominican-fun-facts/'>10 Fun Facts About the Dominican Republic</a></td></tr><!-- BLOG-POST-LIST:END -->
 </tbody>
 </table>
 
