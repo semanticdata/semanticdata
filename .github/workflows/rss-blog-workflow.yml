@@ -21,5 +21,5 @@ jobs:
           feed_list: "https://miguelpimentel.do/rss.xml"
           template: "$newline<tr><th>$date</th><td><a target='_blank' href='$url'>$title</a></td></tr>"
           date_format: "mmm d, yyyy"
+          max_post_count: "10"
           # feed_names: "Blog"
-          # max_post_count: "5"
