@@ -17,7 +17,26 @@ _Self-taught hobby developer with too many ideas and not enough time._
 
 I love coding, collaborating, and solving problems. When I'm not working, you'll find me learning new programming languages or experimenting with web development.
 
-🌐 [MiguelPimentel.do](https://miguelpimentel.do/) | 💖 [database.omg.lol](https://database.omg.lol/)
+🌐 [MiguelPimentel.do](https://miguelpimentel.do/) | 💖 [database.omg.lol](https://database.omg.lol/) | 🌿 [ForgetfulNotes.com](https://github.com/semanticdata/forgetful-notes)
+
+## Current Projects
+
+- ℹ️ [Influx](https://github.com/jensmtg/influx) - Transform Obsidian backlinks into excerpts (maintainer)
+- 🍅 [PomoBar](https://github.com/semanticdata/obsidian-pomodoro) - Minimalist Pomodoro timer that lives in your Obsidian status bar
+- 🎵 [Crucial Tracks Now](https://source.tube/database/crucial-tracks-now) - JavaScript widget to display your latest Crucial Tracks on your website
+- 🎵 [Libre.fm Now](https://source.tube/database/libre-fm-now) - JavaScript widget to display your latest Libre.fm scrobbles on your website
+- 📝 [NoteKeeper](https://github.com/semanticdata/notekeeper) - Firefox extension that transforms the New Tab into a minimalist, auto-saving text editor
+- 🔖 [New Tab Bookmarks](https://github.com/semanticdata/new-tab-bookmarks) - New tab replacement for your browser focused on your bookmarks bar
+- 🔮 [Obsidian Starter](https://github.com/semanticdata/obsidian-starter-vault) - Opinionated, pre-configured Obsidian starter vault
+- 📊 [StatBar](https://github.com/semanticdata/obsidian-statbar) - Minimalist Obsidian status bar note stats
+- 🦎 [Mabuya](https://github.com/semanticdata/mabuya) - Lightweight Zola theme for creating fast, SEO-optimized blogs
+- 📚 [Zola Minimal](https://github.com/semanticdata/zola-minimal) - Zola port of the Jekyll theme with the same name
+- 🗒️ [PastePad](https://github.com/semanticdata/pastepad) - VS Code extension to manage your paste.lol pastebin
+
+## Archived Projects
+
+- 🚦 [Traffic Studies](https://github.com/semanticdata/traffic-studies) - Comprehensive traffic analysis dashboard for Crystal, Minnesota
+- 💦 [Adopt-a-Drain](https://github.com/semanticdata/adopt-a-drain) - Dashboard for the Adopt-a-Drain program in Crystal, Minnesota
 
 ## Latest Blog Posts
 
@@ -32,6 +51,11 @@ I love coding, collaborating, and solving problems. When I'm not working, you'll
 - <a target='_blank' href='https://miguelpimentel.do/blog/2025-08-17-pomobar-introduction/'>PomoBar for Obsidian</a>
 - <a target='_blank' href='https://miguelpimentel.do/blog/2025-07-31-building-in-silence/'>Building in Silence</a>
 - <a target='_blank' href='https://miguelpimentel.do/blog/2024-09-12-dominican-fun-facts/'>10 Fun Facts About the Dominican Republic</a><!-- BLOG-POST-LIST:END -->
+
+### 📌 Pinned
+
+- [Why are my view transitions blinking?](https://piccalil.li/blog/why-are-my-view-transitions-blinking/)
+- [Being a Firefighter Does Not Save You From Burnout](https://miguelpimentel.do/blog/2023-07-05-on-burnout/)
 
 ## GitHub Stats
 
