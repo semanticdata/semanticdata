@@ -19,7 +19,9 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://miguelpimentel.do/rss.xml"
-          template: "$newline<tr><th>$date</th><td><a target='_blank' href='$url'>$title</a></td></tr>"
+          # template: "$newline<tr><th>$date</th><td><a target='_blank' href='$url'>$title</a></td></tr>"
+          # template: "$newline- $date - <a target='_blank' href='$url'>$title</a>"
+          template: "$newline- <a target='_blank' href='$url'>$title</a>"
           date_format: "mmm d, yyyy"
           max_post_count: "10"
           # feed_names: "Blog"

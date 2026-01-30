@@ -2,7 +2,7 @@ name: Update Spotify - Top 10 (Tracks)
 
 on:
   # runs every Wednesday at 09:25
-  schedule: [{ cron: "25 8 * * 3" }]
+  # schedule: [{ cron: "25 8 * * 3" }]
   workflow_dispatch:
 
 permissions:
