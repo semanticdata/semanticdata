@@ -22,17 +22,16 @@ I love coding, collaborating, and solving problems. When I'm not working, you'll
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- Dec 23, 2025 - <a target='_blank' href='https://miguelpimentel.do/blog/2025-12-23-adopt-a-drain-introduction/'>The Adopt-a-Drain Dashboard</a>
-- Dec 17, 2025 - <a target='_blank' href='https://miguelpimentel.do/blog/2025-12-17-adding-snow-fall-with-is-land/'>Adding Snow, Keeping Warm: Using &lt;is-land&gt; Responsibly</a>
-- Dec 11, 2025 - <a target='_blank' href='https://miguelpimentel.do/blog/2025-12-11-solving-blinking-view-transitions/'>Solving Blinking View Transitions &lpar;Featured on Piccalilli&rpar;</a>
-- Dec 9, 2025 - <a target='_blank' href='https://miguelpimentel.do/blog/2025-12-09-when-gratitude-rings/'>When Gratitude Rings</a>
-- Dec 7, 2025 - <a target='_blank' href='https://miguelpimentel.do/blog/2025-12-07-vscode-regex/'>VS Code Regex: Conditional Find and Replace</a>
-- Sep 15, 2025 - <a target='_blank' href='https://miguelpimentel.do/blog/2025-09-15-when-being-wrong-goes-right/'>When Being Wrong Goes Right</a>
-- Sep 9, 2025 - <a target='_blank' href='https://miguelpimentel.do/blog/2025-09-09-actual-problem-solving-rituals/'>My Actual Problem-Solving Rituals</a>
-- Aug 17, 2025 - <a target='_blank' href='https://miguelpimentel.do/blog/2025-08-17-pomobar-introduction/'>PomoBar for Obsidian</a>
-- Jul 31, 2025 - <a target='_blank' href='https://miguelpimentel.do/blog/2025-07-31-building-in-silence/'>Building in Silence</a>
-- Sep 12, 2024 - <a target='_blank' href='https://miguelpimentel.do/blog/2024-09-12-dominican-fun-facts/'>10 Fun Facts About the Dominican Republic</a>
-<!-- BLOG-POST-LIST:END -->
+- <a target='_blank' href='https://miguelpimentel.do/blog/2025-12-23-adopt-a-drain-introduction/'>The Adopt-a-Drain Dashboard</a>
+- <a target='_blank' href='https://miguelpimentel.do/blog/2025-12-17-adding-snow-fall-with-is-land/'>Adding Snow, Keeping Warm: Using &lt;is-land&gt; Responsibly</a>
+- <a target='_blank' href='https://miguelpimentel.do/blog/2025-12-11-solving-blinking-view-transitions/'>Solving Blinking View Transitions &lpar;Featured on Piccalilli&rpar;</a>
+- <a target='_blank' href='https://miguelpimentel.do/blog/2025-12-09-when-gratitude-rings/'>When Gratitude Rings</a>
+- <a target='_blank' href='https://miguelpimentel.do/blog/2025-12-07-vscode-regex/'>VS Code Regex: Conditional Find and Replace</a>
+- <a target='_blank' href='https://miguelpimentel.do/blog/2025-09-15-when-being-wrong-goes-right/'>When Being Wrong Goes Right</a>
+- <a target='_blank' href='https://miguelpimentel.do/blog/2025-09-09-actual-problem-solving-rituals/'>My Actual Problem-Solving Rituals</a>
+- <a target='_blank' href='https://miguelpimentel.do/blog/2025-08-17-pomobar-introduction/'>PomoBar for Obsidian</a>
+- <a target='_blank' href='https://miguelpimentel.do/blog/2025-07-31-building-in-silence/'>Building in Silence</a>
+- <a target='_blank' href='https://miguelpimentel.do/blog/2024-09-12-dominican-fun-facts/'>10 Fun Facts About the Dominican Republic</a><!-- BLOG-POST-LIST:END -->
 
 ## GitHub Stats
 
