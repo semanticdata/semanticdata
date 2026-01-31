@@ -10,14 +10,14 @@
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css&logoColor=white)
 ![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
 ![Astro](https://img.shields.io/badge/-Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
-![11ty](https://img.shields.io/badge/-11ty-BC52EE?style=flat-square&logo=eleventy&logoColor=white)
+![11ty](https://img.shields.io/badge/-Eleventy-BC52EE?style=flat-square&logo=eleventy&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 _Self-taught hobby developer with too many ideas and not enough time._
 
 I love coding, collaborating, and solving problems. When I'm not working, you'll find me learning new programming languages or experimenting with web development.
 
-🌐 [MiguelPimentel.do](https://miguelpimentel.do/) | 💖 [database.omg.lol](https://database.omg.lol/) | 🌿 [ForgetfulNotes.com](https://github.com/semanticdata/forgetful-notes)
+🌐 [MiguelPimentel.do](https://miguelpimentel.do/) | 💖 [database.omg.lol](https://database.omg.lol/) | 🌿 [ForgetfulNotes.com](https://forgetfulnotes.com/)
 
 ## Current Projects
 
@@ -93,17 +93,17 @@ I love coding, collaborating, and solving problems. When I'm not working, you'll
 
 ## What I'm Doing
 
-- **Building in public** - Sharing my learning journey through blog posts and tutorials
-- **Experimenting with modern web tech** - Always trying new frameworks and tools
-- **Contributing to open source** - When I find projects that align with my interests
-- **Learning continuously** - Always exploring new programming languages and paradigms
+- 📢 **Building in public** - Sharing my learning journey through blog posts and tutorials
+- 🌐 **Experimenting with modern web tech** - Always trying new frameworks and tools
+- 👥 **Contributing to open source** - When I find projects that align with my interests
+- 🎒 **Learning continuously** - Always exploring new programming languages and paradigms
 
 ## Connect
 
-[![Website](https://img.shields.io/badge/-MiguelPimentel.do-FF5722?style=flat-square&logo=firefox&logoColor=white)](https://miguelpimentel.do/)
-[![SourceTube](https://img.shields.io/badge/-database-181717?style=flat-square&logo=forgejo&logoColor=white)](https://source.tube/database)
-[![Mastodon](https://img.shields.io/badge/-database-181717?style=flat-square&logo=mastodon&logoColor=white)](https://social.lol/@database)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:database@omg.lol)
+[![Blog RSS](https://img.shields.io/badge/MiguelPimentel.do-rebeccapurple?style=flat-square&logo=rss)](https://miguelpimentel.do/rss.xml)
+[![SourceTube](https://img.shields.io/badge/SourceTube-171e26?style=flat-square&logo=forgejo)](https://source.tube/database)
+[![Mastodon](https://img.shields.io/badge/Mastodon-111111?style=flat-square&logo=mastodon)](https://social.lol/@database)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=maildotru&logoColor=white)](mailto:database@omg.lol)
 <!-- [![GitHub](https://img.shields.io/badge/-semanticdata-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/semanticdata) -->
 
 <hr />
