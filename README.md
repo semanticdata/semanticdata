@@ -29,14 +29,15 @@ I love coding, collaborating, and solving problems. When I'm not working, you'll
 - 🔖 [New Tab Bookmarks](https://github.com/semanticdata/new-tab-bookmarks) - New tab replacement for your browser focused on your bookmarks bar
 - 🔮 [Obsidian Starter](https://github.com/semanticdata/obsidian-starter-vault) - Opinionated, pre-configured Obsidian starter vault
 - 📊 [StatBar](https://github.com/semanticdata/obsidian-statbar) - Minimalist Obsidian status bar note stats
-- 🦎 [Mabuya](https://github.com/semanticdata/mabuya) - Lightweight Zola theme for creating fast, SEO-optimized blogs
-- 📚 [Zola Minimal](https://github.com/semanticdata/zola-minimal) - Zola port of the Jekyll theme with the same name
 - 🗒️ [PastePad](https://github.com/semanticdata/pastepad) - VS Code extension to manage your paste.lol pastebin
+- 👾 [Forgejo Activity Heatmap](https://source.tube/database/forgejo-heatmap) - Gamify your SourceTube (Forgejo) activity by generating an SVG.
 
-## Archived Projects
+### Archived Projects
 
 - 🚦 [Traffic Studies](https://github.com/semanticdata/traffic-studies) - Comprehensive traffic analysis dashboard for Crystal, Minnesota
 - 💦 [Adopt-a-Drain](https://github.com/semanticdata/adopt-a-drain) - Dashboard for the Adopt-a-Drain program in Crystal, Minnesota
+- 🦎 [Mabuya](https://github.com/semanticdata/mabuya) - Lightweight Zola theme for creating fast, SEO-optimized blogs
+- 📚 [Zola Minimal](https://github.com/semanticdata/zola-minimal) - Zola port of the Jekyll theme with the same name
 
 ## Latest Blog Posts
 
@@ -52,7 +53,7 @@ I love coding, collaborating, and solving problems. When I'm not working, you'll
 - <a target='_blank' href='https://miguelpimentel.do/blog/2025-07-31-building-in-silence/'>Building in Silence</a>
 - <a target='_blank' href='https://miguelpimentel.do/blog/2024-09-12-dominican-fun-facts/'>10 Fun Facts About the Dominican Republic</a><!-- BLOG-POST-LIST:END -->
 
-### 📌 Pinned
+### Pinned Posts
 
 - [Why are my view transitions blinking?](https://piccalil.li/blog/why-are-my-view-transitions-blinking/)
 - [Being a Firefighter Does Not Save You From Burnout](https://miguelpimentel.do/blog/2023-07-05-on-burnout/)
